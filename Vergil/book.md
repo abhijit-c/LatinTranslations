@@ -4,7 +4,7 @@ date: \today{}
 geometry: margin=1.5cm
 fontsize: 12pt
 header-includes:
-    - \usepackage{baskervald}
+    - \usepackage{baskervald} 
 ---
 
 # Ecloga II
@@ -105,39 +105,80 @@ header-includes:
 5. *adgressi -- nam saepe senex spe carminis ambo luserat -- iniciunt ipsis ex
    uincula sertis.*
 
+   With him having been seized -- for often the old man had teased both parties
+   with the hope of a poem -- they put chains (on him) out of the (his) very
+   wreath.
 
+6. *addit se sociam timidisque superuenit Aegle, Aegle Naiadum pulcherrima,
+   iamque uidenti sanguineis frontem moris et tempora pingit.*
 
+   Aegle, the most beautiful of the nymphs, adds herself, an ally, arrives to
+   the fearful boys, and now seeing (it) she decorates the forehead and temples
+   with bloody things.
 
+7. *ille dolum ridens 'quo uincula necitis?' inquit;*
 
+   that man laughing at the trick said 'why do you tie the chains?' 
 
+8. *'soluite me, pueri;*
 
+   release me, boys;
 
+9. *satis est potuisse uideri.*
 
+   it is satisfactory that you appear to have been able.
 
+10. *carmina quae uoltis cognoscite;* 
 
+    Learn the poems which you desire;
 
+11. *carmina uobis, huic aliud mercedis erit.'*
 
+    the poems are for you, for this there will be other of gifts.
 
+12. *simul incipit ipse.*
 
+    At the same time he himself begins.
 
+13. *tum uero in numerum Faunosque ferasque uideres ludere, tum rigidas motare
+    cacumina quercus;* 
 
+    Then indeed you might see that the Fauns and the wild beasts play in rhythm,
+    that the rigid oak-trees shake the branches;
 
+14. *nec tantum Pheobo gaudet Parnasia rupes nec tantum Rhodope miratur et
+    Ismaros Orphea.*
 
+    Neither does the Parnassian rock rejoice so much for Apollo, nor does
+    Rhodope and Ismaros admire Orphea so much.
 
+## Lines 31-40
 
+1. *Namque canebat uti magnum per inane coacta semina terrarumque animaeque
+   marisque fuissent et liquidi simul ignis;*
 
+   For in fact he was singing that the seeds of earth, wind, sea and at the same
+   time liquid fire had been brought together through the great void.
 
+2. *ut his exordia primis omnia et ipse tener mundi concreuerit orbis;*
 
+   that it grew from all these first elements and the tender globe of the world
+   itself;
 
+3. *tum durare solum et discludere Nerea ponto coeperit et rerum paulatim sumere
+   formas;*
 
+   Then the soil began to harden, began to divide Nerus from the sea and little
+   by little began to assume the forms of things;
 
+4. *iamque nouom terrae stupeant lucescere solem altius atque cadant submotis
+   nubibus imbres,*
 
+   and now let grounds be astounded at the new sun shining and let the rain
+   descend with the clouds having been dislodged more high
 
+5. *incipiant siluae cum primum surgere cumque rara per ignaros errent animalia
+   montis.*
 
-
-
-
-
-
-
-
+   when the first thing of the woods began to grow and when the few animals
+   wandered through the ignorant mountains.
