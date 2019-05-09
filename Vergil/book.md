@@ -91,8 +91,9 @@ header-includes:
 2. *"Chromis et mnasylus in antro Silenum pueri somno videre jacentem, inflatum
    hesterno venas, ut semper, Iaccho";*
 
-    "The boys Chromis and Mnasylus saw Silenum lying with sleep in a cave, veins
-    having been puffed out with yesterday's wine, as always.";
+    "The boys Chromis and Mnasylus saw Silenum lying with sleep in a cave,
+    having been puffed out with respect to veins by means of yesterday's wine,
+    as always.";
 
 3. *Serta procul tantum capiti delapsa jacebant;* 
 
