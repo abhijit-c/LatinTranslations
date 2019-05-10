@@ -13,12 +13,13 @@ header-includes:
    habebat.  Tantum inter densas, umbrosa cacumina, fagos adsidue ueniebat.  Ibi
    haec incondita solus montibus et soluis studio iactabat inani*
 
-   The shepard Corydon was burning for the fair Alexis, the favorite of the master,
+   The shepard Corydon was burning for the fair Alexis, the favorite of the
+   master,
    nor did he have anything to hope for.
-   So all he could do was continually come among the dense beech trees, topped with
-   shadows.
-   There alone he was throwing away these crude things with inane enthusiasm to the
-   mountains and forests.
+   So all he could do was continually come among the dense beech trees, topped
+   with shadows.
+   There alone he was throwing away these crude things with inane enthusiasm to
+   the mountains and forests.
 
 2. *O crudelis Alexi, nihil mea carmina curas?  nil nostri miserere?  mori me
    denique cogis?  nunc etiam pecudes umbras et frigora captant, nunc uirides
@@ -101,7 +102,7 @@ header-includes:
 
 4. *et gravis attrita pendebat cantharus ansa.*
 
-   and his heavy tankard was weighing out by the worn handle.
+   and his heavy tankard was hanging by the worn handle.
 
 5. *adgressi -- nam saepe senex spe carminis ambo luserat -- iniciunt ipsis ex
    uincula sertis.*
@@ -114,8 +115,9 @@ header-includes:
    iamque uidenti sanguineis frontem moris et tempora pingit.*
 
    Aegle, the most beautiful of the nymphs, adds herself, an ally, arrives to
-   the fearful boys, and now seeing (it) she decorates the forehead and temples
-   with bloody things.
+   the fearful boys, 
+   and now while Silenus was seeing she decorates the forehead and temples with
+   bloody mulberries.
 
 7. *ille dolum ridens 'quo uincula necitis?' inquit;*
 
@@ -127,7 +129,7 @@ header-includes:
 
 9. *satis est potuisse uideri.*
 
-   it is satisfactory that you appear to have been able.
+   it is satisfactory that you seem to have been able.
 
 10. *carmina quae uoltis cognoscite;* 
 
@@ -135,7 +137,7 @@ header-includes:
 
 11. *carmina uobis, huic aliud mercedis erit.'*
 
-    the poems are for you, for this there will be other of gifts.
+    you will have poems, she will have other of gifts.'
 
 12. *simul incipit ipse.*
 
@@ -163,14 +165,14 @@ header-includes:
 
 2. *ut his exordia primis omnia et ipse tener mundi concreuerit orbis;*
 
-   that it grew from all these first elements and the tender globe of the world
-   itself;
+   that it grew from all these first beginnings and the very tender globes of
+   the world; 
 
 3. *tum durare solum et discludere Nerea ponto coeperit et rerum paulatim sumere
    formas;*
 
    Then the soil began to harden, began to divide Nerus from the sea and little
-   by little began to assume the forms of things;
+   by little assumed the forms of things;
 
 4. *iamque nouom terrae stupeant lucescere solem altius atque cadant submotis
    nubibus imbres,*
