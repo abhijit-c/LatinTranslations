@@ -1,0 +1,604 @@
+# (XX.) C. Plinius Tacito Suo S.
+
+*Letter to Tacitus of the experience of Pliny and his mother during the
+eruption of Versuvius.*
+
+1. *Ais te adductum litteris quas exigenti tibi de morte avunculi mei scripsi
+   cupere cognoscere quos ego Miseni relictus (id enim ingressus abruperam) non
+   solum metus verum etiam casus pertulerim.*
+
+- *ais* from *aio* is 2nd singular present active indicative, meaning to say.
+- *adductum* from *adduco, adducere, adduxi, adductus* is the p.p.p., meaning to
+  lead up/to/away. This is modifying *te*.
+- *litteris* is a ablative of means.
+- The antecedent of *quas* is *litteris*.
+- *exigenti* from *exigo, exigere, exegi, exactus* is the present active
+  participle, meaning to drive out. This fits with *tibi*. 
+- *avunculi mei* is a genitive of possesion.
+- *scripsi* from *scibo, scribere, scripsi, scriptus* is 1st singular perfect
+  active indicative, meaning to write.
+- *cupere* from *cupio, cupere, cupivi, cupitus* is the present active
+  infinitive, meaning to wish/long/be eager for. I think this sets off indirect
+  speech.
+- *cognoscere* from *cognosco, cognoscere, cognovi, cognitus* is the present
+  active infinitive, meaning to become acquainted with.
+- *Miseni* is Locative.
+- *relictus* from *relinquo, relinquere, reliqui, relictus* is the p.p.p.,
+  meaning to leave behind.
+- *ingressus* from *ingredior, ingredi, ingressus sum* is the perfect
+  participle, meaning to begin.
+- *abruperam* from *abrumpo, abrumpere, abrupi, abruptus* is 1st singular
+  pluperfect active indicatice, meaning to break.
+- *pertulerim* from *perfero, perferre, pertuli, perlatus* is 1st singular
+  perfect active subjunctive, meaning to carry through/endure to the end. This
+  is subjunctive because it's indirect question.
+
+    You say that you desire, having been lead by the letter which I wrote to you
+    demanding about the death of my uncle, to know (For having begun I had broke
+    off it) not only the fears but also the calamaties which I, having been
+    abandoned at Misenum, endured.
+
+2. *'Quamquam animus meminisse horret, incipiam.'*
+
+- Quote from line 4 of the Aeneid.
+- *meminisse* from *memini, meminisse* is the perfect active infinitive, meaning
+  to remember.
+- *horret* from *horreo, horrere, horrui* is 3rd singular present active
+  indicative, meaning to dread.
+- *incipiam* from *incipio, incipere, incepi, inceptus* is 1st singular future
+  active indicative, meaning to begin.
+
+    'although my mind dreads to remember it, I will begin.'
+
+3. *Profecto avunculo ipse reliquum tempus studiis (ideo enim remanseram)
+   inpendi:*
+
+- *profecto* from *proficiscor, proficisci, profectus sum* is the perfect
+  participle, meaning to depart. *profecto avunculo* therefore is ablative
+  absolute.
+- *studiis* is probably dative of reference.
+- *remanseram* from *remaneo, remanere, remanui, remansus* is 1st singular
+  pluperfect active indicative, meaning to remain.
+- When desperately trying to make sense of this sentence, I found in Traupman
+  that *inp = imp*, so then *inpendo* $\to$ *impendo*.
+- *inpendo* from *impendo, impendere, impendi, impensus* is 1st singular perfect
+  active indicative, meaning to spend.
+
+    With uncle having departed I myself spent the remaining time (indeed for the
+    reason that I had remained) on studies.
+
+4. *mox balineum, cena, somnus inquietus et brevis.*
+
+- *asyndeton* describes this phenomina of having no conjunctions (i.e. the *et*
+  we want so dearly)
+
+    Soon bath, dinner, a restless and short sleep.
+
+5. *Praecesserat per multos dies tremor terrae minus formidolosus quia Campaniae
+   solitus.*
+
+- *pracesserat* from *praecedo, praecedere, praecessi, praecessus* is 3rd
+  singular pluperfect active indicative, meaning to go before.
+- *solitus* from *soleo, solere, solitus sum* is the perfect passive participle,
+  meaning to be in the habit of.
+
+    The, less scary because usual at Campania, trembling of the earth
+    had lasted for many days.
+
+6. *Illa vero nocte ita invaluit ut non moveri omnia sed verti crederentur.*
+
+- **Not sure what *vero* is doing here...**
+- *illa vero nocte* is an ablative of time at which.
+- *invaluit* from *invalesco, invalescere, invalui* is 3rd singular perfect
+  active indicative, meaning to grown strong.
+- *moveri* from *moveo, movere, movi, motusu* is the present passive infinitive,
+  meaning to move.
+- *verti* from *verto, vertere, verti, versus* is the present passive
+  infinitive, meaning to turn.
+- *crederentur* from *credo, credere, credidi, creditus* is 3rd plural imperfect
+  passive subjunctive, meaning to believe. This is subjunctive because it's in
+  a result clause introduced by *ut*. Also signified by the *ut*.
+
+    however at that true night therefore it grew stronger so that all things
+    were not believed to not be moved but to be overthrown.
+
+7. *Inrumpit cubiculum meum mater:*
+
+- *inrumpit* from *inrumpo, inrumpere, inrupi, inruptus* is 3rd singular present
+  active indicative, meaning to burst into.
+- Note *meum* goes with *cubiculum* gender wise, but whose other mother would
+  it be.
+
+    My mother burst into my bedroom:
+
+8. *surgebam, invicem, si quiesceret, excitaturus.*
+
+- *surgebam* from *surgo, surgere, surrexi, surrectus* is 1st singular imperfect
+  active indicative, meaning to lift.
+- *quiesceret* from *quiesco, quiescere, quievi, quietus* is 3rd singular
+  imperfect active subjunctive, meaning to rest. This is in the protasis of
+  a present contrary to fact conditional.
+- *excitaturus* from *excito, excitare, excitavi, excitatus* is the future
+  active participle, meaning to wake up
+
+    I was rising, in turn going to wake her up, if she were sleeping.
+
+9. *Residimus in area domus, quae mare a tectis modico spatio dividebat. Dubito
+   constantiam vocare an inprudentiam debeam; agebam enim duodevicesimum annum:
+   posco librum Titi Livi et quasi per otium lego atque etiam, ut coeperam,
+   excerpo.*
+10. *Ecce, amicus avunculi, qui nuper ad eum ex Hispania venerat, ut me et
+    matrem sedentes, me vero etiam legentem videt, illius patientiam,
+    securitatem meam corripit: nihilo segnius ego intentus in librum.*
+11. *Iam hora diei prima, et adhuc dubius et quasi languidus dies.*
+12. *Iam quassatis circumiacentibus tectis, quamquam in aperto loco, angusto
+    tamen, magnus et certus ruinae metus.*
+13. *Tum demum excedere oppido visum: sequitur vulgus attonitum, quodque in
+    pavore simile prudentiae, alienum consilium suo praefert ingentique agmine
+    abeuntis premit et inpellit.*
+14. *Egressi tecta consistimus.*
+15. *Multa ibi miranda, multas formidines patimur.*
+16. *Nam vehicula quae produci iusseramus, quamquam in planissimo campo, in
+    contrarias patres agebantur ac ne lapidibus quidem fulta in eodem vestigio
+    quiescebant.*
+17. *Praeterea mare in se resorberi et tremore terrae quasi repelli videbamus.*
+18. *Certe processerat litus multaque animalia maris siccis harenis detinebat.*
+19. *Ab altero latere nubes atra et horrenda ignei spiritus tortis vibratisque
+    discursibus rupta in longas flammarum figuras dehiscebat: fulguribus illae
+    et similes et maiores erant.*
+
+apo keiou
+
+**October 29**
+
+20. *Tum vero idem ille ex Hispania amicus acrius et instantius 'si frater'
+    inquit 'tuus, tuus avunculus vivit, vult esse vos salvos:'*
+
+- *acriusu* and *instantius* are comparative adverbs, meaning sharply and
+  vehemently respectively. **Review comparative and superlative adverbs.**
+- The notes say something strange here, **ask**.
+- *tuus, tuus* is a chiasmus.
+- *vivit* from *vivo, vivere, vixi, victus* is 3rd singular present active
+  indicative, meaning to live.
+- *vult* from *volo, velle, volui* is 3rd singular present active indicative,
+  meaning to wish. This takes *esse* as a complimentary infinitive.
+
+    Then in truth that same friend from Spain said more sharply and vehemently
+    'if your father, your uncle lives, he wishes you to be safe:'
+
+21. *'si periit, superstites voluit:'*
+
+- *periit* from *pereo, perire, perivi(ii), peritus* is 3rd singular perfect
+  active indicative, meaning to die.
+- I took the *esse vos* from the previous part as implied, and made
+  *superstites* substantative.
+
+    If he has died, he wished you to be a surviving person:
+
+22. *'proinde quid cessatis evadere?'*
+
+- *quid* is the interrogative pronoun here.
+- *cessatis* from *cesso, cessare* is 2nd plural present active indicative,
+  meaning to hold back.
+- *evadere* from *evado, evadere, evasi, evasus* is the present active
+  infinitive, meaning to evade.
+
+    'So then why do you all delay to escape?'
+
+23. *Respondimus non commissuros nos ut de salute illius incerti nostrae
+    consuleremus.*
+
+- *respondimus* from *respondeo, respondere, respondi, responsus* is 1st plural
+  perfect active indicative, meaning to answer.
+- *commissuros* from *committo, committere, commisi, commissus* is the future
+  active participle, meaning to bring together.
+- *consuleremus* from *consulo, consulere, consului, consultus* is 1st plural
+  imperfect active subjunctive, meaning to consult. This is a jussive noun
+  clause. We must also add a *saluti* to fit with this.
+
+    We replied that we would not allow so as to take thought for our safety
+    uncertain concerning the safety of that man. 
+
+24. *Non moratus ultra proripit se effusoque cursu periculo aufertur.*
+
+- *moratus* from *moro, morari, moratus sum* is the perfect participle, meaning
+  to delay.
+- *ultra* here is the adverbial usage, not prepositional.
+- *proripit* from *proripio, proripere, proripui, proreptus* is 3rd singular
+  present active indicative, meaning snatch away.
+- *effuso* from *effundo, effundere, effudi, effusus* is the perfect passive
+  participle, meaning to pour forth.
+- *periculo* is a dative of reference and *effuso cursu* is an ablative of
+  manner.
+- *aufertur* from *aufero, auferre, abstuli, ablatus* is 3rd singular present
+  passive indicative, meaning to bear/carry/take away/off.
+
+    Not having delayed further he drags himself away and is carried away from
+    danger with a grand gallop.
+
+25. *Nec multo post illa nubes descendere in terras, operire maria: cinxerat
+    Capreas et absconderat: Miseni quod procurrit abstulerat.*
+
+- *multo* is an ablative of degree of difference.
+- Note: I cannot put the *multo* into the *post* because it doesn't agree in
+  gender with *illa*.
+- *descendere* from *descendo, descendere, descendi, descensus* is 3rd plural
+  perfect active indicative, meaning to descend.
+- *operire* from *operio, operire, operui, opertus* is the present active
+  infinitive, meaning to cover.
+- Both of the infinitives are historical infinitives.
+- *cinxerat* from *cingo, cingere, cinxi, cinctus* is 3rd singular pluperfect
+  active indicative, meaning to surround.
+- *absconderat* from *abscondo, abscondere, abscondi, absconditus* is 3rd
+  singular pluperfect active indicative, meaning to conceal.
+- Note 24 states that *Miseni quod procurrit* = 'the promontory of Misenum',
+  where Miseni is a partitive genitive. **Don't understand where promontory is
+  coming from**
+- *procurrit* from *procurro, procurrere, pro(cu)curri, procursum* is 3rd
+  singular present active indicative, meaning to jut forth.
+- *abstulerat* from *aufero, auferre, abstuli, ablatus* is 3rd singular
+  pluperfect active indicative, meaning to bear/carry/take away/off.
+- To translate this last part we must insert an *id*. *Miseni* is a locative.
+
+    Nor after those things by much the cloud descended onto the lands, covers
+    the seas: it had surrounded Capri and had concealed it: it had carried away
+    that which juts forth at Misenum.
+
+26. *Tum mater orare, hortari, iubere quoquo modo fugerem; posse enim iuvenem,
+    se et annis et corpore grave bene morituram, si mihi causa mortis non
+    fuisset.*
+
+- This string of infinitives are historical infinitives.
+- *orare* from *oro, orare* is the present active infinitive, meaning to beg.
+- *hortari* from *hortor, hortari, hortatus sum* is the present infinitive,
+  meaning to urge.
+- *iubere* from *iubeo, iubere, iussi, iussus* is the present active infinitive,
+  meaning to order. Normally this takes an infinitive, except in post-classical
+  Latin, which is where Pliny is.
+- *fugerem* is an indirect command.
+- *posse* from *posssum, posse, potui* is the present active infinitve.
+- *annis* and *corpore* are ablative of respect.
+- *morituram* from *morior, moriri, moritus sum* is the future participle,
+  meaning to die.
+- *fuisset* from *sum, esse, fui, futurus* is 3rd singular pluperfect active
+  subjunctive. This is subjunctive because it's in a subordinate inside of
+  indirect speech.
+- Notice that *causa* is predicate nominative.
+
+    Then my mother begged, urged, and ordered me to flee in whichever way; For
+    she was saying that I could as a young man, she both heavy in years and body
+    would die well, if the cause of death for me had not been her.
+
+27. *Ego contra salvum me nisi una non futurum: dein manum eius amplexus, addere
+    gradum cogo.*
+
+- *futurum* from *sum, esse, fui, futurum* is the future active participle,
+  meaning to be.
+- *amplexus* from *aplector, amplecti, amplexus sum* is the perfect participle,
+  meaning to clasp.
+- *addere* from *addo, addere, addidi, additus* is the present active
+  infinitive, meaning to increase.
+- *cogo* from *cogo, cogere, coegi, coactus* is 1st singular present active
+  indicative, meaning to compel.
+
+    I in turn would not be safe unless together: then having clasped her hand,
+    I compel her to increase her pace.
+
+28. *Paret aegre incusatque se quod me moretur.*
+
+- *paret* from *pareo, parere, parui, paritus* is 3rd singular present active
+  indicative, meaning to obey.
+- *incusat* from *incuso, incusare* is 3rd singular present active indicative,
+  meaning to accuse.
+- *moretur* from *moror, morari, moratus sum* is 3rd singular present
+  subjunctive, meaning to delay. This is subjunctive of alleged reason (this
+  usually appears in quod clause).
+  
+    She obeys with difficulty and accusses herself because she delays me.
+
+29. *Iam cinis, adhuc tamen rarus: respicio, densa caligo tergis imminebat, quae
+    nos torentis modo infusa terrae sequebatur.*
+
+- *respicio* from *respicio, respicere, respexi, respectus* is 1st singular
+  present active indicative, meaning to look back at.
+- *imminebat* from *immineo, imminere* is 3rd singular imperfect active
+  indicative, meaning to threaten. This takes a dative, which is why *tergis* is
+  dative.
+- *infusa* from *infundo, infundere, infudi, infusus* is the perfect passive
+  participle, meaning to pour, this takes a dative which is *terrae* here.
+  *infusa terrae* is in the nominative case.
+- *sequebatur* from *sequor, sequi, secutus sum* is 3rd singular imperfect
+  indicative, meaning to follow.
+- *modo* is an ablative of manner.
+
+    Now ash, nevertheless thus far is thin: I look back, the thick darkness was
+    threatening our backs, which was following us having been poured onto the
+    grounds in a manner of a torrent.
+
+30. *'Deflectamus' inquam 'dum videmus ne in via strati comitantium turba in
+    tenebris obteramur.'*
+
+- *deflectamus* from *deflecto, deflectere, deflexi, deflexus* is 1st plural
+  present active subjunctive, meaning to band downward. I think this is an
+  independent usage, namely hortatory.
+- *strati* from *sterno, sternere, stravi, stratus* is the perfect passive
+  participle, meaning to lie flat.
+- *comitantium* from *commeo, commeare, commeavi, commeatus* (this is
+  a frequentitive form) is the present active participle, meaning to a
+- *comitantium* from *comitor, comitari, comitatus sum* is the present active
+  participle, meaning to accompany. In the genitive. This 
+- *obteramur* from *obtero, obterere, obtrivi, obtritus* is 1st plural present
+  passive subjunctive, meaning to crush. This is subjunctive because it's in
+  a negative purpose clause set off by *ne*.
+
+    I said 'Let us change course while we see lest we are flattned by the crowd
+    of those following on the road and we are crushed in the shadows.
+
+31. *Vix consideramus, et nox, non qualis inlunis aut nubila, sed qualis in
+    locis clausis lumine extincto.*
+
+- *consideramus* from *consido, considere* is 1st plural present active
+  indicative, meaning to examine or consider closely.
+- Here *qualis* takes on it's relative meaning, meaning 'like'. I couldn't find
+  a coordinating meaning for *qualis...qualis*.
+- *extincto* from *extinguo, extinguere, extinxi, extinctus* is the perfect
+  passive participle, meaning to extinguish. *lumine extincto* is an ablative
+  absolute.
+
+    We hardly had sat down, when the night, not like moonless or cloudy, but
+    like in enclosed places with the light having been extinguished.
+
+32. *Audires ululatus feminarum, infantum quiritatus, clamores virorum:*
+
+- *Audires* from *audio, audire, audivi, auditus* is 2nd singular imperfect
+  active subjunctive, meaning to hear. This is subjunctive because it's a
+  potential independent usage.
+- Both *feminarum*, *quiritatus* and *vivorum* are subjective genitives.
+
+    You would be hearing the women's shrieks, the children's wails, the men's
+    shouts.
+
+33. *alii parentes, alii liberos, alii coniuges vocibus requirebant, vocibus
+    noscitabant: hi suum casum, illi suorum miserabantur: erant qui metu mortis
+    mortem precarentur: multi ad deos manus tollere, plures nusquam iam deos
+    ullos, aeternamque illam et novissimam noctem mundo interpretabantur.*
+
+- *vocibus* is an ablative of means.
+- *requirebant* from *requiro, requirere, requisivi, requisitus* is 3rd plural
+  imperfect active indicative, meaning to pine for.
+- *noscitabant* from *noscito, noscitare* is 3rd plural imperfect active
+  indicative, meaning to recognize.
+- *miserabantur* from *miseror, miserari, miseratus sum* is 3rd plural
+  imperfect indicative, meaning to pity.
+- *erant* is 3rd plural imperfect active indicative.
+- *metu* is an ablative of cause.
+- *precarentur* from *precor, precari, precatus sum* is 3rd plural imperfect
+  subjunctive, meaning to beg. OK. OKAY. This is a relative clause of
+  characteristic, which can be seen as there is an indefinte antecendent.
+- *tollere* from *tollo, tollere, sustuli, sublatus* is the present active
+  infinitive, meaning to lift. I think this is a historical infinitive.
+- *plures* is the comparative of *multus*.
+- I think there is an implicit *esse* in the sentence, which sets off indirect
+  speech from *interpretabantur*.
+- *mundo* I think is a dative of possesor.
+- *interpretabantur* from *interpretor, interpretari, interpretatus sum* is 3rd
+  plural imperfect indicative, meaning to explain/interpret.
+
+    some were pining for parents, others children, others spouses with their
+    voices, they were trying to recognize them by their voice: These were
+    pitying their own plight, those were pitying the plight of their own; there
+    were people of the sort who were begging for death for the fear of death:
+    many were raising their hands to the gods, many more were interpreting that
+    now any gods were nowhere, and it was that eternal and last night for the
+    world.
+
+34. *Nec defuerunt qui fictis mentitisque terroribus vera pericula augerent.*
+
+- *defuerunt* from *desum, deesse, defui, defuturus* is 3rd plural perfect
+  active indicative, meaning to be wanting/lacking. litotes
+- *fictis mentitisque terroribus* is an ablative absolute.
+- *fictis* from *fingo, fingere, finxi, fictus* is the perfect passive
+  participle, meaning to make up.
+- *mentitis* from *mentior, mentiri, mentitus sum* is the perfect participle,
+  meaning to lie/decieve/invent.
+- *augerent* from *augeo, augere, auxi, auctus* is 3rd plural imperfect active
+  subjunctive, meaning to increase/augment. This is subjunctive because it's
+  a relative clause of characteristic.
+
+    Nor were they absent of the sort who were augmenting the genuine dangers
+    with made up and invented terrors.
+
+35. *Aderant qui Miseni illud ruisse, illud ardere, falso sed credentibus,
+    nuntiabant.*
+
+- *aderant* from *adsum, edesse, adfui, adfuturus* is 3rd plural imperfect
+  active indicative, meaning to be near/present.
+- *ruisse* from *ruo, ruere, rui, rutus* is the perfect active infinitive,
+  meaning to destroy/ruin.
+- *ardere* from *ardeo, ardere, arsi, arsus* is the present active infinitive,
+  meaning to be on fire or to burn.
+- The above two infinitives are setting off indirect speech.
+- *falso sed credentibus* is an ablative absolute.
+- *credentibus* from *credo, credere, credidi, creditus* is the present active
+  participle, meaning to trust.
+- *nuntiabant* from *nuntio, nuntiare, nuntiavi, nuntiatus* is 3rd plural
+  imperfect active indicative, meaning to announce/report/convey/deliver.
+
+    They were present who, were announcing, falsely but to the believing
+    people, that at Miseni that had fallen, that was on fire.
+
+36. *Paulum reluxit; quod non dies nobis sed adventantis ignis indicium
+    videbatur.*
+
+- *paulum* here is the adverbial usage.
+- *reluxit* from *reluceo, relucere, reluxi, -* is 3rd singular perfect active
+  indicative, meaning to grow bright again.
+- *adventantis* from *advento, adventare, adventavi, adventatus* is the present
+  active participle, meaning
+  to approach.
+- *videbatur* from *video, videre, vidi, visus* is 3rd singular imperfect
+  passive indicative, meaning to seem. The note says to translate this as *was
+  seen* not *seemed*.
+
+    it grew somewhat brighter again; which was seen to us not as day,
+    but a sign of approaching fire.
+
+37. *Et ignis quidem longius substitit, tenebrae rursus, cinis rursus multus et
+    gravis.*
+
+- *longius* is the comparative adverb from *longe, longius, longissime*.
+- *substitit* from *subsisto, subsistere, subsititi* is 3rd singular perfect
+  active indicative, meaning to halt.
+- *tenebrae* is plural nominative, but it means darkess then.
+
+    and indeed the fired halted more distantly, the darkness turned back, the
+    ash turned back was much and heavy.
+
+38. *Hunc identidem adsurgentes excutiebamus: operti alioqui atque etiam oblisi
+    pondere essemus.*
+
+- *adsurgentes* from *adsurgo, adsurgere, adsurrexi, adsurrectus* is the
+  present active participle, meaning to rise/stand up.
+- *excutiebamus* from *excutio, excutere, excussi, excussus* is 1st plural
+  imperfect active indicative, meaning to shake out/off.
+- *operti* from *operio, operire, operui, opertus* is the perfect passive
+  participle, meaning to cover/bury.
+- *oblisi essemus* from *oblido, oblidere, oblisi, oblisus* is 1st plural
+  pluperfect passive subjunctive, meaning to crush.
+- *operti essemus* from *operio, operire, operui, opertus* is 1st plural
+  pluperfect passive subjunctive, meaning to cover/bury. This, and the previous
+  verb, are a the apodasis of a past contrary to fact conditional.
+- *pondere* is an ablative of cause.
+
+    We repeatedly rising were shaking off this [ash]: otherwise we would have
+    been buried and furthermore crushed by the weight.
+
+39. *Possem gloriari non gemitum mihi, non vocem parum fortem in tantis
+    periculis excidisse, nisi me cum omnibus, omnia mecum perire misero, magno
+    tamen mortalitatis solacio credidissem.*
+
+- *possem* from *possum, posse, potui* is 1st singular imperfect active
+  subjunctive, meaning to be able.
+- *gloriari* from *glorior, gloriari, gloriatus sum* is the present infinitive,
+  meaning to boast/brag.
+- *mihi* is a dative of seperation. *excidisse* takes the dative.
+- *excidisse* from *excideo, exicidere, excidi, excissus* is the perfect active
+  infinitive, meaning to demolist/destroy.
+- *perire* from *pereo, perire, perivi, peritus* is the present active
+  infintive, meaning to die.
+- *mortalitatis* is an objective genitivie.
+- *credidissem* from *credo, credere, credidi, creditus* is 1st singular
+  pluperfect active subjunctive, meaning to trust.
+
+    I would able to boast that no groan, no insufficiently courageous voice
+    voice had escaped from me in so great dangers, except I might have believed
+    that I was dying with everything else, all things were perishing with
+    myself with wretched, yet great comfort of mortality.
+
+40. *Tandem illa caligo tenuata quasi in fumum nebulamve discessit: mox dies
+    verus, sol etiam effulsit, luridus tamen, qualis esse, cum deficit, solet.*
+
+- *fumum* and *nebulamve* are basically synonyms, but they're both nouns and
+  they don't agree in gender, so I think one of them is in the preposition, the
+  other is the direct object of *discessit*. I think it's making the
+  comparison that the darkness left just like when your breath in cold air
+  departs.
+- *discessit* from *dicedo, discedere, discessi, descessus* is 3rd singular
+  perfect active indicative, meaning to depart.
+- *effulsit* from *effulgeo, effulgere, effulsi* is 3rd singular perfect active
+  indicative, meaning to glitter.
+- *deficit* from *deficio, deficere, defeci, defectus* is 3rd singular present
+  active indicative, meaning to fail.
+- *solet* from *soleo, solere, solitus sum* is 3rd singular present active
+  indicative, meaning to be accustomed.
+- **Struggled through last three pieces.**
+
+    Finally that having been reduced darkness withdrew as if an smoke or mist:
+    Soon it was genuine day, the sun even shone forth, yet murky, as it is
+    accustomed to be when it is an eclipse.
+
+41. *Occursabant trepidantibus adhuc oculis mutata omnia altoque cinere,
+    tamquam nive, obducta.*
+
+- *occursabant* from *occurso, occursare, occursavi, occursatus* is 3rd plural
+  imperfect active indicative, meaning to mob. **This is confusing me.**
+- The book has *trepidantibus* (present participle from *trepido, trepidare,
+  trepidavi, trepidatus*, meaning to tremble) as a hypallage, i.e. a modifier
+  is syntactically linked to an item other than the one that it modifies
+  semantically 'restless night'.
+- *mutata* from *muto, mutare* is the perfect passive participle, meaning to
+  move.
+- *obducta* from *obduco, obducere, obduxi, obductus* is the perfect passive
+  participle, meaning to cover over.
+
+    All things having been moved and covered over were running forth the yet
+    trembling eyes and deep ash having been covered, just as with snow.
+
+42. *Regressi Misenum, curatis utcumque corporibus suspensam dubiamque noctem
+    spe ac metu exegimus.*
+
+- *regressi* from *regredior, regredi, regressus sum* is the perfect partciple,
+  meaning to return.
+- *curatis* from *curo, curare* is the perfect passive participle, meaning to
+  attend to. *curatis corporibus* is an ablative absolute.
+- *exegimus* from *exigo, exigere, exegi, exactus* is 1st plural perfect active
+  indicative, meaning to examine.
+
+    Having returned to Miseni, with bodies somehow having been healed we passed
+    the suspenseful and doubtful night because of hope and fear.
+
+43. *Metus praevalebat: nam et tremor terrae perseverabat et plerique lymphati
+    terrificis vaticinationibus et sua et aliena mala ludificabantur.*
+
+- *praevalebat* from *praevaleo, praevalere, praevalui* is 3rd singular
+  imperfect active indicative, meaning to prevail.
+- *perseverabat* from *persevero, perseverare* is 3rd singular imperfect active
+  indicative, meaning to persist.
+- *lymphati* from *lympho, lymphare* is the perfect passive participle, meaning
+  to derage, drive crazy.
+- *terrificis vaticinationibus* is ablative of means.
+- *ludificabantur* from *ludificor, ludificari, ludificatus sum* is 3rd plural
+  imperfect passive indicative, meaning to make fun/sport of.
+
+    Fear was prevailing: for both the trembling of the earth was persisting
+    and many having been frenzied  were deluding both their own and others
+    misfortunes by means of terrifying prophecies,
+
+44. *Nobis tamen ne tunc quidem, quamquam et expertis periculum et
+    exspectantibus, abeundi consilium, donec de avunculo nuntius.*
+
+- *ne...quidem* = 'not even'.
+- *exspectantibus* from *exspecto, exspectare* is the present active
+  participle, meaning to lookout for, await; expect, anticipate.
+- *abeundi* from *abeo, abire, abivi, abitus* is the future passive participle,
+  meaning to depart. This is the gerund. 
+
+    Nevertheless not even then did we have a plan of departing, although both
+    having experianced danger and expecting it, until the message concerning
+    our uncle.
+
+45. *Haec nequaquam historia digna non scripturus leges et tibi, scilicet qui
+    requisisti, inputabis, si digna ne epistula quidem videbuntur.*
+
+- *digna* takes an ablative.
+- *scripturus* from *scribo, scribere, scripsi, scriptus* is the future active
+  participle, meaning to write.
+- *leges* from *lego, legere, legi, lectus* is 2nd singular future active
+  indicative, meaning to read.
+- *requisisti* from *requiro, requirere, requisivi, requisistus* is 2nd
+  singular perfect active indicative, meaning to require.
+- *inputabis* from *imputo, imputare* is 2nd singular future active indicative,
+  meaning to charge.
+- *videbuntur* from *video, videre, vidi, visus* is 3rd plural future passive
+  indicative, meaning to seem.
+
+  You, not intending to write, shall read these things by no means worthy of
+  history, of course which you asked for, and you will charge yourself, if they
+  seem not even worthy of the letter.
+
+46. *Vale.*
+
+- *vale* from *valeo, valere, valui, valitus* is the present active imperative,
+  meaning to be strong, but also is a farewell in this form.
+
+    Farewell.
