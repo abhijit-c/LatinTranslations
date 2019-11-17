@@ -123,35 +123,84 @@ eruption of Versuvius.*
 
     I was rising, in turn going to wake her up, if she were sleeping.
 
-9. *Residimus in area domus, quae mare a tectis modico spatio dividebat. Dubito
-   constantiam vocare an inprudentiam debeam; agebam enim duodevicesimum annum:
-   posco librum Titi Livi et quasi per otium lego atque etiam, ut coeperam,
-   excerpo.*
-10. *Ecce, amicus avunculi, qui nuper ad eum ex Hispania venerat, ut me et
+9. *Residimus in area domus, quae mare a tectis modico spatio dividebat.*
+
+- *residimus* from *resido, residere, residi* is 1st plural perfect active
+  indicative, meaning to sit down.
+- *area* is ablative, *domus* is genitive.
+- *dividebat* from *divido, dividere, divisi, divisus* is 3rd singular imperfect
+  active indicative, meaning to divide.
+- *modico spatio* is an ablative of means.
+
+    We sat down in the courtyard of the house, which was dividing the sea from
+    the house with a small space.
+
+10. *Dubito constantiam vocare an inprudentiam debeam; agebam enim
+    duodevicesimum annum: posco librum Titi Livi et quasi per otium lego atque
+    etiam, ut coeperam, excerpo.*
+
+- *dubito* from *dubito, dubitare, dubitavi, dubitatus* is 1st singular present
+  active indicative, meaning to doubt.
+- *vocare* from *voco, vocare, vocavi, vocatus* is the present active
+  infinitive, meaning to call.
+- *debeam* from *debeo, debere, debui, debitus* is 1st singular present active
+  subjunctive, meaning to owe. This is subjunctive because this is an indirect
+  question.
+- *agebam* from *ago, agere, egi, actus* is 1st singular imperfect active
+  indicative, meaning to drive.
+- *posco* from *posco, poscere, poposci* is 1st singular present active
+  indicative, meaning to ask.
+- *lego* from *lego, legere, legi, lectus* is 1st singular present active
+  indicative, meaning to read (or to bequeath).
+- *coeperam* from *coepio, coepere, coepi, coeptus* is 1st singular pluperfect
+  active indicative, meaning to begin.
+- *excerpo* from *excerpo, excerpere, excerpsi, excerptus* is 1st singular
+  present active indicative, meaning to pick out. Lewis and Short says it can be
+  translated as 'to make extracts'.
+
+    I doubt whether it ought to be called perserverance or ignorance; for I was
+    spending my 18th year: I asked for a book of Titus Livus and as if during
+    leisure I read it and in addition, as I had began, make exctracts.
+
+11. *Ecce, amicus avunculi, qui nuper ad eum ex Hispania venerat, ut me et
     matrem sedentes, me vero etiam legentem videt, illius patientiam,
     securitatem meam corripit: nihilo segnius ego intentus in librum.*
-11. *Iam hora diei prima, et adhuc dubius et quasi languidus dies.*
-12. *Iam quassatis circumiacentibus tectis, quamquam in aperto loco, angusto
+
+- *venerat* from *venio, venire, veni, ventus* is 3rd singular pluperfect active
+  indicative, meaning to come.
+- *sedentes* from *sedeo, sedere, sedi, sessus* is the present active
+  participle, meaning to sit.
+- *legentem* from *lego, legere, legi, lectus* is the present active participle,
+  meaning to read.
+- *videt* from *video, videre, vidi, visus* is 3rd singular present active
+  indicative, meaning to see.
+- *corripit* from *corripio, corripere, corripui, correptus* is 3rd singular
+  present active indicative, meaning to seize.
+- *intentus* is 
+
+    Look, a friend of uncle, who recently had came from Spain to him, as he sees
+    me and my mother sitting, and also certainly me reading, he censures the
+    patience of that one, my carelessness: by nothing sluggish I am eager about
+    the book.
+
+12. *Iam hora diei prima, et adhuc dubius et quasi languidus dies.*
+13. *Iam quassatis circumiacentibus tectis, quamquam in aperto loco, angusto
     tamen, magnus et certus ruinae metus.*
-13. *Tum demum excedere oppido visum: sequitur vulgus attonitum, quodque in
+14. *Tum demum excedere oppido visum: sequitur vulgus attonitum, quodque in
     pavore simile prudentiae, alienum consilium suo praefert ingentique agmine
     abeuntis premit et inpellit.*
-14. *Egressi tecta consistimus.*
-15. *Multa ibi miranda, multas formidines patimur.*
-16. *Nam vehicula quae produci iusseramus, quamquam in planissimo campo, in
+15. *Egressi tecta consistimus.*
+16. *Multa ibi miranda, multas formidines patimur.*
+17. *Nam vehicula quae produci iusseramus, quamquam in planissimo campo, in
     contrarias patres agebantur ac ne lapidibus quidem fulta in eodem vestigio
     quiescebant.*
-17. *Praeterea mare in se resorberi et tremore terrae quasi repelli videbamus.*
-18. *Certe processerat litus multaque animalia maris siccis harenis detinebat.*
-19. *Ab altero latere nubes atra et horrenda ignei spiritus tortis vibratisque
+18. *Praeterea mare in se resorberi et tremore terrae quasi repelli videbamus.*
+19. *Certe processerat litus multaque animalia maris siccis harenis detinebat.*
+20. *Ab altero latere nubes atra et horrenda ignei spiritus tortis vibratisque
     discursibus rupta in longas flammarum figuras dehiscebat: fulguribus illae
     et similes et maiores erant.*
 
-apo keiou
-
-**October 29**
-
-20. *Tum vero idem ille ex Hispania amicus acrius et instantius 'si frater'
+21. *Tum vero idem ille ex Hispania amicus acrius et instantius 'si frater'
     inquit 'tuus, tuus avunculus vivit, vult esse vos salvos:'*
 
 - *acriusu* and *instantius* are comparative adverbs, meaning sharply and
@@ -166,7 +215,7 @@ apo keiou
     Then in truth that same friend from Spain said more sharply and vehemently
     'if your father, your uncle lives, he wishes you to be safe:'
 
-21. *'si periit, superstites voluit:'*
+22. *'si periit, superstites voluit:'*
 
 - *periit* from *pereo, perire, perivi(ii), peritus* is 3rd singular perfect
   active indicative, meaning to die.
@@ -175,7 +224,7 @@ apo keiou
 
     If he has died, he wished you to be a surviving person:
 
-22. *'proinde quid cessatis evadere?'*
+23. *'proinde quid cessatis evadere?'*
 
 - *quid* is the interrogative pronoun here.
 - *cessatis* from *cesso, cessare* is 2nd plural present active indicative,
@@ -185,7 +234,7 @@ apo keiou
 
     'So then why do you all delay to escape?'
 
-23. *Respondimus non commissuros nos ut de salute illius incerti nostrae
+24. *Respondimus non commissuros nos ut de salute illius incerti nostrae
     consuleremus.*
 
 - *respondimus* from *respondeo, respondere, respondi, responsus* is 1st plural
@@ -199,7 +248,7 @@ apo keiou
     We replied that we would not allow so as to take thought for our safety
     uncertain concerning the safety of that man. 
 
-24. *Non moratus ultra proripit se effusoque cursu periculo aufertur.*
+25. *Non moratus ultra proripit se effusoque cursu periculo aufertur.*
 
 - *moratus* from *moro, morari, moratus sum* is the perfect participle, meaning
   to delay.
@@ -216,7 +265,7 @@ apo keiou
     Not having delayed further he drags himself away and is carried away from
     danger with a grand gallop.
 
-25. *Nec multo post illa nubes descendere in terras, operire maria: cinxerat
+26. *Nec multo post illa nubes descendere in terras, operire maria: cinxerat
     Capreas et absconderat: Miseni quod procurrit abstulerat.*
 
 - *multo* is an ablative of degree of difference.
@@ -244,7 +293,7 @@ apo keiou
     the seas: it had surrounded Capri and had concealed it: it had carried away
     that which juts forth at Misenum.
 
-26. *Tum mater orare, hortari, iubere quoquo modo fugerem; posse enim iuvenem,
+27. *Tum mater orare, hortari, iubere quoquo modo fugerem; posse enim iuvenem,
     se et annis et corpore grave bene morituram, si mihi causa mortis non
     fuisset.*
 
@@ -269,7 +318,7 @@ apo keiou
     she was saying that I could as a young man, she both heavy in years and body
     would die well, if the cause of death for me had not been her.
 
-27. *Ego contra salvum me nisi una non futurum: dein manum eius amplexus, addere
+28. *Ego contra salvum me nisi una non futurum: dein manum eius amplexus, addere
     gradum cogo.*
 
 - *futurum* from *sum, esse, fui, futurum* is the future active participle,
@@ -284,7 +333,7 @@ apo keiou
     I in turn would not be safe unless together: then having clasped her hand,
     I compel her to increase her pace.
 
-28. *Paret aegre incusatque se quod me moretur.*
+29. *Paret aegre incusatque se quod me moretur.*
 
 - *paret* from *pareo, parere, parui, paritus* is 3rd singular present active
   indicative, meaning to obey.
@@ -296,7 +345,7 @@ apo keiou
   
     She obeys with difficulty and accusses herself because she delays me.
 
-29. *Iam cinis, adhuc tamen rarus: respicio, densa caligo tergis imminebat, quae
+30. *Iam cinis, adhuc tamen rarus: respicio, densa caligo tergis imminebat, quae
     nos torentis modo infusa terrae sequebatur.*
 
 - *respicio* from *respicio, respicere, respexi, respectus* is 1st singular
@@ -315,7 +364,7 @@ apo keiou
     threatening our backs, which was following us having been poured onto the
     grounds in a manner of a torrent.
 
-30. *'Deflectamus' inquam 'dum videmus ne in via strati comitantium turba in
+31. *'Deflectamus' inquam 'dum videmus ne in via strati comitantium turba in
     tenebris obteramur.'*
 
 - *deflectamus* from *deflecto, deflectere, deflexi, deflexus* is 1st plural
@@ -334,7 +383,7 @@ apo keiou
     I said 'Let us change course while we see lest we are flattned by the crowd
     of those following on the road and we are crushed in the shadows.
 
-31. *Vix consideramus, et nox, non qualis inlunis aut nubila, sed qualis in
+32. *Vix consideramus, et nox, non qualis inlunis aut nubila, sed qualis in
     locis clausis lumine extincto.*
 
 - *consideramus* from *consido, considere* is 1st plural present active
@@ -348,7 +397,7 @@ apo keiou
     We hardly had sat down, when the night, not like moonless or cloudy, but
     like in enclosed places with the light having been extinguished.
 
-32. *Audires ululatus feminarum, infantum quiritatus, clamores virorum:*
+33. *Audires ululatus feminarum, infantum quiritatus, clamores virorum:*
 
 - *Audires* from *audio, audire, audivi, auditus* is 2nd singular imperfect
   active subjunctive, meaning to hear. This is subjunctive because it's a
@@ -358,7 +407,7 @@ apo keiou
     You would be hearing the women's shrieks, the children's wails, the men's
     shouts.
 
-33. *alii parentes, alii liberos, alii coniuges vocibus requirebant, vocibus
+34. *alii parentes, alii liberos, alii coniuges vocibus requirebant, vocibus
     noscitabant: hi suum casum, illi suorum miserabantur: erant qui metu mortis
     mortem precarentur: multi ad deos manus tollere, plures nusquam iam deos
     ullos, aeternamque illam et novissimam noctem mundo interpretabantur.*
@@ -392,7 +441,7 @@ apo keiou
     now any gods were nowhere, and it was that eternal and last night for the
     world.
 
-34. *Nec defuerunt qui fictis mentitisque terroribus vera pericula augerent.*
+35. *Nec defuerunt qui fictis mentitisque terroribus vera pericula augerent.*
 
 - *defuerunt* from *desum, deesse, defui, defuturus* is 3rd plural perfect
   active indicative, meaning to be wanting/lacking. litotes
@@ -408,7 +457,7 @@ apo keiou
     Nor were they absent of the sort who were augmenting the genuine dangers
     with made up and invented terrors.
 
-35. *Aderant qui Miseni illud ruisse, illud ardere, falso sed credentibus,
+36. *Aderant qui Miseni illud ruisse, illud ardere, falso sed credentibus,
     nuntiabant.*
 
 - *aderant* from *adsum, edesse, adfui, adfuturus* is 3rd plural imperfect
@@ -427,7 +476,7 @@ apo keiou
     They were present who, were announcing, falsely but to the believing
     people, that at Miseni that had fallen, that was on fire.
 
-36. *Paulum reluxit; quod non dies nobis sed adventantis ignis indicium
+37. *Paulum reluxit; quod non dies nobis sed adventantis ignis indicium
     videbatur.*
 
 - *paulum* here is the adverbial usage.
@@ -443,7 +492,7 @@ apo keiou
     it grew somewhat brighter again; which was seen to us not as day,
     but a sign of approaching fire.
 
-37. *Et ignis quidem longius substitit, tenebrae rursus, cinis rursus multus et
+38. *Et ignis quidem longius substitit, tenebrae rursus, cinis rursus multus et
     gravis.*
 
 - *longius* is the comparative adverb from *longe, longius, longissime*.
@@ -454,7 +503,7 @@ apo keiou
     and indeed the fired halted more distantly, the darkness turned back, the
     ash turned back was much and heavy.
 
-38. *Hunc identidem adsurgentes excutiebamus: operti alioqui atque etiam oblisi
+39. *Hunc identidem adsurgentes excutiebamus: operti alioqui atque etiam oblisi
     pondere essemus.*
 
 - *adsurgentes* from *adsurgo, adsurgere, adsurrexi, adsurrectus* is the
@@ -473,7 +522,7 @@ apo keiou
     We repeatedly rising were shaking off this [ash]: otherwise we would have
     been buried and furthermore crushed by the weight.
 
-39. *Possem gloriari non gemitum mihi, non vocem parum fortem in tantis
+40. *Possem gloriari non gemitum mihi, non vocem parum fortem in tantis
     periculis excidisse, nisi me cum omnibus, omnia mecum perire misero, magno
     tamen mortalitatis solacio credidissem.*
 
@@ -495,7 +544,7 @@ apo keiou
     that I was dying with everything else, all things were perishing with
     myself with wretched, yet great comfort of mortality.
 
-40. *Tandem illa caligo tenuata quasi in fumum nebulamve discessit: mox dies
+41. *Tandem illa caligo tenuata quasi in fumum nebulamve discessit: mox dies
     verus, sol etiam effulsit, luridus tamen, qualis esse, cum deficit, solet.*
 
 - *fumum* and *nebulamve* are basically synonyms, but they're both nouns and
@@ -517,7 +566,7 @@ apo keiou
     Soon it was genuine day, the sun even shone forth, yet murky, as it is
     accustomed to be when it is an eclipse.
 
-41. *Occursabant trepidantibus adhuc oculis mutata omnia altoque cinere,
+42. *Occursabant trepidantibus adhuc oculis mutata omnia altoque cinere,
     tamquam nive, obducta.*
 
 - *occursabant* from *occurso, occursare, occursavi, occursatus* is 3rd plural
@@ -534,7 +583,7 @@ apo keiou
     All things having been moved and covered over were running forth the yet
     trembling eyes and deep ash having been covered, just as with snow.
 
-42. *Regressi Misenum, curatis utcumque corporibus suspensam dubiamque noctem
+43. *Regressi Misenum, curatis utcumque corporibus suspensam dubiamque noctem
     spe ac metu exegimus.*
 
 - *regressi* from *regredior, regredi, regressus sum* is the perfect partciple,
@@ -547,7 +596,7 @@ apo keiou
     Having returned to Miseni, with bodies somehow having been healed we passed
     the suspenseful and doubtful night because of hope and fear.
 
-43. *Metus praevalebat: nam et tremor terrae perseverabat et plerique lymphati
+44. *Metus praevalebat: nam et tremor terrae perseverabat et plerique lymphati
     terrificis vaticinationibus et sua et aliena mala ludificabantur.*
 
 - *praevalebat* from *praevaleo, praevalere, praevalui* is 3rd singular
@@ -564,7 +613,7 @@ apo keiou
     and many having been frenzied  were deluding both their own and others
     misfortunes by means of terrifying prophecies,
 
-44. *Nobis tamen ne tunc quidem, quamquam et expertis periculum et
+45. *Nobis tamen ne tunc quidem, quamquam et expertis periculum et
     exspectantibus, abeundi consilium, donec de avunculo nuntius.*
 
 - *ne...quidem* = 'not even'.
@@ -577,7 +626,7 @@ apo keiou
     having experianced danger and expecting it, until the message concerning
     our uncle.
 
-45. *Haec nequaquam historia digna non scripturus leges et tibi, scilicet qui
+46. *Haec nequaquam historia digna non scripturus leges et tibi, scilicet qui
     requisisti, inputabis, si digna ne epistula quidem videbuntur.*
 
 - *digna* takes an ablative.
@@ -596,7 +645,7 @@ apo keiou
   history, of course which you asked for, and you will charge yourself, if they
   seem not even worthy of the letter.
 
-46. *Vale.*
+47. *Vale.*
 
 - *vale* from *valeo, valere, valui, valitus* is the present active imperative,
   meaning to be strong, but also is a farewell in this form.
