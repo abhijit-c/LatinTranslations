@@ -14,7 +14,7 @@
 2. *Quis enim potest melius uel cunctationem meam regere uel ignorantiam
    instruere?*
 
-- *quis* is the interrogative pronoun here, and it's dative with antecedent
+- *quis* is the interrogative pronoun here, and it's nominative with antecedent
   being the *domine*.
 - *potest* from *possum, posse, potui* is 3rd singular present active
   indicative, meaning to be able.
@@ -24,7 +24,7 @@
 - *instruere* from *instruo, instruere, instruxi, instructus* is the present
   active infinitive, meaning to construct.
 
-    For what is better able to either guide my hesitation or instruct my
+    For who is better able to either guide my hesitation or instruct my
     ignorance?
 
 3. *Cognitionibus de Christianis interfui numquam: ideo nescio quid et quatenus
@@ -36,8 +36,8 @@
   case.
 - *nescio* from *nescio, nescire, nescivi, nescitus* is 1st singular present
   actve indicative, meaning to not know (how).
-- *puniri* from *punio, punire, punivi, punitus* is the present passive
-  infinitive, meaning to punish.
+- *puniri* from *punior, puniri, punitus sum* is the present infinitive, meaning
+  to punish.
 - *soleat* from *soleo, solere, solitus sum* is 3rd singular present active
   subjunctive, meaning to be accustomed to. This is subjunctive because it is
   an indirect question.
@@ -45,7 +45,7 @@
   infinitive, meaning to seek.
 
     I have never attended examinations concerning Christians: therefore I do not
-    know what and how far it is accustomed either to be punished or to be
+    know what and to what extent it is accustomed to either punished or be
     sought out.
 
 4. *Nec mediocriter haesitaui, sitne aliquod discrimen aetatum, an quamlibet
@@ -91,7 +91,7 @@
   passive subjunctive, meaning to punish. This is the protasis of the future
   less vivid conditional.
 
-    Whether the name itself be punished, if it should be without shame, or the
+    Whether the name itself be punished, if it should be without shames, or the
     shameful acts clinging to the name are punished.
 
 7. *Interim, \<in\> iis qui ad me tamquam Christiani deferebantur, hunc sum
@@ -100,12 +100,12 @@
 - *in* can be translated as 'in accordance with/regard to/the case of' given the
   ablative case.
 - *deferebantur* from *defero, deferre, detuli, delatus* is 3rd plural imperfect
-  passive indicative, meaning to carry/brind down/off.
+  passive indicative, meaning to report.
 - *sum secutus* from *sequor, sequi, secutus sum* is 1st singular perfect
   indicative, meaning to follow.
 
     Meanwhile, in regard to those who were reported to me as Christians,
-    I have followed this method.
+    I followed this method.
 
 8. *Interrogaui ipsos an essent Christiani.* 
 
@@ -144,33 +144,33 @@
 - *dubitabam* from *dubito, dubitare* is 1st singular imperfect active
   indicative, meaning to doubt.
 - *esset* is 3rd singular imperfect active subjunctive. This is subjunctive
-  because it's an indepedent potential clause.
+  because it's inside indirect speech.
 - *faterentur* from *fateor, fateri, fassus sum* is 3rd plural imperfect
   subjunctive, meaning to admit/confess (w/ACC) or praise (w/DAT). This is
-  subjunctive because it is a relative clause of characteristic, operating off
-  of indefinate antecedent *qualecumque*.
+  subjunctive because it's inside indirect speech.
 - *debere* from *debeo, debere, debui, debitus* is the present active infinitve,
   meaning to owe. This sets off indirect speech with head verb *dubitabam*.
 - *puniri* from *punio, punire, punivi, punitus* is the present infinitive,
   meaning to punish.
 
-    For nor was I doubting that, whatsoever it may be which they confessed,
-    their persistance and inflexible stubborness ought to be punished.
+    For nor was I doubting, whatsoever it was which they confessed, that
+    their persistance and inflexible stubborness certainly ought to be punished.
 
 11. *Fuerunt alii similis amentiae, quos, quia ciues Romani erant, adnotaui in
     urbem remittendos.*
 
 - *fuerunt* is 3rd plural perfect active indicative.
+- *similis amentiae* is a genitive of description.
 - *erant* is 3rd plural imperfect active indicative.
 - *adnotaui* from *adnoto, adnotare* is 1st singular perfect active indicative,
   meaning to now/jot down or to notice.
-- *remittendos* from *remitto, remittere, remisi, remissus* is the future passive
-  participle, meaning to send back. I think this is just the su
+- *remittendos* from *remitto, remittere, remisi, remissus* is the future
+  passive participle, meaning to send back. This is the gerundive.
 
     Some people have been of similar madness, whom, because they were Roman
-    citizens, I designated to be sent back into the city.
+    citizens, I designated them as ought to be returned into the city.
 
-12. *Moxipso tractatu, ut fieri solet, diffundente se crimine plures species
+12. *Mox ipso tractatu, ut fieri solet, diffundente se crimine plures species
     inciderunt.* 
 
 - *moxipso* is kill, I think instead it's *mox ipso*.
@@ -183,8 +183,8 @@
 - *inciderunt* from *incido, incidere, incidi, incasus* is 3rd plural perfect
   active indicative, meaning to happen.
 
-    Soon with the handling itself, as it is accustomed to be done, spreading his
-    crime more appearances happened.
+    Soon because of the very handling, as it is accustomed to be done,
+    with the crime spreading itself more appearances happened.
 
 13. *Propositus est libellus sine auctore multorum nomina continens.* 
 
@@ -219,27 +219,59 @@
 - *adferri* from *adfero, adferre, adtuli, adlatus* is the present passive
   infinitive, meaning to bring to or to carry.
 - *supplicarent* from *supplico, supplicare, supplicavi, supplicatus* is 3rd
-  plural imperfect active subjunctive, meaning to pray.
+  plural imperfect active subjunctive, meaning to pray. This is subjunctive
+  because it's inside of a circumstantial *cum* clause. This takes the dative.
 - *dicerent* from *dico, ddicere, dixi, dictus* is 3rd plural imperfect active
-  subjunctive.
+  subjunctive. This is subjunctive because it's inside of a circumstantial *cum*
+  clause. The person being addressed is usually in the dative.
 - *cogi* from *cogo, cogere, coegi, coactus* is the present passive infitive,
-  meaning to college/gather.
+  meaning to compel.
 - *posse* from *possum, posse, potui* is the present active infinitive, meaning
   to be able.
 - *dicuntur* from *dico, dicere, dixi, dictus* is 3rd plural present passive
   indicative, meaning to say.
 - *dimittendos* from *dimitto, dimittere, dimisi, dimissus* is the future
-  passive participle, meaning to send away/off.
+  passive participle, meaning to send away/off. After supplying the *esse* we
+  have a passive periphrastic.
 - *putavi* from *puto, putare* is 1st singular perfect active indicative,
-  meaning to think.
+  meaning to think. *esse* is supplied implicitly here to open indirect speech.
 
     Those who were denying that they were, or had been, Christians themselves,
-    when, with me dictating, they were appealing to the gods and to your image,
-    which, along with images of the gods, I had ordered to be brought on account
-    of this.
+    since, with me dictating, they were appealing to the gods and they were
+    praying to your image with incense and wine, which I had ordered to be
+    brought on account of this along with images of the gods, besides speaking
+    badly of Christ, nothing of which they are said to be able to be compelled
+    who are by true fact Christians, I thought that they ought to be sent away. 
 
 15. *Alii ab indice nominati esse se Christianos dixerunt et mox negauerunt;
     fuisse quidem sed desisse, quidam ante triennium, quidam ante plures annos,
     non nemo etiam ante uiginti.*
+
+- *nominati* from *nomino, nominare* is the perfect passive participle, meaning
+  to name.
+- *esse* is the present active infinitive. This is setting off indirect speech
+  with head verb *dixerunt*.
+- *dixerunt* from *dico, dicere, dixi, dictus* is 3rd plural perfect active
+  indicative, meaning to say.
+- *negauerunt* from *nego, negare* is 3rd plural perfect active indicative,
+  meaning to deny.
+- *fuisse* is the perfect active infinitive. This is setting off indirect speech
+  with head verb *dixerunt*.
+- *desisse* is the perfect active infinitive, meaning to stop/end/finish.
+
+    Others having been named by an informer said that they are Christians
+    and soon denied it; that they had indeed been it but had desisted, someone
+    before three years, someone before many more years, and also not no one
+    before twenty.
+
 16. *\<Hi\> quoque omnes et imaginem tuam deorumque simulacra uenerati sunt et
     Christo male dixerunt.*
+
+- *uenerati sunt* from *veneror, venerari, veneratus sum* is 3rd plural perfect
+  indicative, meaning to adore/revere.
+- *dixerunt* from *dico, dicere, dixi, dictus* is 3rd plural perfect active
+  indicative, meaning to talk/speak. The person being addressed is usually in
+  the dative.
+
+    All these people also revered both your image and the images of the gods and
+    spoke ill to Christ.

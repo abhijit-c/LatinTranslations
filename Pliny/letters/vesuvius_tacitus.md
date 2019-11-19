@@ -29,6 +29,7 @@ eruption of Versuvius.*
   participle, meaning to begin.
 - *abruperam* from *abrumpo, abrumpere, abrupi, abruptus* is 1st singular
   pluperfect active indicatice, meaning to break.
+- *non solum...verum etiam* is a construction meaning 'not only...but also'
 - *pertulerim* from *perfero, perferre, pertuli, perlatus* is 1st singular
   perfect active subjunctive, meaning to carry through/endure to the end. This
   is subjunctive because it's indirect question.
@@ -82,8 +83,8 @@ eruption of Versuvius.*
 - *solitus* from *soleo, solere, solitus sum* is the perfect passive participle,
   meaning to be in the habit of.
 
-    The, less scary because usual at Campania, trembling of the earth
-    had lasted for many days.
+    The trembling of the earth, less scary because (it is) usual for Campania, had
+    preceeded for many days.
 
 6. *Illa vero nocte ita invaluit ut non moveri omnia sed verti crederentur.*
 
@@ -99,8 +100,8 @@ eruption of Versuvius.*
   passive subjunctive, meaning to believe. This is subjunctive because it's in
   a result clause introduced by *ut*. Also signified by the *ut*.
 
-    however at that true night therefore it grew stronger so that all things
-    were not believed to not be moved but to be overthrown.
+    In truth at that night it thus grew stronger so that all things might be
+    believed to not move but to be overthrown.
 
 7. *Inrumpit cubiculum meum mater:*
 
@@ -133,7 +134,7 @@ eruption of Versuvius.*
 - *modico spatio* is an ablative of means.
 
     We sat down in the courtyard of the house, which was dividing the sea from
-    the house with a small space.
+    the houses with a small space.
 
 10. *Dubito constantiam vocare an inprudentiam debeam; agebam enim
     duodevicesimum annum: posco librum Titi Livi et quasi per otium lego atque
@@ -158,8 +159,8 @@ eruption of Versuvius.*
   present active indicative, meaning to pick out. Lewis and Short says it can be
   translated as 'to make extracts'.
 
-    I doubt whether it ought to be called perserverance or ignorance; for I was
-    spending my 18th year: I asked for a book of Titus Livus and as if during
+    I doubt whether I ought to call it perserverance or ignorance; for I was
+    spending my 18th year: I ask for a book of Titus Livus and as if during
     leisure I read it and in addition, as I had began, make exctracts.
 
 11. *Ecce, amicus avunculi, qui nuper ad eum ex Hispania venerat, ut me et
@@ -175,11 +176,11 @@ eruption of Versuvius.*
 - *videt* from *video, videre, vidi, visus* is 3rd singular present active
   indicative, meaning to see.
 - *corripit* from *corripio, corripere, corripui, correptus* is 3rd singular
-  present active indicative, meaning to seize.
+  present active indicative, meaning to censure.
 - *intentus* is 
 
     Look, a friend of uncle, who recently had came from Spain to him, as he sees
-    me and my mother sitting, and also certainly me reading, he censures the
+    me and my mother sitting, in truth me even reading, he censures the
     patience of that one, my carelessness: by nothing sluggish I am eager about
     the book.
 
@@ -204,8 +205,7 @@ eruption of Versuvius.*
     inquit 'tuus, tuus avunculus vivit, vult esse vos salvos:'*
 
 - *acriusu* and *instantius* are comparative adverbs, meaning sharply and
-  vehemently respectively. **Review comparative and superlative adverbs.**
-- The notes say something strange here, **ask**.
+  vehemently respectively.
 - *tuus, tuus* is a chiasmus.
 - *vivit* from *vivo, vivere, vixi, victus* is 3rd singular present active
   indicative, meaning to live.
@@ -245,8 +245,8 @@ eruption of Versuvius.*
   imperfect active subjunctive, meaning to consult. This is a jussive noun
   clause. We must also add a *saluti* to fit with this.
 
-    We replied that we would not allow so as to take thought for our safety
-    uncertain concerning the safety of that man. 
+    We replied that we are not going to unite so as we might consult for our
+    safety uncertain concerning the safety of that man.
 
 25. *Non moratus ultra proripit se effusoque cursu periculo aufertur.*
 
@@ -263,7 +263,7 @@ eruption of Versuvius.*
   passive indicative, meaning to bear/carry/take away/off.
 
     Not having delayed further he drags himself away and is carried away from
-    danger with a grand gallop.
+    danger with a poured fourth run.
 
 26. *Nec multo post illa nubes descendere in terras, operire maria: cinxerat
     Capreas et absconderat: Miseni quod procurrit abstulerat.*
@@ -280,18 +280,15 @@ eruption of Versuvius.*
   active indicative, meaning to surround.
 - *absconderat* from *abscondo, abscondere, abscondi, absconditus* is 3rd
   singular pluperfect active indicative, meaning to conceal.
-- Note 24 states that *Miseni quod procurrit* = 'the promontory of Misenum',
-  where Miseni is a partitive genitive. **Don't understand where promontory is
-  coming from**
 - *procurrit* from *procurro, procurrere, pro(cu)curri, procursum* is 3rd
   singular present active indicative, meaning to jut forth.
 - *abstulerat* from *aufero, auferre, abstuli, ablatus* is 3rd singular
   pluperfect active indicative, meaning to bear/carry/take away/off.
 - To translate this last part we must insert an *id*. *Miseni* is a locative.
 
-    Nor after those things by much the cloud descended onto the lands, covers
-    the seas: it had surrounded Capri and had concealed it: it had carried away
-    that which juts forth at Misenum.
+    Nor after those things by much were the clouds descending onto the lands,
+    covering the seas: it had surrounded Capri and had concealed it: it had carried
+    away that which juts forth at Misenum.
 
 27. *Tum mater orare, hortari, iubere quoquo modo fugerem; posse enim iuvenem,
     se et annis et corpore grave bene morituram, si mihi causa mortis non
@@ -314,9 +311,9 @@ eruption of Versuvius.*
   indirect speech.
 - Notice that *causa* is predicate nominative.
 
-    Then my mother begged, urged, and ordered me to flee in whichever way; For
-    she was saying that I could as a young man, she both heavy in years and body
-    would die well, if the cause of death for me had not been her.
+    Then my mother begged, urged, and ordered me to flee in whichever way; that
+    indeed I could as a young man, she both heavy in years and body would die
+    well, if the cause of death for me had not been her.
 
 28. *Ego contra salvum me nisi una non futurum: dein manum eius amplexus, addere
     gradum cogo.*
@@ -330,8 +327,8 @@ eruption of Versuvius.*
 - *cogo* from *cogo, cogere, coegi, coactus* is 1st singular present active
   indicative, meaning to compel.
 
-    I in turn would not be safe unless together: then having clasped her hand,
-    I compel her to increase her pace.
+    I, in turn, say that I would not be safe if not together: then having
+    clasped her hand, I compel her to increase her pace.
 
 29. *Paret aegre incusatque se quod me moretur.*
 
@@ -360,9 +357,9 @@ eruption of Versuvius.*
   indicative, meaning to follow.
 - *modo* is an ablative of manner.
 
-    Now ash, nevertheless thus far is thin: I look back, the thick darkness was
-    threatening our backs, which was following us having been poured onto the
-    grounds in a manner of a torrent.
+    Now ash, thus far nevertheless is thin: I look back, the dense darkness was
+    threatening our backs, which, having been poured on the land, was bollowing
+    us with the manner of a torrent.
 
 31. *'Deflectamus' inquam 'dum videmus ne in via strati comitantium turba in
     tenebris obteramur.'*
@@ -371,11 +368,9 @@ eruption of Versuvius.*
   present active subjunctive, meaning to band downward. I think this is an
   independent usage, namely hortatory.
 - *strati* from *sterno, sternere, stravi, stratus* is the perfect passive
-  participle, meaning to lie flat.
+  participle, meaning to scatter.
 - *comitantium* from *commeo, commeare, commeavi, commeatus* (this is
-  a frequentitive form) is the present active participle, meaning to a
-- *comitantium* from *comitor, comitari, comitatus sum* is the present active
-  participle, meaning to accompany. In the genitive. This 
+  a frequentitive form) is the present active participle, meaning to follow.
 - *obteramur* from *obtero, obterere, obtrivi, obtritus* is 1st plural present
   passive subjunctive, meaning to crush. This is subjunctive because it's in
   a negative purpose clause set off by *ne*.
@@ -386,8 +381,8 @@ eruption of Versuvius.*
 32. *Vix consideramus, et nox, non qualis inlunis aut nubila, sed qualis in
     locis clausis lumine extincto.*
 
-- *consideramus* from *consido, considere* is 1st plural present active
-  indicative, meaning to examine or consider closely.
+- *consideramus* from *consido, considere, considi, consessus* is 1st plural
+  present active indicative, meaning to sit down.
 - Here *qualis* takes on it's relative meaning, meaning 'like'. I couldn't find
   a coordinating meaning for *qualis...qualis*.
 - *extincto* from *extinguo, extinguere, extinxi, extinctus* is the perfect
@@ -422,8 +417,8 @@ eruption of Versuvius.*
 - *erant* is 3rd plural imperfect active indicative.
 - *metu* is an ablative of cause.
 - *precarentur* from *precor, precari, precatus sum* is 3rd plural imperfect
-  subjunctive, meaning to beg. OK. OKAY. This is a relative clause of
-  characteristic, which can be seen as there is an indefinte antecendent.
+  subjunctive, meaning to beg. This is a relative clause of characteristic,
+  which can be seen as there is an indefinte antecendent.
 - *tollere* from *tollo, tollere, sustuli, sublatus* is the present active
   infinitive, meaning to lift. I think this is a historical infinitive.
 - *plures* is the comparative of *multus*.
@@ -433,13 +428,12 @@ eruption of Versuvius.*
 - *interpretabantur* from *interpretor, interpretari, interpretatus sum* is 3rd
   plural imperfect indicative, meaning to explain/interpret.
 
-    some were pining for parents, others children, others spouses with their
-    voices, they were trying to recognize them by their voice: These were
-    pitying their own plight, those were pitying the plight of their own; there
-    were people of the sort who were begging for death for the fear of death:
-    many were raising their hands to the gods, many more were interpreting that
-    now any gods were nowhere, and it was that eternal and last night for the
-    world.
+    some were seeking parents, others children, others spouses with their
+    voices, they were recognizing them by their voices: These were feeling sorry
+    for their own plight, those were feeling sorry of themselves; there were
+    people of the sort who were begging for death because of the fear of death: many
+    were raising their hands to the gods, many more were interpreting that now
+    any gods were nowhere, and it was that eternal and last night for the world.
 
 35. *Nec defuerunt qui fictis mentitisque terroribus vera pericula augerent.*
 
@@ -454,8 +448,8 @@ eruption of Versuvius.*
   subjunctive, meaning to increase/augment. This is subjunctive because it's
   a relative clause of characteristic.
 
-    Nor were they absent of the sort who were augmenting the genuine dangers
-    with made up and invented terrors.
+    Nor were they absent of the sort who might augment the genuine dangers with
+    false and invented terrors.
 
 36. *Aderant qui Miseni illud ruisse, illud ardere, falso sed credentibus,
     nuntiabant.*
@@ -500,8 +494,8 @@ eruption of Versuvius.*
   active indicative, meaning to halt.
 - *tenebrae* is plural nominative, but it means darkess then.
 
-    and indeed the fired halted more distantly, the darkness turned back, the
-    ash turned back was much and heavy.
+    and indeed the fired halted more distantly, the darkness again, the ash
+    again much and heavy.
 
 39. *Hunc identidem adsurgentes excutiebamus: operti alioqui atque etiam oblisi
     pondere essemus.*
@@ -516,11 +510,11 @@ eruption of Versuvius.*
   pluperfect passive subjunctive, meaning to crush.
 - *operti essemus* from *operio, operire, operui, opertus* is 1st plural
   pluperfect passive subjunctive, meaning to cover/bury. This, and the previous
-  verb, are a the apodasis of a past contrary to fact conditional.
+  verb, are an independent usage, the potential.
 - *pondere* is an ablative of cause.
 
     We repeatedly rising were shaking off this [ash]: otherwise we would have
-    been buried and furthermore crushed by the weight.
+    been buried and furthermore crushed because of the weight.
 
 40. *Possem gloriari non gemitum mihi, non vocem parum fortem in tantis
     periculis excidisse, nisi me cum omnibus, omnia mecum perire misero, magno
@@ -539,7 +533,7 @@ eruption of Versuvius.*
 - *credidissem* from *credo, credere, credidi, creditus* is 1st singular
   pluperfect active subjunctive, meaning to trust.
 
-    I would able to boast that no groan, no insufficiently courageous voice
+    I might able to boast that no groan, no insufficiently courageous voice
     voice had escaped from me in so great dangers, except I might have believed
     that I was dying with everything else, all things were perishing with
     myself with wretched, yet great comfort of mortality.
@@ -547,11 +541,8 @@ eruption of Versuvius.*
 41. *Tandem illa caligo tenuata quasi in fumum nebulamve discessit: mox dies
     verus, sol etiam effulsit, luridus tamen, qualis esse, cum deficit, solet.*
 
-- *fumum* and *nebulamve* are basically synonyms, but they're both nouns and
-  they don't agree in gender, so I think one of them is in the preposition, the
-  other is the direct object of *discessit*. I think it's making the
-  comparison that the darkness left just like when your breath in cold air
-  departs.
+- *tenuata* from *tenuo, tenuare* is the perfect passive participle, meaning to
+  make thin.
 - *discessit* from *dicedo, discedere, discessi, descessus* is 3rd singular
   perfect active indicative, meaning to depart.
 - *effulsit* from *effulgeo, effulgere, effulsi* is 3rd singular perfect active
@@ -560,17 +551,16 @@ eruption of Versuvius.*
   active indicative, meaning to fail.
 - *solet* from *soleo, solere, solitus sum* is 3rd singular present active
   indicative, meaning to be accustomed.
-- **Struggled through last three pieces.**
 
-    Finally that having been reduced darkness withdrew as if an smoke or mist:
-    Soon it was genuine day, the sun even shone forth, yet murky, as it is
+    Finally that having been reduced darkness withdrew as if into smoke or mist:
+    Soon genuine day, even the sun shone forth, yet murky, as it is
     accustomed to be when it is an eclipse.
 
 42. *Occursabant trepidantibus adhuc oculis mutata omnia altoque cinere,
     tamquam nive, obducta.*
 
 - *occursabant* from *occurso, occursare, occursavi, occursatus* is 3rd plural
-  imperfect active indicative, meaning to mob. **This is confusing me.**
+  imperfect active indicative, meaning to run forth to meet. 
 - The book has *trepidantibus* (present participle from *trepido, trepidare,
   trepidavi, trepidatus*, meaning to tremble) as a hypallage, i.e. a modifier
   is syntactically linked to an item other than the one that it modifies
@@ -580,8 +570,8 @@ eruption of Versuvius.*
 - *obducta* from *obduco, obducere, obduxi, obductus* is the perfect passive
   participle, meaning to cover over.
 
-    All things having been moved and covered over were running forth the yet
-    trembling eyes and deep ash having been covered, just as with snow.
+    All things, having been moved and covered by deep ash, just like snow, were
+    running forth to meet with yet trembling eyes.
 
 43. *Regressi Misenum, curatis utcumque corporibus suspensam dubiamque noctem
     spe ac metu exegimus.*
@@ -641,9 +631,9 @@ eruption of Versuvius.*
 - *videbuntur* from *video, videre, vidi, visus* is 3rd plural future passive
   indicative, meaning to seem.
 
-  You, not intending to write, shall read these things by no means worthy of
-  history, of course which you asked for, and you will charge yourself, if they
-  seem not even worthy of the letter.
+    You, not intending to write, shall read these things by no means worthy of
+    history, of course which you asked for, and you will charge yourself, if they
+    seem not even worthy of the letter.
 
 47. *Vale.*
 
