@@ -259,7 +259,7 @@
   with head verb *dixerunt*.
 - *desisse* is the perfect active infinitive, meaning to stop/end/finish.
 
-    Others having been named by an informer said that they are Christians
+    Others having been named by the book said that they were Christians
     and soon denied it; that they had indeed been it but had desisted, someone
     before three years, someone before many more years, and also not no one
     before twenty.
@@ -273,7 +273,7 @@
   indicative, meaning to talk/speak. The person being addressed is usually in
   the dative.
 
-    All these people also revered both your image and the images of the gods and
+    All these people also revered both your image and the statues of the gods and
     spoke ill to Christ.
 
 17. *Adfirmabant autem hanc fuisse summam uel culpae suae uel erroris, quod
@@ -287,15 +287,14 @@
 - *fuisse* is the perfect active infinitive. Sets off indirect speech with
   *hanc*.
 - *essent soliti* from *soleo, solere, solitus sum* is 3rd plural pluperfect
-  passive subjunctive, meaning to be accustomed to. This is subjunctive either
-  because it's a relative inside of indirect speech, or is another alleged
-  reason subjunctive.
+  passive subjunctive, meaning to be accustomed to. This is subjunctive because
+  it's a relative inside of indirect speech. 
 - *conuenire*, *dicere*, and *obstringere* are taken by *essent soliti* and are
   present active infinitive, meaning to assemble, to sing, and to bind
   respectively.
 - *committterent* from *commito, committere* is 3rd plural imperfect active
-  subjunctive, meaning to commit. This is subjuncttive because it's negative
-  purpose clause.
+  subjunctive, meaning to commit. This is subjuncttive because it's an indirect
+  command.
 - *fallerent* from *fallo, fallere, fefelli, falsus* is 3rd plural imperfect
   active subjunctive, meaning to deceive.
 - *abnegarent* from *abnego, abnegare, abnegavi, abnegatus* is 3rd plural
@@ -303,10 +302,11 @@
 
     They were afffirming however that this had been the highest of either their
     own blame or error, which they had become accustomed to assemble before
-    light on a having been erected day, and to sing a song mutually with
-    themselves to Crist as if the to god and to bind themselves not in regard to
-    some crime, but lest they commit theft, robbrey, or adultry, lest they
-    deceive loyalty, lest they having been called upon deny a deposit.
+    light on a having been fixed day, and to sing a song mutually with
+    themselves to Crist as if to a god and to bind themselves by means of
+    a solemn oath, not in some crime, but lest they commit theft, robbrey, or
+    adultry, lest they deceive loyalty, lest they having been called upon deny
+    a deposit.
 
 18. *Quibus peractis morem sibi discedendi fuisse rursusque coeundi ad capiendum
     cibum, promiscuum tamen et innoxium; quod ipsum facere desisse post edictum
