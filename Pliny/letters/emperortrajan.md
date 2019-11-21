@@ -281,6 +281,33 @@
     dicere secum inuicem seque sacramento non in scelus aliquod obstringere, sed
     ne furta ne latrocinia ne adulteria committerent, ne fidem fallerent, ne
     depositum adpellati abnegarent.*
+
+- *adfirmabant* from *adfirmo, adfirmare* is 3rd plural imperfect active
+  indicative, meaning to affirm.
+- *fuisse* is the perfect active infinitive. Sets off indirect speech with
+  *hanc*.
+- *essent soliti* from *soleo, solere, solitus sum* is 3rd plural pluperfect
+  passive subjunctive, meaning to be accustomed to. This is subjunctive either
+  because it's a relative inside of indirect speech, or is another alleged
+  reason subjunctive.
+- *conuenire*, *dicere*, and *obstringere* are taken by *essent soliti* and are
+  present active infinitive, meaning to assemble, to sing, and to bind
+  respectively.
+- *committterent* from *commito, committere* is 3rd plural imperfect active
+  subjunctive, meaning to commit. This is subjuncttive because it's negative
+  purpose clause.
+- *fallerent* from *fallo, fallere, fefelli, falsus* is 3rd plural imperfect
+  active subjunctive, meaning to deceive.
+- *abnegarent* from *abnego, abnegare, abnegavi, abnegatus* is 3rd plural
+  imperfect active subjunctive, meaning to deny.
+
+    They were afffirming however that this had been the highest of either their
+    own blame or error, which they had become accustomed to assemble before
+    light on a having been erected day, and to sing a song mutually with
+    themselves to Crist as if the to god and to bind themselves not in regard to
+    some crime, but lest they commit theft, robbrey, or adultry, lest they
+    deceive loyalty, lest they having been called upon deny a deposit.
+
 18. *Quibus peractis morem sibi discedendi fuisse rursusque coeundi ad capiendum
     cibum, promiscuum tamen et innoxium; quod ipsum facere desisse post edictum
     meum, quo secundum mandata tua hetaerias esse uetueram.*
