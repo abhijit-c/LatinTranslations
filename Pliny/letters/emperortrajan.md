@@ -311,8 +311,32 @@
 18. *Quibus peractis morem sibi discedendi fuisse rursusque coeundi ad capiendum
     cibum, promiscuum tamen et innoxium; quod ipsum facere desisse post edictum
     meum, quo secundum mandata tua hetaerias esse uetueram.*
+
+- *peractis* from *perago, peragere* is the perfect passive participle, meaning
+  to disturb.
+- *discendi* from *dico, discere, didici, discitus* is the future passive
+  participle, meaning to depart.
+- *coeundi* from *coeo, coire* is the future passive participle, meaning to
+  come together.
+- *capiendum* from *capio, capere, cepi, captus* is the future passive
+  participle, meaning to seize. 
+
+    With those things having been done it had been custom to them to depart and
+    to come together again to seize food, nevertheless common and harmless;
+    which itself they had stopped to do after my decree which according to your
+    mandate I had forbidden that there be fraternities
+
 19. *Quo magis necessarium credidi ex duabus ancillis, quae ministrae dicebantur,
     quid esset ueri, et per tormenta quaerere.*
+
+- *credidi* from *credo, credere, credidi, creditus* is 1st singular perfect
+  active indicative, meaning to trust.
+- *dicebantur* from *dico, dicere, dixi, dictus* is 3rd plural imperfect passive
+  indicative, meaning to say.
+
+    because of which I believed it more necessary and to seek from two slave girls, who
+    are called female attendants, through torture what was true.
+
 20. *Nihil aliud inueni quam superstitionem prauam et immodicam.*
 21. *Ideo dilata cognitione ad consulendum te decucurri.*
 22. *Visa est enim mihi res digna consultatione, maxime propter periclitantium
