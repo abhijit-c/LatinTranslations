@@ -275,3 +275,27 @@
 
     All these people also revered both your image and the images of the gods and
     spoke ill to Christ.
+
+17. *Adfirmabant autem hanc fuisse summam uel culpae suae uel erroris, quod
+    essent soliti stato die ante lucem conuenire, carmenque Christo quasi deo
+    dicere secum inuicem seque sacramento non in scelus aliquod obstringere, sed
+    ne furta ne latrocinia ne adulteria committerent, ne fidem fallerent, ne
+    depositum adpellati abnegarent.*
+18. *Quibus peractis morem sibi discedendi fuisse rursusque coeundi ad capiendum
+    cibum, promiscuum tamen et innoxium; quod ipsum facere desisse post edictum
+    meum, quo secundum mandata tua hetaerias esse uetueram.*
+19. *Quo magis necessarium credidi ex duabus ancillis, quae ministrae dicebantur,
+    quid esset ueri, et per tormenta quaerere.*
+20. *Nihil aliud inueni quam superstitionem prauam et immodicam.*
+21. *Ideo dilata cognitione ad consulendum te decucurri.*
+22. *Visa est enim mihi res digna consultatione, maxime propter periclitantium
+    numerum.* 
+23. *Multi enim omnis aetatis, omnis ordinis, utriusque sexus etiam uocantur in
+    periculum et uocabuntur.*
+24. *Neque ciuitates tantum, sed uicos etiam atque agros superstitionis istius
+    contagio peruagata est; quae uidetur sisti et corrigi posse.*
+25. *Certe satis constat prope iam desolata templa coepisse celebrari, et sacra
+    sollemnia diu intermissa repeti passimque uenire \<carnem\> uictimarum,
+    cuius adhuc rarissimus emptor inueniebatur.*
+26. *Ex quo facile est opinari, quae turba hominum emendari possit, si sit
+    paenitentiae locus.*
