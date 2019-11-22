@@ -297,6 +297,8 @@
   command.
 - *fallerent* from *fallo, fallere, fefelli, falsus* is 3rd plural imperfect
   active subjunctive, meaning to deceive.
+- *adpellati* from *adpello, adpellare* is the perfect passive participle,
+  meaning to call (upon).
 - *abnegarent* from *abnego, abnegare, abnegavi, abnegatus* is 3rd plural
   imperfect active subjunctive, meaning to deny.
 
@@ -304,8 +306,8 @@
     own blame or error, which they had become accustomed to assemble before
     light on a having been fixed day, and to sing a song mutually with
     themselves to Crist as if to a god and to bind themselves by means of
-    a solemn oath, not in some crime, but lest they commit theft, robbrey, or
-    adultry, lest they deceive loyalty, lest they having been called upon deny
+    a solemn oath, not in some crime, but to not commit theft, robbrey, or
+    adultry, to not deceive loyalty, to, having been called upon, not deny
     a deposit.
 
 18. *Quibus peractis morem sibi discedendi fuisse rursusque coeundi ad capiendum
@@ -314,17 +316,24 @@
 
 - *peractis* from *perago, peragere* is the perfect passive participle, meaning
   to disturb.
-- *discendi* from *dico, discere, didici, discitus* is the future passive
-  participle, meaning to depart.
-- *coeundi* from *coeo, coire* is the future passive participle, meaning to
-  come together.
-- *capiendum* from *capio, capere, cepi, captus* is the future passive
-  participle, meaning to seize. 
-
-    With those things having been done it had been custom to them to depart and
-    to come together again to seize food, nevertheless common and harmless;
-    which itself they had stopped to do after my decree which according to your
-    mandate I had forbidden that there be fraternities
+- *fuisse* is the perfect infinitive. This is the historical infinitive. Or
+  there is some hijinks going on, and I don't like it.
+- *discendi* from *discedo, discere, didici, discitus* is the genitive gerund,
+  meaning to depart.
+- *coeundi* from *coeo, coire* is the genitive gerund, meaning to come together.
+- *capiendum* from *capio, capere, cepi, captus* is the gerundive modifying
+  *cibum*, meaning to seize.
+- *facere* from *facio, facere, feci, factus* si the present active infinitive.
+- *desisse* from *desino, desinere, desivi, desitus* (it's syncopated) is the
+  perfect active infinitive. This is a historical infinitive.
+- not sure what kind of ablative is *quo*.
+- *uetueram* from *veto, vetare* is 1st singular pluperfect active indicative,
+  meaning to forbit.
+    
+    With those things having been done it had been the custom of departing and
+    returning again for the sake of seizing food, nevertheless common and
+    harmless; which they themselves had desisted to do after my proclaimation,
+    by which, according to your orders, I had forbidden to be a brotherhood.
 
 19. *Quo magis necessarium credidi ex duabus ancillis, quae ministrae dicebantur,
     quid esset ueri, et per tormenta quaerere.*
@@ -333,20 +342,112 @@
   active indicative, meaning to trust.
 - *dicebantur* from *dico, dicere, dixi, dictus* is 3rd plural imperfect passive
   indicative, meaning to say.
+- *esset* is 3rd singular imperfect active subjunctive.
+- *quaerere* from *quaero, quaerere, quaesivi, quaesitus* is the present active
+  infintive, meaning to seek.
 
-    because of which I believed it more necessary and to seek from two slave girls, who
-    are called female attendants, through torture what was true.
+    Because of those things I believed it more necessary to seek even through
+    torture what were the true things from the two slave girls, who were called
+    attendants.
 
 20. *Nihil aliud inueni quam superstitionem prauam et immodicam.*
+
+- *inueni* from *invenio, invenire, inveni, inventus* is 1st singular perfect
+  active indicative, meaning to discover.
+
+    I discovered nothing other than a crooked and excessive superstition.
+
 21. *Ideo dilata cognitione ad consulendum te decucurri.*
+
+- *dilata cognitione* is an ablative absolute.
+- *dilata* from *differo, differre, distuli, dilatus* is the perfect passive
+  participle, meaning to stop.
+- *consulendum* from *consulo, consulere, consului, consultus* is the gerundive,
+  meaning to consult.
+- *decucurri* from *decurro, decurrere, decucurri, decursus* is 1st singular
+  perfect active indicative, meaning to hurry.
+
+    Therefore with the examination having been stopped I hastened for the sake
+    of consulting you.
+
 22. *Visa est enim mihi res digna consultatione, maxime propter periclitantium
     numerum.* 
+
+- *visa est* from *video, videre, vidi, visus* is 3rd singular perfect passive
+  indicative, meaning to see.
+- *periclitantium* from *periclitor, periclitari, periclitatus sum* is the
+  present participle, meaning to try.
+
+    For this affiar seemed worthy of consulatation, especially because of the
+    number of risking people.
+
 23. *Multi enim omnis aetatis, omnis ordinis, utriusque sexus etiam uocantur in
     periculum et uocabuntur.*
+
+- *uocantur* from *voco, vocare* is 3rd plural present passive indicative,
+  meaning to call.
+- *uocabuntur* from above is 3rd plural future passive indicative.
+
+    For many people of every age, of every rank, and even of whichever sex are
+    called into danger and [many people] shall be called.
+
 24. *Neque ciuitates tantum, sed uicos etiam atque agros superstitionis istius
     contagio peruagata est; quae uidetur sisti et corrigi posse.*
+
+- *peruagata est* from *pervagor, pervagari, pervagatus sum* is 3rd singular
+  perfect indicative, meaning to wander or range through.
+- *uidetur* from *video, videre, vidi, visus* is 3rd singular present passive
+  indicative.
+- *sisti* from *sisto, sistere, stiti, status* is the present passive
+  infinitive, meaning to stop.
+- *corrigi* from *corrigo, corrigere, correxi, correctus* is the present passive
+  infinitive, meaning to correct.
+- *posse* from *possum, posse, potui* is the present active infinitive, meaning
+  to be able.
+
+    Not only the the cities, but also the villages and fields the influence of
+    that superstition pervaded; which it seems that it is able to be stopped and
+    be corrected.
+
 25. *Certe satis constat prope iam desolata templa coepisse celebrari, et sacra
     sollemnia diu intermissa repeti passimque uenire \<carnem\> uictimarum,
     cuius adhuc rarissimus emptor inueniebatur.*
+
+- *constat* from *consto, constare, constiti, constatus* is 3rd singular present
+  active indicative, meaning it is agreed.
+- *desolata* from *desolo, desolare* is the perfect passive participle, meaning
+  to forsake. This modifies *templa*.
+- *coepisse* from *coepio, coepere, coepi, coeptus* is the perfect active
+  infinitive, meaning to begin. This sets off indirect speech with head verb
+  *constat*.
+- *celebrari* from *celebro, celebrare* is the present passive infinitive,
+  meaning to crowd. Taken by *coepisse*.
+- *intermissa* from *intermitto, intermittere* is the perfect passive
+  participle, meaning to interrupt.
+- *repeti* from *repeto, repetere, repretivi, repetitus* is the present passive
+  infinitive, meaning to return to.
+- *uenire* from *venio, venire, veni, ventus* is the present active infinitive,
+  meaning to come.
+- *inueniebatur* from *invenio, invenire* is 3rd singular imperfect passive
+  indicative, meaning to find.
+
+    Certainly it is agreed enough that now the forsaken temples had begun to be
+    crowded, and the sacred practices having been interrupted for a long time
+    are returned to and the flesh of sacrifices comes in every direction, of
+    which very few a buyer was begin found.
+
 26. *Ex quo facile est opinari, quae turba hominum emendari possit, si sit
     paenitentiae locus.*
+
+- *esse* is the present active infinitive.
+- *opinari* from *opinor, opinari, opinatus sum* is the present infinitive,
+  meaning to suppose.
+- *emendari* from *emendo, emendare* is the present passive infinitive, meaning
+  to correct.
+- *possit* from *possum, posse, potui* is 3rd singular present active
+  subjunctive, meaning to be able.
+- *sit* is 3rd singular present active subjunctive.
+- This is looking future-less-vividy, but the relative is throwing me off a tad.
+
+    From which it is easy to imagine, what things a crowd of men would be able
+    to be corrected, if there should be a location for penance.
