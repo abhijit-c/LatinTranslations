@@ -314,6 +314,7 @@
     cibum, promiscuum tamen et innoxium; quod ipsum facere desisse post edictum
     meum, quo secundum mandata tua hetaerias esse uetueram.*
 
+- *quibus* is a connective relative.
 - *peractis* from *perago, peragere* is the perfect passive participle, meaning
   to disturb.
 - *fuisse* is the perfect infinitive. This is the historical infinitive. Or
@@ -331,24 +332,26 @@
   meaning to forbit.
     
     With those things having been done it had been the custom of departing and
-    returning again for the sake of seizing food, nevertheless common and
-    harmless; which they themselves had desisted to do after my proclaimation,
-    by which, according to your orders, I had forbidden to be a brotherhood.
+    returning again for the seizing of food, nevertheless common and harmless;
+    which itself they stopped to do after my proclaimation, by which, according
+    to your orders, I had forbidden there to be brotherhoods.
 
 19. *Quo magis necessarium credidi ex duabus ancillis, quae ministrae dicebantur,
     quid esset ueri, et per tormenta quaerere.*
 
+- *quo* is another connective relative.
 - *credidi* from *credo, credere, credidi, creditus* is 1st singular perfect
   active indicative, meaning to trust.
 - *dicebantur* from *dico, dicere, dixi, dictus* is 3rd plural imperfect passive
   indicative, meaning to say.
 - *esset* is 3rd singular imperfect active subjunctive.
+- *ueri* is a partitive genitive.
 - *quaerere* from *quaero, quaerere, quaesivi, quaesitus* is the present active
   infintive, meaning to seek.
 
-    Because of those things I believed it more necessary to seek even through
-    torture what were the true things from the two slave girls, who were called
-    attendants.
+    All the more by these things I believed that it was more necessary to seek
+    even through torture what of truth it was from the two slave girls, who were
+    called attendants.
 
 20. *Nihil aliud inueni quam superstitionem prauam et immodicam.*
 
@@ -367,8 +370,8 @@
 - *decucurri* from *decurro, decurrere, decucurri, decursus* is 1st singular
   perfect active indicative, meaning to hurry.
 
-    Therefore with the examination having been stopped I hastened for the sake
-    of consulting you.
+    Therefore with the examination having been deferred I hastened for
+    consulting you.
 
 22. *Visa est enim mihi res digna consultatione, maxime propter periclitantium
     numerum.* 
@@ -378,8 +381,8 @@
 - *periclitantium* from *periclitor, periclitari, periclitatus sum* is the
   present participle, meaning to try.
 
-    For this affiar seemed worthy of consulatation, especially because of the
-    number of risking people.
+    For this affiar seemed to me worthy of consulatation, especially because of the
+    number of those endangered.
 
 23. *Multi enim omnis aetatis, omnis ordinis, utriusque sexus etiam uocantur in
     periculum et uocabuntur.*
@@ -388,7 +391,7 @@
   meaning to call.
 - *uocabuntur* from above is 3rd plural future passive indicative.
 
-    For many people of every age, of every rank, and even of whichever sex are
+    For many people of every age, of every rank, and even of either sex are
     called into danger and [many people] shall be called.
 
 24. *Neque ciuitates tantum, sed uicos etiam atque agros superstitionis istius
@@ -405,8 +408,8 @@
 - *posse* from *possum, posse, potui* is the present active infinitive, meaning
   to be able.
 
-    Not only the the cities, but also the villages and fields the influence of
-    that superstition pervaded; which it seems that it is able to be stopped and
+    Neither only the cities, but also the villages and fields the influence of
+    that superstition pervaded; which seems that it is able to be stopped and
     be corrected.
 
 25. *Certe satis constat prope iam desolata templa coepisse celebrari, et sacra
