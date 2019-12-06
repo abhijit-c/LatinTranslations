@@ -9,4 +9,7 @@ header-includes:
     - \usepackage{baskervald}
     - \usepackage{enumitem}
     - \setlist{nolistsep,leftmargin=*}
+    - \usepackage[bottom]{footmisc}
+    - \usepackage{chngcntr}
+    - \counterwithin*{footnote}{section}
 ---
