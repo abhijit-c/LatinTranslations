@@ -1,5 +1,5 @@
 ---
-title: Vergil: Georgics I and IV
+title: "Vergil: Georgics I and IV"
 subtitle: A Latin to English Translation
 author: Abhijit Chowdhary
 date: \today{}

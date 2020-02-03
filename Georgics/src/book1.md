@@ -24,10 +24,10 @@
 - *incipiam* from *incipio, incipere, incepi, inceptus* is 1st singular future
   active indicative, meaning to begin.
 
-      What makes prosperous crops, by which star is it fitting to turn the land,
-      Maecenas, and by which star is it fitting to attach the vines to the elms,
-      what care of cows, what maintainance is it for having cattle, how much
-      experience for having frugal bees, hence I will begin to sing.
+What makes prosperous crops, by which star is it fitting to turn the land,
+Maecenas, and by which star is it fitting to attach the vines to the elms, what
+care of cows, what maintainance is it for having cattle, how much experience for
+having frugal bees, hence I will begin to sing.
 
 |                       *vos, o clarissima mundi*
 | *lumina, labentem caelo quae ducitis annum,*
