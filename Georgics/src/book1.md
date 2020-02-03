@@ -6,6 +6,29 @@
 | *sit pecori, apibus quanta experientia parcis,*
 | *hinc canere incipiam.*
 
+- *faciat* from *facio, facere, feci, factus* is 3rd singular present active
+  subjunctive, meaning to make. This is subjunctive because it's an indirect
+  question. 
+- *vertere* from *verto, vertere, verti, versus* is the present active
+  infinitive, meaning to turn.
+- *adiungere* from *adiungo, adiungere, adiunxi, adiunctus* is the present
+  active infinitive, meaning to attach.
+- Critical note, *vitis* here is the alternative plural accusative form while
+  *ulmis* is the dative.
+- *conveniat* from *convenio, convenire, conveni, conventus* is 3rd singular
+  present active subjunctive, meaning to be appropriate to.
+- *habendo* from *habeo, habere, habio, habitus* is the future passive
+  participle, meaning to have. This is the gerundive modifying *pecori*.
+- Reduplicated the gerundive to fit with *apibus*, as potentially indicated by
+  the notes.
+- *incipiam* from *incipio, incipere, incepi, inceptus* is 1st singular future
+  active indicative, meaning to begin.
+
+      What makes prosperous crops, by which star is it fitting to turn the land,
+      Maecenas, and by which star is it fitting to attach the vines to the elms,
+      what care of cows, what maintainance is it for having cattle, how much
+      experience for having frugal bees, hence I will begin to sing.
+
 |                       *vos, o clarissima mundi*
 | *lumina, labentem caelo quae ducitis annum,*
 | *Liber et alma Ceres, vestro si munere tellus*
@@ -15,12 +38,60 @@
 | *(ferte simul Faunique pedem Dryadesque puellae) -*
 | *munera vestra cano.*
 
+- *clarissima* is the superlative of *clarus*.
+- *labentem* from *labor, labi, lapsus sum* is the present participle, meaning
+  to gliding.
+- Note *labentem* fits with *annum* despite it not being insidie the *quae*.
+- The book says *caelo* is a local ablative, no idea what that is. Local is just
+  a short distance away from locative, perhaps it's locative ablative?
+- *Liber* is a name for *Bacchus*, so says the notes.
+- *vestro* and *munere* go together inside *si*.
+- *mutavit* from *muto, mutare* is 3rd singular perfect active indicative,
+  meaning to move. Note that verbs of exchanging like *muto* take the thing
+  taken or the thing given in the ablative of price (A\&G 417b), i.e. *pingui
+  arista* here.
+- *miscuit* from *misceo, miscere, miscui, mixtus* is 3rd singular perfect
+  active indicative, meaning to mix.
+- *inventis* from *invenio, invenire, inveni, inventus* is the perfect passive
+  participle, meaning to find.
+- *praesentia* from *praesens* in the back means present, but it notes that at
+  this line specifically it means read-to-aid.
+- Not sure why *Fauns* is plural, isn't it just one god?
+- *ferte* from *fero, ferre, tuli, latus* is the present active imperative
+  meaning to bring.
+- *cano* from *cano, canere, cecini, cantus* is 1st singular present active
+  indicative, meaning to sing.
+
+      You all, O brightest lights of the universe, who lead the gliding year in
+      the sky, Bacchus and kind Ceres, if by your service the earth exchanged
+      the Chaones acorn for a rich harvest, and the Acheloian cups mixed with
+      having been found grapes, and you all, the ready-to-aid divinities of the
+      countryside, Fauns (Fauns and Dryad girls, simultaenously bring your feet
+      together), -- I sing of your gifts.
+
 |                     *tuque o, cui prima frementem*
 | *fudit equum magno tellus percussa tridenti,*
 | *Neptune;*
 
+- *frementem* from *fremo, fremere, fremui, fremitus* is the present active
+  participle, meaning to clamor for. Modifies *equum*.
+- *fudit* from *fundo, fundere, fudi, fusus* is 3rd singular perfect active
+  indicative, meaning to pour.
+- *percussa* from *percutio, percutere, peprcussi, percussus* is the perfect
+  passive participle, meaning to beat/strike. Note this goes with *tellus* and
+  and is modified by *magno tridenti*.
+
+      O and you Nepture, for whom the earth, having been struck with a great
+      trident, first poured a roaring horse;
+
 |          *et cultor nemorum, cui pinguia Ceae*
 | *ter centum nivei tondent dumeta iuvenci;*
+
+- *tondent* from *tondeo, tondere, totondi, tonsus* is 3rd plural present active
+  indicative, meaning to cut.
+
+      and the inhabitant of the forest, for whom 300 snowy young bulls cut the
+      rich thickets of Cea;
 
 
 | *ipse nemus linquens patrium saltusque Lycaei*
