@@ -32,6 +32,9 @@
 | *floribus insultent, aut errans bucula campo*
 | *decutiat rorem et surgentis atterat herbas.*
 
+- Note *surgentis* is accusative alternate ending, which you can ascertain by
+  meter it must be *īs*, not *is*.
+
 | *absint et picti squalentia terga lacerti*
 | *pinguibus a stabulis, meropesque aliaeque volucres*
 | *et manibus Procne pectus signata cruentis;*
@@ -40,10 +43,12 @@
   subjunctive, meaning to be away/absent.
 - *signata* from *signo, signare, signavi, signatus* is the perfect passive
   participle, meaning to mark/stamp.
+- Accusative of respect! Accusative of limitation is this, but Huxley is British
+  so we must suffer.
 
-      Let the scaly backs of the painted lizard be removed from the rich
-      stalls, and the bee eater and the other birds and Procne, breast having
-      been marked by bloody hands.
+      Let the lizards painted with respect to their scaly backs be removed from
+      the rich stalls, and the bee eater and the other birds and Procne
+      having been marked with respect to her breast by bloody hands.
 
 | *omnia nam late vastant ipsasque volantis*
 | *ore ferunt dulcem nidis immitibus escam.*
@@ -53,8 +58,8 @@
 - *ferunt* from *fero, ferre, tuli, latus* is 3rd plural present active
   indicative, meaning to bring.
 
-      For far and wide they themselves ravage all things and carry off pleasant
-      food with their cruel mouths to their nests.
+      For all things far and wide ravage the flying things themselves and carry
+      off pleasant food with their cruel mouths to their nests.
 
 | *at liquidi fontes et stagna virentia musco*
 | *adsint et tenuis fugiens per gramina rivus,*
@@ -64,7 +69,7 @@
 - *fugiens* from *fugio, fugere, fugi, fugitus* is the present active
   participle, meaning to flee.
 
-      but let clear springs and pools green with moss and a thin stream fleeing
+      but let clear springs and pools greening with moss and a thin stream fleeing
       through the grass be present, 
 
 | *palmaque vestibulum aut ingens oleaster inumbret,*
@@ -87,8 +92,8 @@
 
       so that, when the new kings will lead the first swarms in their own
       spring, and when the youth having been sent out from the honeycombs will
-      play, a nearby bank invites them to reture from the heat, and an in the
-      way tree might hold them with its being in leaf hospitality.
+      play, a nearby bank invites them to retire from the heat, and an in the
+      way tree may hold them with its being in leaf hospitality.
 
 | *in medium, seu stabit iners seu profluet umor,*
 | *transversas salices et grandia conice saxa,*
