@@ -98,15 +98,79 @@
 | *in medium, seu stabit iners seu profluet umor,*
 | *transversas salices et grandia conice saxa,*
 
+- Note says that *in medium* is likely neuter (meaning middle/center) as opposed
+  to masculine (meaning mediator/one who stands in the middle). Basically,
+  *medius, medii* versus *medium, medi(i)*.
+- Note *seu...seu* is a coordinating conjunction meaning 'wether...or'.
+- *stabit* from *sto, stare, steti, status* is 3rd singular future active
+  indicative, meaning to stand.
+- *profluet* from *profluo, profluere, profluxi, profluctus* is 3rd singular
+  future active indicative, meaning to flow forth or along.
+- *conice* from *conicio, conicere, conieci, coniectus* is the present active
+  imperative, meaning to hurl.
+
+      Into the middle, whether the inert moisture will stand still or will flow
+      forth, hurl willow-trees lying across and large stones,
+
 | *pontibus ut crebris possint consistere et alas*
-| *pandere ad aestivum solem, si forte morantis*
+| *pandere ad aestivum solem,*
+
+- *possint* from *possum, posse, potui* is 3rd plural present active
+  subjunctive, meaning to be able.
+- *consistere* from *consisto, consistere, constiti, constitus* is the present
+  active infinitive, meaning to stop/halt/cease.
+- *pandere* from *pando, pandere, pandi, passus* is the present active
+  infinitive, meaning to spread out.
+
+      so that they are able to linger by the numerous bridges and spread out
+      their wings toward the summer sun,
+
+|                            *si forte morantis*
 | *sparserit aut praeceps Neptuno immerserit Eurus.*
+
+- *morantis* from *moror, morari, moratus sum* is the present participle (ACC),
+  meaning to delay.
+- *sparserit* from *spargo, spargere, sparsi, sparsus* is , meaning to
+  scatter/sprinkle.
+- *immerserit* from *immergo, immergere, immersi, immersus* is , meaning to
+  drop/plunge.
+- *Neptuno* wants to be some kind of locative ablative, i.e. 'in the ocean' like
+  the notes say. But I think literally we can take it as accompaniment?
+
+      if by chance the headlong East wind will have scattered those staying or
+      will have plunged them with Neptune.
+
 | *haec circum casiae virides et olentia late*
 | *serpylla et graviter spirantis copia thymbrae*
 | *floreat, inriguumque bibant violaria fontem.*
+
+- *floreat* from *floreo, florere, florui* is 3rd singular present active
+  subjunctive, meaning to flourish.
+- *bibant* from *bibo, bibere, bibi, bibitusu* is 3rd plural present active
+  subjunctive, meaning to drink.
+
+      Let this flourish about green spurge-laurels and wild thyme odorous far
+      and wide and plenty things deeply exhaling of armotic plants, and let
+      a bed of violets drink the moisture-bringing spring.
+
 | *ipsa autem, seu corticibus tibi suta cavatis*
 | *seu lento fuerint alvaria vimine texta,*
-| *angustos habeant aditus: nam frigore mella*
+| *angustos habeant aditus:*
+
+- *suta* from *suo, suere, sui, sutus* is the perfect passive participle,
+  meaning to sew together/stitch.
+- *fuerint* is 3rd plural perfect active subjunctive.
+- *texta* from *texo, texere, texui, textus* is the perfect passive participle,
+  meaning to weave.
+- *tibi* dative of agent, *corticibus cavatis* and *lento vimine* are ablative
+  of means.
+- *habeant* from *habeo, habere, habui, habitus* is 3rd plural present active
+  subjunctive, meaning to have.
+
+      But, whether the beehives were sown with hollow bark or were woven with
+      a pliant twig by you, let them have a narrow entrace.
+
+|                          *nam frigore mella*
 | *cogit hiems, eademque calor liquefacta remittit -*
 | *utraque vis apibus pariter metuenda; neque illae*
 | *nequiquam in tectis certatim tenuia cera*
