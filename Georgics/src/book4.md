@@ -246,3 +246,142 @@
 
 | *hinc ubi iam emissum caveis ad sidera caeli*
 | *nare per aestatem liquidam suspexeris agmen*
+
+| *obscuramque trahi vento mirabere nubem,*
+| *contemplator: aquas dulcis et frondes semper*
+| *tecta perunt, huc tu iussos asperge sapores,*
+| *trita melisphylla et cerinthae ignobile gramen,*
+| *tinnitusque cie et Matris quate cymbala circum:*
+| *ipsae consident medicatis sedibus, ipsae*
+| *intima more suo sese in cunabula condent.*
+| *Sin autem ad pugnam exierint nam saepe duobus*
+| *regibus incessit magno discordia motu;*
+| *continuoque animos vulgi et trepidantia bello*
+| *corda licet longe praesciscere: namque morantis*
+| *Martius ille aeris rauci canor increpat, et vox*
+| *auditur fractos sonitus imitata tubarum;*
+
+- STOP BEING SHIT ABHI
+
+| *tum trepidae inter se coeunt pennisque coruscant*
+| *spiculaque exacuunt rostris aptantque lacertos*
+| *et circa regem atque ipsa ad praetoria densae*
+| *miscentur magnisque vocant clamoribus hostem;*
+
+- *coeunt* from *coeo, coeire, coeivi, coitus* is 3rd plural present active
+  indicative, meaning to rally.
+- *coruscant* from *corusco, coruscare, coruscavi, coruscatus* is 3rd plural
+  present active indicative, meaning to brandish.
+- *exacuunt* from *exacuo, exacuere, exacui, exacutus* is 3rd plural present
+  active indicative, meaning to make sharp or pointed.
+- *aptant* from *apto, aptare* is 3rd plural present active indicative, meaning
+  to adapt/fit.
+- *miscentur* from *misceo, miscere, miscui, mixtus* is 3rd plural present
+  passive indicative, meaning to mix/mingle/embroil.
+- *vocant* from *voco, vocare* is 3rd plural present active indicative, meaning
+  to call.
+
+      Then they nervously gather amongst themselves and quiver with their wings
+      and sharpen their stings with their beaks and adjust their muscles and
+      densly they are embroiled around the king and near the general's tent and
+      with a great cry they call/challenge the enemy.
+
+| *ergo ubi ver nactae sudum camposque patentis,*
+| *erumpunt portis;*
+
+- *nactae* from *nanciscor, nancisci, nactus sum* is the perfect participle,
+  meaning to obtain/get.
+- *erumpunt* from *erumpo, erumpere, erupi, eruptus* is 3rd plural present
+  active indicative, meaning to burst/sally forth/out.
+
+      Therefore when they obtained a clear spring and open plains, they burst
+      forth from their gates;
+
+|                  *concurritur, aethere in alto*
+| *fit sonitus, magnum mixtae glomerantur in orbem*
+| *praecipitesque cadunt;*
+
+- *concurritur* from *concurro, concurrere, concucurri, concursus* is 3rd
+  singular present passive indicative, meaning to run/assemble. Not sure how to
+  translate this impersonal.
+- *fit* from *fio, feri, factus sum* is 3rd singular present active indicative,
+  and is the passive of facio.
+- *mixtae* from *misceo, miscere, miscui, mixtus* is the perfect passive
+  participle, meaning to mix/mingle/embroil.
+- *glomerantur* from *glomero, glomerare* is 3rd plural present passive
+  indicative, meaning to collect/assemble.
+- *cadunt* from *cado, cadere, cecidi, casus* is 3rd plural present active
+  indicative, meaning to fall/sink/die.
+
+      it is concurred(?), in the high sky a loud sound is made, they, having been
+      mingled, are amassed into a great sphere and they headlong plummet.
+
+|                        *non densior aëre grando,*
+| *nec de concussa tantum pluit ilice glandis:*
+| *ipsi per medias acies insignibus alis*
+| *ingentis animos angusto in pectore versant,*
+| *usque adeo obnixi non cedere dum gravis aut hos*
+| *aut hos versa fuga victor dare terga subegit.*
+| *hi motus animorum atque haec certamina tanta*
+| *pulveris exigui iactu compressa quiescent.*
+
+      no thicker is hail from the sky, not so dense is the rain of acorns from the
+      shaken oak. In the midst of the ranks the chiefs themselves, with resplendent
+      wings, have mighty souls beating in tiny breasts, ever steadfast not to yield,
+      until the victor’s heavy hand has driven these or those to turn their backs in
+      flight. These storms of passion, these savage conflicts, by the tossing of
+      a little dust will be quelled and laid to rest.
+
+| *Verum ubi ductores acie revocaveris ambo,*
+| *deterior qui visus, eum, ne prodigus obsit,*
+| *dede neci; melior vacua sine regnet in aula.*
+| *alter erit maculis auro squalentibus ardens;*
+| *nam duo sunt genera: hic melior insignis et ore*
+
+| *et rutilis clarus squamis; ille horridus alter*
+| *desidia latamque trahens inglorius alvum.*
+
+      But when you have called both captains back from the field, give up to death the
+      meaner of look, that he prove no wasteful burden; let the nobler reign in the
+      palace alone. The one will be aglow with rough spots of gold for there are two
+      sorts: one is better, noble of mien and bright with gleaming scales; the other
+      squalid from sloth, and trailing ignobly a broad paunch.
+
+| *ut binae regum facies, ita corpora plebis.*
+| *namque aliae turpes horrent, ceu pulvere ab alto*
+| *cum venit et sicco terram spuit ore viator*
+| *aridus; elucent aliae et fulgore coruscant*
+| *ardentes auro et paribus lita corpora guttis.*
+| *haec potior suboles, hinc caeli tempore certo*
+| *dulcia mella premes, nec tantum dulcia quantum*
+| *et liquida et durum Bacchi domitura saporem.*
+
+      As twofold are the features of the kings, so are the bodies of the subjects. For
+      some are ugly and unsightly, as when from out of deep dust comes the parched
+      wayfarer, and spits the dirt from his dried mouth. Other gleam, and flash in
+      splendour, their bodies all ablaze and flecked with equal drops of gold. This is
+      the nobler breed; from this, in the sky’s due season, you will strain sweet
+      honey – yet not so sweet as clear, and fit to subdue the harsh flavour of wine.
+
+| *At cum incerta volant caeloque examina ludunt*
+| *contemnuntque favos et frigida tecta relinquunt,*
+| *instabilis animos ludo prohibebis inani.*
+| *nec magnus prohibere labor: tu regibus alas*
+| *eripe; non illis quisquam cunctantibus altum*
+| *ire iter aut castris audebit vellere signa.*
+| *invitent croceis halantes floribus horti*
+| *et custos furum atque avium cum falce saligna*
+| *Hellespontiaci servet tutela Priapi.*
+| *ipse thymum pinosque ferens de montibus altis*
+| *tecta serat late circum cui talia curae;*
+| *ipse labore manum duro terat, ipse feracis*
+| *figat humo plantas et amicos inriget imbris.*
+| *Atque equidem, extremo ni iam sub fine laborum*
+| *vela traham et terris festinem advertere proram,*
+| *forsitan et pinguis hortos quae cura colendi*
+| *ornaret canerem, biferique rosaria Paesti,*
+| *quoque modo potis gauderent intiba rivis*
+| *et virides apio ripae, rtusque per herbam*
+| *cresceret in ventrem cucumis; nec sera comantem*
+| *narcissum aut flexi tacuissem vimen acanthi*
+| *pallentisque hederas et amantis litora myrtos.*
