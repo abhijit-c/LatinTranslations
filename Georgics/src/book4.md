@@ -284,7 +284,7 @@
       Then they nervously gather amongst themselves and quiver with their wings
       and sharpen their stings with their beaks and adjust their muscles and
       densly they are embroiled around the king and near the general's tent and
-      with a great cry they call/challenge the enemy.
+      they call the enemy with great cries.
 
 | *ergo ubi ver nactae sudum camposque patentis,*
 | *erumpunt portis;*
@@ -294,7 +294,7 @@
 - *erumpunt* from *erumpo, erumpere, erupi, eruptus* is 3rd plural present
   active indicative, meaning to burst/sally forth/out.
 
-      Therefore when they obtained a clear spring and open plains, they burst
+      Therefore when they obtained a dry spring day and open plains, they burst
       forth from their gates;
 
 |                  *concurritur, aethere in alto*
@@ -313,8 +313,9 @@
 - *cadunt* from *cado, cadere, cecidi, casus* is 3rd plural present active
   indicative, meaning to fall/sink/die.
 
-      it is concurred(?), in the high sky a loud sound is made, they, having been
-      mingled, are amassed into a great sphere and they headlong plummet.
+      there is a flocking together, in the high sky a loud sound is made, they,
+      having been mingled, are amassed into a great sphere and they headlong
+      plummet.
 
 |                        *non densior aëre grando,*
 | *nec de concussa tantum pluit ilice glandis:*
@@ -325,12 +326,13 @@
 | *hi motus animorum atque haec certamina tanta*
 | *pulveris exigui iactu compressa quiescent.*
 
-      no thicker is hail from the sky, not so dense is the rain of acorns from the
-      shaken oak. In the midst of the ranks the chiefs themselves, with resplendent
-      wings, have mighty souls beating in tiny breasts, ever steadfast not to yield,
-      until the victor’s heavy hand has driven these or those to turn their backs in
-      flight. These storms of passion, these savage conflicts, by the tossing of
-      a little dust will be quelled and laid to rest.
+      no thicker is hail from the sky, nor to such a extent does it rain of acorns
+      from the shaken oak: In the midst of the battle-lines the chiefs themselves,
+      with resplendent wings, turn over great souls in their small hearts, ever
+      steadfast not to yield, until the heavy victor drives under either this or this
+      to turn their backs in flight.  These movements of the spririts, these contests
+      of such size, they will be kept quiet, having been compressed, by a toss of
+      a little dust.
 
 | *Verum ubi ductores acie revocaveris ambo,*
 | *deterior qui visus, eum, ne prodigus obsit,*
@@ -341,11 +343,12 @@
 | *et rutilis clarus squamis; ille horridus alter*
 | *desidia latamque trahens inglorius alvum.*
 
-      But when you have called both captains back from the field, give up to death the
-      meaner of look, that he prove no wasteful burden; let the nobler reign in the
-      palace alone. The one will be aglow with rough spots of gold for there are two
-      sorts: one is better, noble of mien and bright with gleaming scales; the other
-      squalid from sloth, and trailing ignobly a broad paunch.
+      But when you have called both captains from the battle-line, give to death he
+      that seemed worse, lest the wasteful one is a nuisance, allow the better reign
+      in the hall alone.  The one will be shining with rough spots of gold; for there
+      are two kinds: this better one, noble of expression and bright with red scales; 
+
+- to finish
 
 | *ut binae regum facies, ita corpora plebis.*
 | *namque aliae turpes horrent, ceu pulvere ab alto*
@@ -356,12 +359,14 @@
 | *dulcia mella premes, nec tantum dulcia quantum*
 | *et liquida et durum Bacchi domitura saporem.*
 
-      As twofold are the features of the kings, so are the bodies of the subjects. For
-      some are ugly and unsightly, as when from out of deep dust comes the parched
-      wayfarer, and spits the dirt from his dried mouth. Other gleam, and flash in
-      splendour, their bodies all ablaze and flecked with equal drops of gold. This is
-      the nobler breed; from this, in the sky’s due season, you will strain sweet
-      honey – yet not so sweet as clear, and fit to subdue the harsh flavour of wine.
+      As the features of the kings are twofold, so are the bodies of the
+      subject.
+
+      For some ugly ones tremble, as when the thirsty traveler comes from the deep
+      dust, and spits earth from his dried mouth.
+
+      Other gleam, and flash in
+      lightning bolt, their bodies all ablaze and flecked with equal specks of gold. 
 
 | *At cum incerta volant caeloque examina ludunt*
 | *contemnuntque favos et frigida tecta relinquunt,*
