@@ -422,68 +422,100 @@
       in lightning bolt, their bodies all ablaze and flecked with equal specks
       of gold. 
 
-| *haec potior suboles, hinc caeli tempore certo*
+| *haec potior suboles, hinc caeli tempore certo* 100
 | *dulcia mella premes, nec tantum dulcia quantum*
 | *et liquida et durum Bacchi domitura saporem.*
 
 - START HERE YOU DUMB FUCK
 
-      This is the nobler breed; from this, in the sky’s due season, you will strain
-      sweet honey – yet not so sweet as clear, and fit to subdue the harsh flavour of
-      wine.
+- Implied *est* on *haec...suboles*.
+- *certo* as appointed see notes.
+- *tantum...quantum* is a coordinating conjunction meaning as much...as.
+- Implied *sunt* on *domitura* turning it into the active periphrastic, which
+  denotes a future or intended action.
+
+      This is the nobler race, from these you will press sweet honeys during the
+      appointed season of the sky, nor so sweet as both clear and intended to
+      subdue the harsh flavor of wine.
 
 | *At cum incerta volant caeloque examina ludunt*
 | *contemnuntque favos et frigida tecta relinquunt,*
-| *instabilis animos ludo prohibebis inani.*
+| *instabilis animos ludo prohibebis inani.* 105
 
-      But when the swarms flit aimlessly and sport in the air, scorning their cells
-      and leaving their hives chill, you must check their fickle spirit from such idle
-      play.
+- Note *incerta* and *caelo* don't match in gender, and therefore cannot match
+  in the ablative.
+- *frigida* is in the proleptic use, see notes.
+- Note that *prohibebis* is future and being used as a placeholder for
+  imperative.
+
+      But when the swarms fly uncertainly and play in the sky and pay no heed to
+      their honeycomb and abandon their houses to get cold, you will restrain
+      their unsteady mind from inane play.
 
 | *nec magnus prohibere labor: tu regibus alas*
 | *eripe; non illis quisquam cunctantibus altum*
 | *ire iter aut castris audebit vellere signa.*
 
-      No hard task is it to check them. Do you tear from the monarchs their wings;
-      while they tarry, no one will dare to go forth aloft, or pluck the standards
-      from the camp.
+- Jesus Vergil, chill with your bee abuse.
+- Implied impersonal *est* connecting *magnus labor*.
+- *iter* as aloft, see notes.
+
+      Nor is it a great labor to restrain them: snatch away the wings from the
+      kings; No one from those hesitating will dare to go aloft or pluck the
+      battle standard from the camps.
 
 | *invitent croceis halantes floribus horti*
-| *et custos furum atque avium cum falce saligna*
+| *et custos furum atque avium cum falce saligna* 110
 | *Hellespontiaci servet tutela Priapi.*
 
-      Let there by gardens fragrant with saffron flowers to invite them, and let the
-      watchmen against thieves and birds, guardian Priapus, lord of the Hellespont,
-      protect them with his willow hook.
+- Subjunctives here are hortatory.
+- Genitive as against, see notes.
+
+      Let gardens being fragrant with golden flowers invite them and let the
+      guard against thieves and birds, protector of Hellespontia Priapus,
+      watch over them with his willow sickle.
 
 | *ipse thymum pinosque ferens de montibus altis*
 | *tecta serat late circum cui talia curae;*
 | *ipse labore manum duro terat, ipse feracis*
-| *figat humo plantas et amicos inriget imbris.*
+| *figat humo plantas et amicos inriget imbris.* 115
 
-      Let him to whom such care falls, himself bring thyme and laurestines from the
-      high hills, and plant them widely round their homes; himself harden his hand
-      with stern toil; himself plant in the ground fruitful slips and sprinkle kindly
-      showers.
+- Note on *et...imbris* here makes no sense, *amicos* is accusative.
+
+      Let he to whom the concerns are such, himself, bringing thyme and pine,
+      plant them widely around their homes; himself wear out his hand with hard
+      labor, himself fasten fruitful cuttings in the ground and water the
+      friendly things with rain.
 
 | *Atque equidem, extremo ni iam sub fine laborum*
 | *vela traham et terris festinem advertere proram,*
 | *forsitan et pinguis hortos quae cura colendi*
 | *ornaret canerem, biferique rosaria Paesti,*
-| *quoque modo potis gauderent intiba rivis*
-| *et virides apio ripae, rtusque per herbam*
+| *quoque modo potis gauderent intiba rivis* 120
+| *et virides apio ripae, tortusque per herbam*
 | *cresceret in ventrem cucumis;*
 
-      In fact, were I not, with my task well-nigh done, about to furl my sails and
-      making haste to turn my prow to land, perchance I might sing what careful
-      tendance clothes rich gardens in flower, and might sing of Paestum whose rose
-      beds bloom twice yearly, how the endive rejoices in drinking streams, the
-      verdant banks in celery; how the cucumber, coiling through the grass, swells
-      into a paunch.
+- *sub* and *fine* seem superfluous, will ignore one? Notes, save me! NOO!
+- Note *canderem* is imperfect. Why is this mixed like this? I don't know!
+- Note makes no sense on *protis...rivis*. Drinking? *potis* is a p.p.p if
+  anything.
+- WTF?
+
+      and indeed, if I were not up to end of my labor, dragging my sails and
+      hastening to turn the prow to land, perhaps I might sing both of what
+      careful cultivating decorates rich gardens and of the twice-blooming roses
+      of Paestum, and in what manner the endives are glad with the having been
+      drunk streams and the green banks are glad with celery, and in what manner
+      the cucumber having been twisted through the grass might be born into
+      a womb.
 
 |                               *nec sera comantem*
 | *narcissum aut flexi tacuissem vimen acanthi*
 | *pallentisque hederas et amantis litora myrtos.*
 
-      Nor should I have passed in silence the late-flowering narcissus, the twining
-      tendril of the acanthus, pale ivy sprays, or the shore-loving myrtle.
+- What the fuck is *amantis litora myrtos*. Two accusative, some kind of
+  indirect statement?
+
+      Nor should I have been silent about the late-flowering narcissus or the
+      twig of the having been bent bear's foot and the pale ivy and the Mrytles
+      that the shores are loving.
