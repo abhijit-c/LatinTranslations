@@ -17,7 +17,7 @@
 
 | *admiranda tibi levium spectacula rerum*
 | *magnanimosque duces totiusque ordine gentis*
-| *mores et studia et populos et proelia dicam.*
+| *mores et studia et populos et proelia dicam.* 5
 
 - *dcam* from *dico, dicere, dixi, dictus* is 1st singular future active
   indicative, meaning to say.
@@ -28,7 +28,7 @@
 | *numina laeva sinunt auditque vocatus Apollo.*
 | *Principio sedes apibus statioque petenda,*
 | *quo neque sit ventis aditus (nam pabula venti*
-| *ferre domum prohibent) neque oves haedique petulci*
+| *ferre domum prohibent) neque oves haedique petulci* 10
 | *floribus insultent, aut errans bucula campo*
 | *decutiat rorem et surgentis atterat herbas.*
 
@@ -37,7 +37,7 @@
 
 | *absint et picti squalentia terga lacerti*
 | *pinguibus a stabulis, meropesque aliaeque volucres*
-| *et manibus Procne pectus signata cruentis;*
+| *et manibus Procne pectus signata cruentis;* 15
 
 - *absint* from *absum, abesse, abfui, abfuturus* is 3rd plural present active
   subjunctive, meaning to be away/absent.
@@ -72,7 +72,7 @@
       but let clear springs and pools greening with moss and a thin stream fleeing
       through the grass be present, 
 
-| *palmaque vestibulum aut ingens oleaster inumbret,*
+| *palmaque vestibulum aut ingens oleaster inumbret,* 20
 
 - *inumbret* from *inumbro, inumbrare, inumbravi, inumbratus* is 3rd singular
   present active subjunctive, meaning to cast a shadow.
@@ -95,7 +95,7 @@
       play, a nearby bank invites them to retire from the heat, and an in the
       way tree may hold them with its being in leaf hospitality.
 
-| *in medium, seu stabit iners seu profluet umor,*
+| *in medium, seu stabit iners seu profluet umor,* 25
 | *transversas salices et grandia conice saxa,*
 
 - Note says that *in medium* is likely neuter (meaning middle/center) as opposed
@@ -140,7 +140,7 @@
       if by chance the headlong East wind will have scattered those staying or
       will have plunged them with Neptune.
 
-| *haec circum casiae virides et olentia late*
+| *haec circum casiae virides et olentia late* 30
 | *serpylla et graviter spirantis copia thymbrae*
 | *floreat, inriguumque bibant violaria fontem.*
 
@@ -170,7 +170,7 @@
       But, whether the beehives were sown with hollow bark or were woven with
       a pliant twig by you, let them have a narrow entrace.
 
-|                          *nam frigore mella*
+|                          *nam frigore mella* 35
 | *cogit hiems, eademque calor liquefacta remittit -*
 | *utraque vis apibus pariter metuenda;*
 
@@ -190,7 +190,7 @@
 |                                      *neque illae*
 | *nequiquam in tectis certatim tenuia cera*
 | *spiramenta linunt, fucoque et floribus oras*
-| *explent, collectumque haec ipsa ad munera gluten*
+| *explent, collectumque haec ipsa ad munera gluten* 40
 | *et visco et Phrygiae servant pice lentius Idae.*
 
 - *linunt* from *lino, linere, levi, litus* is 3rd plural present active
@@ -222,7 +222,7 @@
       having been dug out under the earth, and were discovered deep in both in
       a hollow pumice stone and a having been hollowed cave of a tree.
 
-| *tu tamen et levi rimosa cubilia limo*
+| *tu tamen et levi rimosa cubilia limo* 45
 | *ungue fovens circum, et raras superinice frondes.*
 
 - *ungue* from *unguo, unguere, unxi, unctus* is the present active imperative,
@@ -324,7 +324,7 @@
 
 | *tum trepidae inter se coeunt pennisque coruscant*
 | *spiculaque exacuunt rostris aptantque lacertos*
-| *et circa regem atque ipsa ad praetoria densae*
+| *et circa regem atque ipsa ad praetoria densae* 75
 | *miscentur magnisque vocant clamoribus hostem;*
 
 - *coeunt* from *coeo, coeire, coeivi, coitus* is 3rd plural present active
@@ -376,12 +376,12 @@
       having been mingled, are amassed into a great sphere and they headlong
       plummet.
 
-|                        *non densior aëre grando,*
+|                        *non densior aëre grando,* 80
 | *nec de concussa tantum pluit ilice glandis:*
 | *ipsi per medias acies insignibus alis*
 | *ingentis animos angusto in pectore versant,*
 | *usque adeo obnixi non cedere dum gravis aut hos*
-| *aut hos versa fuga victor dare terga subegit.*
+| *aut hos versa fuga victor dare terga subegit.* 85
 | *hi motus animorum atque haec certamina tanta*
 | *pulveris exigui iactu compressa quiescent.*
 
@@ -395,7 +395,7 @@
 
 | *Verum ubi ductores acie revocaveris ambo,*
 | *deterior qui visus, eum, ne prodigus obsit,*
-| *dede neci; melior vacua sine regnet in aula.*
+| *dede neci; melior vacua sine regnet in aula.* 90
 | *alter erit maculis auro squalentibus ardens;*
 | *nam duo sunt genera: hic melior insignis et ore*
 
@@ -407,7 +407,7 @@
       in the hall alone.  The one will be shining with rough spots of gold; for there
       are two kinds: this better one, noble of expression and bright with red scales; 
 
-| *ut binae regum facies, ita corpora plebis.*
+| *ut binae regum facies, ita corpora plebis.* 95
 
       As the features of the kings are twofold, so are the bodies of the
       subject.
@@ -419,14 +419,12 @@
 
       For some ugly ones tremble, as when the thirsty traveler comes from the
       deep dust, and spits earth from his dried mouth.  Other gleam, and flash
-      in lightning bolt, their bodies all ablaze and flecked with equal specks
+      with lightning, their bodies all ablaze and flecked with equal specks
       of gold. 
 
 | *haec potior suboles, hinc caeli tempore certo* 100
 | *dulcia mella premes, nec tantum dulcia quantum*
 | *et liquida et durum Bacchi domitura saporem.*
-
-- START HERE YOU DUMB FUCK
 
 - Implied *est* on *haec...suboles*.
 - *certo* as appointed see notes.
@@ -434,9 +432,9 @@
 - Implied *sunt* on *domitura* turning it into the active periphrastic, which
   denotes a future or intended action.
 
-      This is the nobler race, from these you will press sweet honeys during the
-      appointed season of the sky, nor so sweet as both clear and intended to
-      subdue the harsh flavor of wine.
+      This is the better race, from these you will press sweet honeys during the
+      appointed season of the sky, nor so much sweet as to both be clear and
+      intended to subdue the harsh flavor of wine.
 
 | *At cum incerta volant caeloque examina ludunt*
 | *contemnuntque favos et frigida tecta relinquunt,*
@@ -448,7 +446,7 @@
 - Note that *prohibebis* is future and being used as a placeholder for
   imperative.
 
-      But when the swarms fly uncertainly and play in the sky and pay no heed to
+      But when the uncertain swarms fly and play in the sky and pay no heed to
       their honeycomb and abandon their houses to get cold, you will restrain
       their unsteady mind from inane play.
 
@@ -461,15 +459,15 @@
 - *iter* as aloft, see notes.
 
       Nor is it a great labor to restrain them: snatch away the wings from the
-      kings; No one from those hesitating will dare to go aloft or pluck the
-      battle standard from the camps.
+      kings; No one from those hesitating kings will dare to go aloft or pluck
+      the battle standard from the camps.
 
 | *invitent croceis halantes floribus horti*
 | *et custos furum atque avium cum falce saligna* 110
 | *Hellespontiaci servet tutela Priapi.*
 
 - Subjunctives here are hortatory.
-- Genitive as against, see notes.
+- Genitive as against, see notes. Objective genitive.
 
       Let gardens being fragrant with golden flowers invite them and let the
       guard against thieves and birds, protector of Hellespontia Priapus,
@@ -482,10 +480,10 @@
 
 - Note on *et...imbris* here makes no sense, *amicos* is accusative.
 
-      Let he to whom the concerns are such, himself, bringing thyme and pine,
-      plant them widely around their homes; himself wear out his hand with hard
-      labor, himself fasten fruitful cuttings in the ground and water the
-      friendly things with rain.
+      Let he to whom the concerns are such, himself, bringing thyme and pine
+      from the high mountains, plant them around their homes; 
+      let he himself wear out his hand with hard labor, himself fasten fruitful
+      cuttings in the ground and let him water the friendly streams.
 
 | *Atque equidem, extremo ni iam sub fine laborum*
 | *vela traham et terris festinem advertere proram,*
@@ -501,13 +499,13 @@
   anything.
 - WTF?
 
-      and indeed, if I were not up to end of my labor, dragging my sails and
-      hastening to turn the prow to land, perhaps I might sing both of what
-      careful cultivating decorates rich gardens and of the twice-blooming roses
-      of Paestum, and in what manner the endives are glad with the having been
-      drunk streams and the green banks are glad with celery, and in what manner
-      the cucumber having been twisted through the grass might be born into
-      a womb.
+      and indeed, if I were not under the extreme edge of my labor, dragging my
+      sails and hastening to turn the prow to land, perhaps I might also sing of
+      what care of cultivating decorates rich gardens and of the twice-blooming
+      roses of Paestum, and in what manner the endives are glad with the having
+      been drunk streams and the banks green with celery are glad, and in what
+      manner the cucumber having been twisted through the grass comes forth
+      into it's belly.
 
 |                               *nec sera comantem*
 | *narcissum aut flexi tacuissem vimen acanthi*
@@ -516,6 +514,6 @@
 - What the fuck is *amantis litora myrtos*. Two accusative, some kind of
   indirect statement?
 
-      Nor should I have been silent about the late-flowering narcissus or the
+      Nor would I have been silent about the late-flowering narcissus or the
       twig of the having been bent bear's foot and the pale ivy and the Mrytles
       that the shores are loving.
