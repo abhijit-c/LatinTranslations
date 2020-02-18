@@ -225,43 +225,102 @@
 | *tu tamen et levi rimosa cubilia limo*
 | *ungue fovens circum, et raras superinice frondes.*
 
-      Nevertheless you, keeping them warm, both annoint near the cracked hives
-      with smooth mud, and scatter a few leaves on them.
+- *ungue* from *unguo, unguere, unxi, unctus* is the present active imperative,
+  meaning to anoint/rub.
+- *fovens* from *foveo, fovere, fovi, fotus* is the present active participle,
+  meaning to keep warm/favor/cherish/maintain.
+- *frondes* from *frondeo, frondere, frondui, fronditus* is the present active
+  imperative, meaning to have/put forth leaves/be leafy.
 
+      Nevertheless you, preserving them, both smear the cracked hives with
+      smooth mud and scatter a few leaves on them.
 
 | *neu propius tectis taxum sine, neve rubentis*
 | *ure foco cancros, altae neu crede paludi,*
 | *aut ubi odor caeni gravis aut ubi concava pulsu*
-| *saxa sonant vocisque offensa resultat imago.*
+| *saxa sonant vocisque offensa resultat imago.* 50
+
+- Long string of imperative, *sine, ure, crede*, i.e. to allow, burn, and trust.
+- *odor* and *gravis* are connected via an implied *est* as predicate
+  nominative.
+- *pulsu* is the second supine denoting respect.
+
+      Neither permit a yew near their dwelling, nor burn red crabs with the
+      hearth, nor trust a deep marsh, or where the the scent of mud is heavy or
+      where the hollow stones emit sounds when being struck and the having been
+      struck voice's echo reverberates.
 
 | *Quod superest, ubi pulsam hiemem Sol aureus egit*
 | *sub terras caelumque aestiva luce reclusit,*
 | *illae continuo saltus silvasque peragrant*
 | *purpureosque metunt flores et flumina libant*
-| *summa leves.*
+| *summa leves.* 55
+
+- *superest* means to be left over, combining with adverbial *quod* meaning with
+  respect to which.
+- *leves* as delicately see notes.
+
+      That which left over, when the golden sun has driven the having been
+      beaten winter under the earth and has opened heaven with its summer light,
+      immediately those (bees) scour the glades and forests and reap purple
+      flowers and they delicately sip the top of rivers.
 
 |              *hinc nescio qua dulcedine laetae*
 | *progeniem nidosque fovent, hinc arte recentis*
 | *excudunt ceras et mella tenacia fingunt.*
 
+- *hinc* as from now on, see notes.
+- *arte* literally with art, notes say skillyfully.
+
+      From now on, I do not know with what sweetness, they cherish the nest and
+      family, from now on they skillfully fashion fresh wax and mould clinging
+      honey.
+
 | *hinc ubi iam emissum caveis ad sidera caeli*
 | *nare per aestatem liquidam suspexeris agmen*
+| *obscuramque trahi vento mirabere nubem,* 60
+| *contemplator:*
 
-| *obscuramque trahi vento mirabere nubem,*
-| *contemplator: aquas dulcis et frondes semper*
+- Why is *suspexeris* either perfect or future perfect? Doesn't seem to flow.
+- *per aestatem liquidam* translated as through the clear summer air, see notes.
+- *trahi* is the passive infinitive, but I don't like my translation.
+- *contemplator* is watch carefully, see notes.
+
+      From now on when you will look up to the swarm now having been expeled
+      from the hollow toward the stars of the sky through the clear summer air
+      and you will be amazed at the dark cloud to be drawn by the wind, watch
+      carefully.
+
+|               *aquas dulcis et frondes semper*
 | *tecta perunt, huc tu iussos asperge sapores,*
 | *trita melisphylla et cerinthae ignobile gramen,*
 | *tinnitusque cie et Matris quate cymbala circum:*
-| *ipsae consident medicatis sedibus, ipsae*
+
+      they are ever in quest of sweet waters and leafy coverts. Here scatter the
+      scents I prescribe – bruised balm, and the honeywort’s lowly herb; raise
+      a tinkling sound, and shake the Mighty Mother’s cymbals round about. 
+
+| *ipsae consident medicatis sedibus, ipsae* 65
 | *intima more suo sese in cunabula condent.*
+
+      Of themselves they settle on the scented resting places; of themselves,
+      after their wont, will hide far within their cradling cells.
+
 | *Sin autem ad pugnam exierint nam saepe duobus*
 | *regibus incessit magno discordia motu;*
+
+      But, if haply for battle they have gone forth – for strife with terrible
+      turmoil has often fallen on two kings; 
+
 | *continuoque animos vulgi et trepidantia bello*
-| *corda licet longe praesciscere: namque morantis*
+| *corda licet longe praesciscere: namque morantis* 70
 | *Martius ille aeris rauci canor increpat, et vox*
 | *auditur fractos sonitus imitata tubarum;*
 
-- STOP BEING SHIT ABHI
+      and straightway you may presage from afar the fury of the crowd, and how
+      their hearts thrill with war; for the warlike ring of the hoarse clarion
+      stirs the loiterers, and a sound is heard that is like broken trumpet
+      blasts.
 
 | *tum trepidae inter se coeunt pennisque coruscant*
 | *spiculaque exacuunt rostris aptantque lacertos*
@@ -348,45 +407,83 @@
       in the hall alone.  The one will be shining with rough spots of gold; for there
       are two kinds: this better one, noble of expression and bright with red scales; 
 
-- to finish
-
 | *ut binae regum facies, ita corpora plebis.*
-| *namque aliae turpes horrent, ceu pulvere ab alto*
-| *cum venit et sicco terram spuit ore viator*
-| *aridus; elucent aliae et fulgore coruscant*
-| *ardentes auro et paribus lita corpora guttis.*
-| *haec potior suboles, hinc caeli tempore certo*
-| *dulcia mella premes, nec tantum dulcia quantum*
-| *et liquida et durum Bacchi domitura saporem.*
 
       As the features of the kings are twofold, so are the bodies of the
       subject.
 
-      For some ugly ones tremble, as when the thirsty traveler comes from the deep
-      dust, and spits earth from his dried mouth.
+| *namque aliae turpes horrent, ceu pulvere ab alto*
+| *cum venit et sicco terram spuit ore viator*
+| *aridus; elucent aliae et fulgore coruscant*
+| *ardentes auro et paribus lita corpora guttis.*
 
-      Other gleam, and flash in
-      lightning bolt, their bodies all ablaze and flecked with equal specks of gold. 
+      For some ugly ones tremble, as when the thirsty traveler comes from the
+      deep dust, and spits earth from his dried mouth.  Other gleam, and flash
+      in lightning bolt, their bodies all ablaze and flecked with equal specks
+      of gold. 
+
+| *haec potior suboles, hinc caeli tempore certo*
+| *dulcia mella premes, nec tantum dulcia quantum*
+| *et liquida et durum Bacchi domitura saporem.*
+
+- START HERE YOU DUMB FUCK
+
+      This is the nobler breed; from this, in the sky’s due season, you will strain
+      sweet honey – yet not so sweet as clear, and fit to subdue the harsh flavour of
+      wine.
 
 | *At cum incerta volant caeloque examina ludunt*
 | *contemnuntque favos et frigida tecta relinquunt,*
 | *instabilis animos ludo prohibebis inani.*
+
+      But when the swarms flit aimlessly and sport in the air, scorning their cells
+      and leaving their hives chill, you must check their fickle spirit from such idle
+      play.
+
 | *nec magnus prohibere labor: tu regibus alas*
 | *eripe; non illis quisquam cunctantibus altum*
 | *ire iter aut castris audebit vellere signa.*
+
+      No hard task is it to check them. Do you tear from the monarchs their wings;
+      while they tarry, no one will dare to go forth aloft, or pluck the standards
+      from the camp.
+
 | *invitent croceis halantes floribus horti*
 | *et custos furum atque avium cum falce saligna*
 | *Hellespontiaci servet tutela Priapi.*
+
+      Let there by gardens fragrant with saffron flowers to invite them, and let the
+      watchmen against thieves and birds, guardian Priapus, lord of the Hellespont,
+      protect them with his willow hook.
+
 | *ipse thymum pinosque ferens de montibus altis*
 | *tecta serat late circum cui talia curae;*
 | *ipse labore manum duro terat, ipse feracis*
 | *figat humo plantas et amicos inriget imbris.*
+
+      Let him to whom such care falls, himself bring thyme and laurestines from the
+      high hills, and plant them widely round their homes; himself harden his hand
+      with stern toil; himself plant in the ground fruitful slips and sprinkle kindly
+      showers.
+
 | *Atque equidem, extremo ni iam sub fine laborum*
 | *vela traham et terris festinem advertere proram,*
 | *forsitan et pinguis hortos quae cura colendi*
 | *ornaret canerem, biferique rosaria Paesti,*
 | *quoque modo potis gauderent intiba rivis*
 | *et virides apio ripae, rtusque per herbam*
-| *cresceret in ventrem cucumis; nec sera comantem*
+| *cresceret in ventrem cucumis;*
+
+      In fact, were I not, with my task well-nigh done, about to furl my sails and
+      making haste to turn my prow to land, perchance I might sing what careful
+      tendance clothes rich gardens in flower, and might sing of Paestum whose rose
+      beds bloom twice yearly, how the endive rejoices in drinking streams, the
+      verdant banks in celery; how the cucumber, coiling through the grass, swells
+      into a paunch.
+
+|                               *nec sera comantem*
 | *narcissum aut flexi tacuissem vimen acanthi*
 | *pallentisque hederas et amantis litora myrtos.*
+
+      Nor should I have passed in silence the late-flowering narcissus, the twining
+      tendril of the acanthus, pale ivy sprays, or the shore-loving myrtle.
