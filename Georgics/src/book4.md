@@ -565,15 +565,17 @@
       ice, that man was already cutting the hair of the soft hyacinthus, chiding
       late summer and the delaying West-winds.
 
-First he was in the spring to gather roses, and apples in the fall; and when grim winter was still bursting rocks with her frost and braking the current of rivers with ice, already he was cutting soft-haired hyacinths and chiding laggard summer and the loitering zephyrs.
-
 | *ergo apibus fetis idem atque examine multo*
 | *primus abundare et spumantia cogere pressis* 140
 | *mella favis; illi tiliae atque uberrima pinus,*
 | *quotque in flore novo pomis se fertilis arbos*
 | *induerat totidem autumno matura tenebat.*
 
-Thus it was that he was still the first to be enriched with teeming bees and a plenteous swarm, and first to gather from the squeezed comb the frothing honey; his limes and laurestines were ever luxuriant, and all the fruits which clothed his fertile trees in their early blossoming, so many they kept in the ripeness of autumn.
+      Therefore the same man was the first to abound with bees honey-crammed and
+      a large swarm and to collect the foaming honey from having been pressed
+      honeycomb; Those lime and pine trees were very fertile, and the fertile
+      tree had been covered with so many fruits in it's new blossom, just as
+      many ripe fruits were preserving in the autumn.
 
 | *ille etiam seras in versum distulit ulmos*
 | *eduramque pirum et spinos iam pruna ferentis* 145
