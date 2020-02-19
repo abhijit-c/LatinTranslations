@@ -533,8 +533,8 @@
 
       For I recall that under the towers of a Spartan citadel, where the dark
       Galaesus waters the golden cultivated land, I saw an old Corycian man,
-      who had a few jugerum of having been abandoned country, those (are) not
-      fertile for young bulls nor opportune for grain fields nor convinient for wine.
+      who had a few jugerum of abandoned country, those (are) not fertile for
+      young bulls nor opportune for grain fields nor convinient for wine.
 
 | *hic rarum tamen in dumis olus albaque circum* 130
 | *lilia verbenasque premens vescumque papaver*
@@ -544,10 +544,10 @@
 - This whole first 3 lines is an appositive fitting onto *regum...animis*.
 - Treating *revertens* as imperfect, see notes.
 
-      Nevertheless he, planting here scattered vegetables and white lilies and
-      vervains and thin poppies around in the thorns, was equaling the prides of
-      kings, and returning home at late night he was loading his table with
-      an unbought feast.
+      Nevertheless that man, planting scattered vegetables and white lilies and
+      vervains and thin poppies around in the thorns, was equaling the wealth of
+      kings with spirit, and returning home at late night he was loading his
+      table with an unbought feast.
 
 | *primus vere rosam atque autumno carpere poma,*
 | *et cum tristis hiems etiamnum frigore saxa* 135
@@ -559,7 +559,7 @@
 - Both *rumperet* and *frenaret* are imperfect subjunctives, fitting inside
   *cum* implying *cum* clause. Likely circumstancial. Could be concessive too.
 
-      First in the spring he was gathering roses and in the fall he was
+      First in the spring he was gathering a rose and in the fall he was
       gathering apples, and although sorrowful winter was even now breaking
       stones with it's cold and restraining the courses of the rivers with its
       ice, that man was already cutting the hair of the soft hyacinthus, chiding
@@ -571,22 +571,29 @@
 | *quotque in flore novo pomis se fertilis arbos*
 | *induerat totidem autumno matura tenebat.*
 
+- Not historical infinitive, implies *est* instead.
+- *matura* must be short (implied by scansion).
+
       Therefore the same man was the first to abound with bees honey-crammed and
       a large swarm and to collect the foaming honey from having been pressed
-      honeycomb; Those lime and pine trees were very fertile, and the fertile
-      tree had been covered with so many fruits in it's new blossom, just as
-      many ripe fruits were preserving in the autumn.
+      honeycomb; He has lime and very fertile pine trees, and how many the
+      fertile tree had been covered themselves with fruits in it's new blossom,
+      so many ripe fruits it was holding in the autumn.
 
 | *ille etiam seras in versum distulit ulmos*
 | *eduramque pirum et spinos iam pruna ferentis* 145
 | *iamque ministrantem platanum potantibus umbras.*
 
-He would also plant out elms in rows, though late in season, pears when quite hard, blackthorns already hung with sloes, and planes already offering to drinkers the service of their shade
+      He would also plant out elms in rows, though late in season, pears when
+      quite hard, blackthorns already hung with sloes, and planes already
+      offering to drinkers the service of their shade
 
 | *verum haec ipse equidem spatiis exclusus iniquis*
 | *praetereo atque aliis post me memoranda relinquo.*
 
 But all this I must pass by, constrained by narrow bounds, and leave to others after me to record.
+
+- TEST UP TO 148
 
 | *Nunc age, naturas apibus quas Iuppiter ipse*
 | *addidit expediam, pro qua mercede canoros* 150
