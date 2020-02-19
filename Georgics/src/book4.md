@@ -510,9 +510,91 @@
 | *narcissum aut flexi tacuissem vimen acanthi*
 | *pallentisque hederas et amantis litora myrtos.*
 
-- What the fuck is *amantis litora myrtos*. Two accusative, some kind of
-  indirect statement?
+- The *amantis* turns the noun *litora* into a *adjective* describing the
+  *Mrytles*.
 
       Nor would I have been silent about the late-flowering narcissus or the
       twig of the having been bent bear's foot and the pale ivy and the
       shore-loving Mrytles.
+
+| *namque sub Oebaliae memini me turribus arcis,* 125
+| *qua niger umectat flaventia culta Galaesus,*
+| *Corycium vidisse senem, cui pauca relicti*
+| *iugera ruris erant, nec fertilis illa iuvencis*
+| *nec pecori opportuna seges nec commoda Baccho.*
+
+- *memini* from *memini, meminisse* is 1st singular perfect active indicative,
+  meaning to recall. Recall, perfect form present force.
+- *Galaesus* is a river.
+- The Corycian Cave is located on the slopes of Mount Parnassus, in central
+  Greece. The Cilicians were famous gardeners.
+- *cui* dative of possesor fitting on the *erant*.
+- *jugerum* is a 240x120' rectangle of land.
+
+      For I recall that under the towers of a Spartan citadel, where the dark
+      Galaesus waters the golden cultivated land, I saw an old Corycian man,
+      who had a few jugerum of having been abandoned country, those (are) not
+      fertile for young bulls nor opportune for grain fields nor convinient for wine.
+
+| *hic rarum tamen in dumis olus albaque circum* 130
+| *lilia verbenasque premens vescumque papaver*
+| *regum aequabat opes animis, seraque revertens*
+| *nocte domum dapibus mensas onerabat inemptis.*
+
+- This whole first 3 lines is an appositive fitting onto *regum...animis*.
+- Treating *revertens* as imperfect, see notes.
+
+      Nevertheless he, planting here scattered vegetables and white lilies and
+      vervains and thin poppies around in the thorns, was equaling the prides of
+      kings, and returning home at late night he was loading his table with
+      an unbought feast.
+
+| *primus vere rosam atque autumno carpere poma,*
+| *et cum tristis hiems etiamnum frigore saxa* 135
+| *rumperet et glacie cursus frenaret aquarum,*
+| *ille comam mollis iam tondebat hyacinthi*
+| *aestatem increpitans seram Zephyrosque morantis.*
+
+- *carpere* as historical infinitive.
+- Both *rumperet* and *frenaret* are imperfect subjunctives, fitting inside
+  *cum* implying *cum* clause. Likely circumstancial. Could be concessive too.
+
+      First in the spring he was gathering roses and in the fall he was
+      gathering apples, and although sorrowful winter was even now breaking
+      stones with it's cold and restraining the courses of the rivers with its
+      ice, that man was already cutting the hair of the soft hyacinthus, chiding
+      late summer and the delaying West-winds.
+
+First he was in the spring to gather roses, and apples in the fall; and when grim winter was still bursting rocks with her frost and braking the current of rivers with ice, already he was cutting soft-haired hyacinths and chiding laggard summer and the loitering zephyrs.
+
+| *ergo apibus fetis idem atque examine multo*
+| *primus abundare et spumantia cogere pressis* 140
+| *mella favis; illi tiliae atque uberrima pinus,*
+| *quotque in flore novo pomis se fertilis arbos*
+| *induerat totidem autumno matura tenebat.*
+
+Thus it was that he was still the first to be enriched with teeming bees and a plenteous swarm, and first to gather from the squeezed comb the frothing honey; his limes and laurestines were ever luxuriant, and all the fruits which clothed his fertile trees in their early blossoming, so many they kept in the ripeness of autumn.
+
+| *ille etiam seras in versum distulit ulmos*
+| *eduramque pirum et spinos iam pruna ferentis* 145
+| *iamque ministrantem platanum potantibus umbras.*
+
+He would also plant out elms in rows, though late in season, pears when quite hard, blackthorns already hung with sloes, and planes already offering to drinkers the service of their shade
+
+| *verum haec ipse equidem spatiis exclusus iniquis*
+| *praetereo atque aliis post me memoranda relinquo.*
+
+But all this I must pass by, constrained by narrow bounds, and leave to others after me to record.
+
+| *Nunc age, naturas apibus quas Iuppiter ipse*
+| *addidit expediam, pro qua mercede canoros* 150
+| *Curetum sonitus crepitantiaque aera secutae*
+| *Dictaeo caeli regem pavere sub antro.*
+
+Come now, the qualities which Jove himself has given bees, I will unfold – even the reward for which they followed the tuneful sounds and clashing bronzes of the Curetes, and fed the king of heaven within the cave of Dicte.
+
+| *solae communis natos, consortia tecta*
+| *habent, magnisque agitant sub legibus aevum,*
+| *et patriam solae et certos novere penatis;* 155
+| *venturacque hiemis memores aestate laborem*
+| *experiuntur et in medium quaesita reponunt.*
