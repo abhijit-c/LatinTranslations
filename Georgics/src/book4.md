@@ -497,7 +497,6 @@
 - Note *canderem* is imperfect. Why is this mixed like this? I don't know!
 - Note makes no sense on *protis...rivis*. Drinking? *potis* is a p.p.p if
   anything.
-- WTF?
 
       and indeed, if I were not under the extreme edge of my labor, dragging my
       sails and hastening to turn the prow to land, perhaps I might also sing of
@@ -515,5 +514,5 @@
   indirect statement?
 
       Nor would I have been silent about the late-flowering narcissus or the
-      twig of the having been bent bear's foot and the pale ivy and the Mrytles
-      that the shores are loving.
+      twig of the having been bent bear's foot and the pale ivy and the
+      shore-loving Mrytles.
