@@ -6,9 +6,9 @@
 - *exsequar* from *exsequor, exsequi, exsecutus sum* is 1st singular future
   indicative, meaning to follow/carry out.
 
-      Without pause I will carry out the heavenly gift of the honey of the air.
+      Without pause let me go on with the heavenly gifts of lofty honey:
 
-| *hanc etiam, Maecenas, aspice partem.*
+|           *hanc etiam, Maecenas, aspice partem.*
 
 - *aspice* from *aspicio, aspicere, aspexi, aspectus* is the present active
   imperative, meaning to see/observe.
@@ -19,10 +19,16 @@
 | *magnanimosque duces totiusque ordine gentis*
 | *mores et studia et populos et proelia dicam.* 5
 
-- *dcam* from *dico, dicere, dixi, dictus* is 1st singular future active
-  indicative, meaning to say.
+- *admiranda* from *admiror, admirari, admiratus sum* is the gerundive, meaning
+  to admire. This is modifying *spectacula* in the accusative plural case.
+- *dicam* from *dico, dicere, dixi, dictus* is 1st singular present active
+  subjunctive, meaning to say. Likely some sort of jussive independent usage. 
+- Ehh, perhaps not the most elegant or literal way to translate? Bug Rafa about
+  it.
 
-      I will tell you 
+      Let me speak to you of the amazing spectacles of their trivial affairs, 
+      the brave leaders, customs, enthusiasms, peoples, and the battles of
+      entire trives.
 
 | *in tenui labor; at tenuis non gloria, si quem*
 | *numina laeva sinunt auditque vocatus Apollo.*
