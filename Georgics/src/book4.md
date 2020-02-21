@@ -60,6 +60,9 @@
 - These sequence of verbs are present, and I know you can translate present
   verbs as *canit* = is singing, so that's what I did. I think it worked.
 - *sit* is a final subjunctive, per Huxley.
+- *prohibent* from *prohibeo, prohibere, prohibui, prohibitus* is 3rd plural
+  present active indicative, meaning to prevent/hinder. This is taking *ferre*
+  as a complimentary infinitive.
 - *insultent* from *insulto, insultare* is 3rd plural present active
   subjunctive, meaning to leap (in/on), and it takes an ablative (*floribus*).
   Note this is a parallel structure with *sit* as a final clause.
@@ -73,9 +76,10 @@
   meter it must be *īs*, not *is*.
 
       In the beginning a residence and a station ought to be sought for the
-      bees, so that to it there is neither entrances for winds () nor sheep
-      and the butting young goats leaping on flowers, or wandering young cow
-      knocking aside dew from the plain and wearing away the growing grass.
+      bees, so that to it there is neither entrances for winds (for the winds
+      prevent them to bring their food(s) to home) nor sheep and the butting
+      young goats leaping on flowers, or wandering young cow knocking aside dew
+      from the plain and wearing away the growing grass.
 
 First seek a settled home for your bees, whither the winds may find no access
 – for the winds let them not carry home their food – where no ewes or sportive
