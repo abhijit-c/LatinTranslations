@@ -6,7 +6,8 @@
 - *exsequar* from *exsequor, exsequi, exsecutus sum* is 1st singular future
   indicative, meaning to follow/carry out.
 
-      Without pause let me go on with the heavenly gifts of lofty honey:
+      Without pause I will relate in order the heavenly gifts of the honey of
+      the sky:
 
 |           *hanc etiam, Maecenas, aspice partem.*
 
@@ -26,20 +27,60 @@
 - Ehh, perhaps not the most elegant or literal way to translate? Bug Rafa about
   it.
 
-      Let me speak to you of the amazing spectacles of their trivial affairs, 
+      I will speak to you of the amazing spectacles of their trivial affairs, 
       the brave leaders, customs, enthusiasms, peoples, and the battles of
       entire trives.
 
 | *in tenui labor; at tenuis non gloria, si quem*
 | *numina laeva sinunt auditque vocatus Apollo.*
+
+- Implied *est* in *in tenui labor* and *at tenuis non gloria*.
+- Using the translation of *tenui* as humble from the back of Huxley.
+- Before si/nisi/num/ne all the ali- fall away. *si quem = si aliquem*.
+- *sinunt* from *sino, sinere, sivi, situs* is 3rd plural present active
+  indicative, meaning to allow.
+- *audit* from *audio, audire, audivi, auditus* is 3rd singular present active
+  indicative, meaning to hear.
+
+      The labor is in the humble thing; but the glory is not humble, if the
+      harmful divinities allow anyone and Apollo, having been called, listens.
+
 | *Principio sedes apibus statioque petenda,*
 | *quo neque sit ventis aditus (nam pabula venti*
 | *ferre domum prohibent) neque oves haedique petulci* 10
 | *floribus insultent, aut errans bucula campo*
 | *decutiat rorem et surgentis atterat herbas.*
 
+- *petenda* from *peto, petere, petivi, petitus* is the passive periphrastic
+  (implied *est*), meaning to seek.
+- Note: *sedes statioque* is potentially hendiadys, i.e. a stationary resident?
+  Not sure what Huxley is on about.
+- Per Huxley, *quo = ut ad eam* and is contrued with *aditus*, which may govern
+  a prepositional phrase.
+- These sequence of verbs are present, and I know you can translate present
+  verbs as *canit* = is singing, so that's what I did. I think it worked.
+- *sit* is a final subjunctive, per Huxley.
+- *insultent* from *insulto, insultare* is 3rd plural present active
+  subjunctive, meaning to leap (in/on), and it takes an ablative (*floribus*).
+  Note this is a parallel structure with *sit* as a final clause.
+- *decutiat* from *decutio, decutere, decussi, decussus* is 3rd singular present
+  active subjunctive, meaning to knock aside. Note this is a parallel structure
+  with *sit* as a final clause.
+- *atterat* from *attero, atterere, attrivi, attritus* is 3rd singular present
+  active subjunctive, meaning to rub. Note this is a parallel structure with
+  *sit* as a final clause.
 - Note *surgentis* is accusative alternate ending, which you can ascertain by
   meter it must be *īs*, not *is*.
+
+      In the beginning a residence and a station ought to be sought for the
+      bees, so that to it there is neither entrances for winds () nor sheep
+      and the butting young goats leaping on flowers, or wandering young cow
+      knocking aside dew from the plain and wearing away the growing grass.
+
+First seek a settled home for your bees, whither the winds may find no access
+– for the winds let them not carry home their food – where no ewes or sportive
+kids may trample the flowers, nor straying heifer brush off the dew from the
+mead and bruise the spring blade. 
 
 | *absint et picti squalentia terga lacerti*
 | *pinguibus a stabulis, meropesque aliaeque volucres*
