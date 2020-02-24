@@ -380,8 +380,8 @@
 
       Then they nervously gather amongst themselves and quiver with their wings
       and sharpen their stings with their beaks and adjust their muscles and
-      densly they are embroiled around the king and near the general's tent and
-      they call the enemy with great cries.
+      densly they are embroiled around the king and near the general's tent
+      itself and they call the enemy with great cries.
 
 | *ergo ubi ver nactae sudum camposque patentis,*
 | *erumpunt portis;*
@@ -391,7 +391,7 @@
 - *erumpunt* from *erumpo, erumpere, erupi, eruptus* is 3rd plural present
   active indicative, meaning to burst/sally forth/out.
 
-      Therefore when they obtained a dry spring day and open plains, they burst
+      Therefore when they obtained a clear spring day and open plains, they burst
       forth from their gates;
 
 |                  *concurritur, aethere in alto*
@@ -410,9 +410,8 @@
 - *cadunt* from *cado, cadere, cecidi, casus* is 3rd plural present active
   indicative, meaning to fall/sink/die.
 
-      there is a flocking together, in the high sky a loud sound is made, they,
-      having been mingled, are amassed into a great sphere and they headlong
-      plummet.
+      there is a clash, in the high sky a loud sound is made, they, having been
+      mingled, are amassed into a great sphere and they headlong plummet.
 
 |                        *non densior aëre grando,* 80
 | *nec de concussa tantum pluit ilice glandis:*
@@ -446,16 +445,24 @@
 
 | *ut binae regum facies, ita corpora plebis.* 95
 
-      As the features of the kings are twofold, so are the bodies of the
-      subject.
+- *ut...ita* = as...so too. 
+- Implies *est* in both comparisons.
+
+      As the shapes of the kings are twofold, so too are the bodies of the
+      subjects.
 
 | *namque aliae turpes horrent, ceu pulvere ab alto*
 | *cum venit et sicco terram spuit ore viator*
 | *aridus; elucent aliae et fulgore coruscant*
 | *ardentes auro et paribus lita corpora guttis.*
 
-      For some ugly ones tremble, as when the thirsty traveler comes from the
-      deep dust, and spits earth from his dried mouth.  Other gleam, and flash
+- *horrent* is 3rd plural present active indicative meaning to dread.
+- *ceu...aridus* = *ceu cum aridus viator venit ab alto pulvere et spuit terram
+  sicco ore*.
+- *ardentes...guttis* = *corpora ardentes et lita paribus guttis auro*.
+
+      For some ugly ones tremble, just as when the thirsty traveler came from the
+      deep dust, and spat earth from his dried mouth. Others gleam, and flash
       with lightning, their bodies all ablaze and flecked with equal specks
       of gold. 
 
@@ -483,6 +490,9 @@
 - Note that *prohibebis* is future and being used as a placeholder for
   imperative.
 
+*At cum incerta examina volant (que) ludunt caelo (que) contemnunt favos et
+relinquunt tecta frigida, prohibebis instabilis animos inani ludo.*
+
       But when the uncertain swarms fly and play in the sky and pay no heed to
       their honeycomb and abandon their houses to get cold, you will restrain
       their unsteady mind from inane play.
@@ -495,6 +505,9 @@
 - Implied impersonal *est* connecting *magnus labor*.
 - *iter* as aloft, see notes.
 
+*nec [est] magnus labor prohibere: (tu) eripe alas regibus; non quisquam illis
+cuntantibus [regibus] audebit ire iter aut vellere signa castris.*
+
       Nor is it a great labor to restrain them: snatch away the wings from the
       kings; No one from those hesitating kings will dare to go aloft or pluck
       the battle standard from the camps.
@@ -506,6 +519,9 @@
 - Subjunctives here are hortatory.
 - Genitive as against, see notes. Objective genitive.
 
+*horti halantes croceis floribus invitent et custos furum atque avium, tutela
+Hellespontiaci Priapi, servet cum falce saligna,*
+
       Let gardens being fragrant with golden flowers invite them and let the
       guard against thieves and birds, protector of Hellespontia Priapus,
       watch over them with his willow sickle.
@@ -516,6 +532,10 @@
 | *figat humo plantas et amicos inriget imbris.* 115
 
 - Note on *et...imbris* here makes no sense, *amicos* is accusative.
+
+*cui curae talia, ipse, ferens thymum pinosque de monitbus altis, serat late
+circum tecta; ipse teras manum duro labore, ipse figat feracis plantas humo et
+inriget amicos imbris.*
 
       Let he to whom the concerns are such, himself, bringing thyme and pine
       from the high mountains, plant them around their homes; 
@@ -529,23 +549,30 @@
 | *quoque modo potis gauderent intiba rivis* 120
 | *et virides apio ripae, tortusque per herbam*
 | *cresceret in ventrem cucumis;*
-
-- *sub* and *fine* seem superfluous, will ignore one? Notes, save me! NOO!
+- *sub* the preposition, *fine* the noun fitting with *extremo*.
 - Note *canderem* is imperfect. Why is this mixed like this? I don't know!
 - Note makes no sense on *protis...rivis*. Drinking? *potis* is a p.p.p if
   anything.
+
+*atque equidem, ni iam sub extremo fine laborum, traham vela et festinem
+advertere proram terris, forsitan et canerem quae cura colendi ornaret pinguis
+hortosm, biferique rosaria Paesti, quoque modo intiba gauderent potis rivis et
+ripae virides apio, (que) [quoque modo] cucumis tortus per herbam cresceret in
+ventrem;*
 
       and indeed, if I were not under the extreme edge of my labor, dragging my
       sails and hastening to turn the prow to land, perhaps I might also sing of
       what care of cultivating decorates rich gardens and of the twice-blooming
       roses of Paestum, and in what manner the endives are glad with the having
-      been drunk streams and the banks green with celery are glad, and in what
-      manner the cucumber having been twisted through the grass comes forth
-      into it's belly.
+      been drunk streams and the banks green with celery, and in what manner the
+      cucumber having been twisted through the grass grows into its belly.
 
 |                               *nec sera comantem*
 | *narcissum aut flexi tacuissem vimen acanthi*
 | *pallentisque hederas et amantis litora myrtos.*
+
+*nec tacuissem sera comantem narcissum aut vimen flexi acanthi pallentisque
+hederas et litora-amantis myrtos.*
 
 - The *amantis* turns the noun *litora* into a *adjective* describing the
   *Mrytles*.
@@ -568,10 +595,16 @@
 - *cui* dative of possesor fitting on the *erant*.
 - *jugerum* is a 240x120' rectangle of land.
 
+*namque memini [Indirect speech] sub turribus Oebaliae arcis, qua niger Galaesus
+umectat flaventia culta, me vidisse senem Corycium, [Dat. Possesor] cui erant
+pauca jugera relicti ruris, nec illa fertilis iuvencis nec seges opportuna
+pecori nec commoda Baccho.*
+
       For I recall that under the towers of a Spartan citadel, where the dark
       Galaesus waters the golden cultivated land, I saw an old Corycian man,
       who had a few jugerum of abandoned country, those (are) not fertile for
-      young bulls nor opportune for grain fields nor convinient for wine.
+      young bulls nor opportune for the grain fields for cattle nor convinient
+      for wine.
 
 | *hic rarum tamen in dumis olus albaque circum* 130
 | *lilia verbenasque premens vescumque papaver*
@@ -580,6 +613,10 @@
 
 - This whole first 3 lines is an appositive fitting onto *regum...animis*.
 - Treating *revertens* as imperfect, see notes.
+
+*tamen hic, premens rarum olus albaque lilia verbenasque vescumque papaver
+circum in dumis, aequabat opes regum animis, (que) revertens domum sera nocte
+onerabat mensas inemptis dapibus.*
 
       Nevertheless that man, planting scattered vegetables and white lilies and
       vervains and thin poppies around in the thorns, was equaling the wealth of
@@ -596,6 +633,11 @@
 - Both *rumperet* and *frenaret* are imperfect subjunctives, fitting inside
   *cum* implying *cum* clause. Likely circumstancial. Could be concessive too.
 
+*primus vere carpere rosam atque autumno [carpere] poma, et [Concessive cum] cum
+tristis hiems etiamnum rumperet saxa frigore et frenaret cursus aquarum glacie,
+ille iam tondebat comam mollis hyacinthi, increpitans seram aestatem (que)
+morantis Zephyros.*
+
       First in the spring he was gathering a rose and in the fall he was
       gathering apples, and although sorrowful winter was even now breaking
       stones with it's cold and restraining the courses of the rivers with its
@@ -611,6 +653,11 @@
 - Not historical infinitive, implies *est* instead.
 - *matura* must be short (implied by scansion).
 
+*ergo idem (erat) primus abundare fetis apibus atque multo examine et cogere
+spumantia mella pressis favis; [Dat. possesor] illi (sunt) tiliae atque uberrima
+pinus, quotque fertilis arbos induerat pomis in novo flore totidem matura
+(pomus) tenebat autumno.*
+
       Therefore the same man was the first to abound with bees honey-crammed and
       a large swarm and to collect the foaming honey from having been pressed
       honeycomb; He has lime and very fertile pine trees, and how many the
@@ -620,6 +667,9 @@
 | *ille etiam seras in versum distulit ulmos*
 | *eduramque pirum et spinos iam pruna ferentis* 145
 | *iamque ministrantem platanum potantibus umbras.*
+
+*ille etiam distulit seras ulmos in versum eduramque pirum et spinos iam
+ferentis pruna (que) platanum iam ministrantem umbras pontantibus*.
 
 - *distulit* from *differo, differre, distuli, dilatus* is 3rd singular perfect
   active indicative, meaning to plant apart.
@@ -641,7 +691,10 @@
   singular present active indicative, meaning to pass/go by.
 - *memoranda* a gerund.
 
-      However indeed I, myself having been hindered by length, pass by these
+*verum equidem (ego), ipse exclusus iniquis spatiis, praetero haec atque
+relinquo memoranda aliis post me.*
+
+      However indeed I, myself having been hindered by unjust length, pass by these
       things and leave behind the recounting to others after me.
 
 | *Nunc age, naturas apibus quas Iuppiter ipse*
