@@ -115,8 +115,8 @@
 - *fugiens* from *fugio, fugere, fugi, fugitus* is the present active
   participle, meaning to flee.
 
-      but let clear springs and pools greening with moss and a thin stream fleeing
-      through the grass be present, 
+      but let clear springs and pools becoming green with moss and a thin stream
+      fleeing through the grass be present, 
 
 | *palmaque vestibulum aut ingens oleaster inumbret,* 20
 
@@ -143,48 +143,40 @@
 
 | *in medium, seu stabit iners seu profluet umor,* 25
 | *transversas salices et grandia conice saxa,*
+| *pontibus ut crebris possint consistere et alas*
+| *pandere ad aestivum solem, si forte morantis*
+| *sparserit aut praeceps Neptuno immerserit Eurus.*
 
 - Note says that *in medium* is likely neuter (meaning middle/center) as opposed
   to masculine (meaning mediator/one who stands in the middle). Basically,
   *medius, medii* versus *medium, medi(i)*.
-- Note *seu...seu* is a coordinating conjunction meaning 'wether...or'.
+- Note *seu...seu* is a coordinating conjunction meaning 'whether...or'.
 - *stabit* from *sto, stare, steti, status* is 3rd singular future active
   indicative, meaning to stand.
 - *profluet* from *profluo, profluere, profluxi, profluctus* is 3rd singular
   future active indicative, meaning to flow forth or along.
 - *conice* from *conicio, conicere, conieci, coniectus* is the present active
   imperative, meaning to hurl.
-
-      Into the middle, whether the inert moisture will stand still or will flow
-      forth, hurl willow-trees lying across and large stones,
-
-| *pontibus ut crebris possint consistere et alas*
-| *pandere ad aestivum solem,*
-
 - *possint* from *possum, posse, potui* is 3rd plural present active
   subjunctive, meaning to be able.
 - *consistere* from *consisto, consistere, constiti, constitus* is the present
   active infinitive, meaning to stop/halt/cease.
 - *pandere* from *pando, pandere, pandi, passus* is the present active
   infinitive, meaning to spread out.
-
-      so that they are able to linger by the numerous bridges and spread out
-      their wings toward the summer sun,
-
-|                            *si forte morantis*
-| *sparserit aut praeceps Neptuno immerserit Eurus.*
-
 - *morantis* from *moror, morari, moratus sum* is the present participle (ACC),
   meaning to delay.
-- *sparserit* from *spargo, spargere, sparsi, sparsus* is , meaning to
+- *sparserit* from *spargo, spargere, sparsi, sparsus* is futp, meaning to
   scatter/sprinkle.
-- *immerserit* from *immergo, immergere, immersi, immersus* is , meaning to
+- *immerserit* from *immergo, immergere, immersi, immersus* is futp, meaning to
   drop/plunge.
 - *Neptuno* wants to be some kind of locative ablative, i.e. 'in the ocean' like
   the notes say. But I think literally we can take it as accompaniment?
 
-      if by chance the headlong East wind will have scattered those staying or
-      will have plunged them with Neptune.
+      Into the middle, whether the inert moisture will stand still or will flow
+      forth, hurl willow-trees lying across and large stones, so that they are
+      able to linger by the numerous bridges and spread out their wings toward
+      the summer sun, if by chance the headlong East wind will have scattered
+      those staying or will have immersed them with Neptune.
 
 | *haec circum casiae virides et olentia late* 30
 | *serpylla et graviter spirantis copia thymbrae*
@@ -195,7 +187,7 @@
 - *bibant* from *bibo, bibere, bibi, bibitusu* is 3rd plural present active
   subjunctive, meaning to drink.
 
-      Let this flourish about green spurge-laurels and wild thyme odorous far
+      Let this flourish around green spurge-laurels and wild thyme odorous far
       and wide and plenty things deeply exhaling of armotic plants, and let
       a bed of violets drink the moisture-bringing spring.
 
@@ -214,7 +206,7 @@
   subjunctive, meaning to have.
 
       But, whether the beehives were sown with hollow bark or were woven with
-      a pliant twig by you, let them have a narrow entrace.
+      a clinging twig by you, let them have a narrow entrace.
 
 |                          *nam frigore mella* 35
 | *cogit hiems, eademque calor liquefacta remittit -*
@@ -229,8 +221,8 @@
 - *metuenda* from *metuo, metuere, metui* is the passive periphrastic with an
   implied *est*, meaning to fear/be afraid.
 
-      For the winter congeals honey with frost, and heat dissolves the, having
-      been melted, same - and either power ought to be equally feared by the
+      For the winter congeals honey with frost, and heat dissolves the same, having
+      been melted - and either power ought to be equally feared by the
       bees.
 
 |                                      *neque illae*
@@ -638,7 +630,7 @@
 - *potantibus* from *poto, potare* is the present active participle, meaning to
   drink.
 
-      That man also transplant late elm trees in verse and a hard pear tree and
+      That man also transplanted late elm trees in verse and a hard pear tree and
       black-thorns already bearing plums and a plane tree already serving
       shadows for those drinking.
 
