@@ -27,9 +27,9 @@
 - Ehh, perhaps not the most elegant or literal way to translate? Bug Rafa about
   it.
 
-      I will speak to you of the amazing spectacles of their trivial affairs, 
-      the brave leaders, customs, enthusiasms, peoples, and the battles of
-      entire trives.
+      I will in order speak to you of the amazing spectacles of their trivial
+      affairs, the brave leaders, customs, enthusiasms, peoples, and the battles
+      of entire tribes.
 
 | *in tenui labor; at tenuis non gloria, si quem*
 | *numina laeva sinunt auditque vocatus Apollo.*
@@ -76,15 +76,10 @@
   meter it must be *īs*, not *is*.
 
       In the beginning a residence and a station ought to be sought for the
-      bees, so that to it there is neither entrances for winds (for the winds
+      bees, so that to it neither are there entrences for winds (for the winds
       prevent them to bring their food(s) to home) nor sheep and the butting
       young goats leaping on flowers, or wandering young cow knocking aside dew
       from the plain and wearing away the growing grass.
-
-First seek a settled home for your bees, whither the winds may find no access
-– for the winds let them not carry home their food – where no ewes or sportive
-kids may trample the flowers, nor straying heifer brush off the dew from the
-mead and bruise the spring blade. 
 
 | *absint et picti squalentia terga lacerti*
 | *pinguibus a stabulis, meropesque aliaeque volucres*
@@ -321,7 +316,7 @@ mead and bruise the spring blade.
 | *excudunt ceras et mella tenacia fingunt.*
 
 - *hinc* as from now on, see notes.
-- *arte* literally with art, notes say skillyfully.
+- *arte* literally with art, notes say skillfully.
 
       From now on, I do not know with what sweetness, they cherish the nest and
       family, from now on they skillfully fashion fresh wax and mould clinging
@@ -337,7 +332,7 @@ mead and bruise the spring blade.
 - *trahi* is the passive infinitive, but I don't like my translation.
 - *contemplator* is watch carefully, see notes.
 
-      From now on when you will look up to the swarm now having been expeled
+      From now on when you will look up to the swarm now having been expelled
       from the hollow toward the stars of the sky through the clear summer air
       and you will be amazed at the dark cloud to be drawn by the wind, watch
       carefully.
@@ -449,7 +444,6 @@ mead and bruise the spring blade.
 | *dede neci; melior vacua sine regnet in aula.* 90
 | *alter erit maculis auro squalentibus ardens;*
 | *nam duo sunt genera: hic melior insignis et ore*
-
 | *et rutilis clarus squamis; ille horridus alter*
 | *desidia latamque trahens inglorius alvum.*
 
@@ -635,16 +629,28 @@ mead and bruise the spring blade.
 | *eduramque pirum et spinos iam pruna ferentis* 145
 | *iamque ministrantem platanum potantibus umbras.*
 
-      He would also plant out elms in rows, though late in season, pears when
-      quite hard, blackthorns already hung with sloes, and planes already
-      offering to drinkers the service of their shade
+- *distulit* from *differo, differre, distuli, dilatus* is 3rd singular perfect
+  active indicative, meaning to plant apart.
+- *ferentis* from *fero* is the present active participle, accusative poetic
+  form, meaning to bear.
+- *ministrantem* from *ministro, ministrare* is the present active participle,
+  meaning tom attend to/serve.
+- *potantibus* from *poto, potare* is the present active participle, meaning to
+  drink.
+
+      That man also transplant late elm trees in verse and a hard pear tree and
+      black-thorns already bearing plums and a plane tree already serving
+      shadows for those drinking.
 
 | *verum haec ipse equidem spatiis exclusus iniquis*
 | *praetereo atque aliis post me memoranda relinquo.*
 
-But all this I must pass by, constrained by narrow bounds, and leave to others after me to record.
+- *pratereo* from *praetero, praeterire, praeterivi, praeteritus* is 1st
+  singular present active indicative, meaning to pass/go by.
+- *memoranda* a gerund.
 
-- TEST UP TO 148
+      However indeed I, myself having been hindered by length, pass by these
+      things and leave behind the recounting to others after me.
 
 | *Nunc age, naturas apibus quas Iuppiter ipse*
 | *addidit expediam, pro qua mercede canoros* 150
