@@ -702,10 +702,124 @@ relinquo memoranda aliis post me.*
 | *Curetum sonitus crepitantiaque aera secutae*
 | *Dictaeo caeli regem pavere sub antro.*
 
-Come now, the qualities which Jove himself has given bees, I will unfold – even the reward for which they followed the tuneful sounds and clashing bronzes of the Curetes, and fed the king of heaven within the cave of Dicte.
+- *age* is the present active imperative, meaning to come.
+- *addidit* from *addo, addere, addidi, additus* is 3rd singular perfect active
+  indicative, meaning to add.
+- *expediam* from *expedio, expedire, expedivi, expeditus* is 1st singular
+  present active subjunctive, meaning to disengage.
+- *pro qua mercede* turns into *mercedem pro qua* via attaction, see Huxley.
+- *curetum* = ancient priests of Cybele in Crete. ancient inhabitants of Crete.
+- *Dictaeo* = Dictaean, i.e. of Mount Dicte.
+- *crepitantia* from *crepito, crepitare* is the present active participle,
+  meaning to rattle.
+
+*Nunc age, expediam natural quas Iuppiter ipse addidit apibus,*
+
+      Now come, let me make clear the qualities which Jupiter himself added to
+      the bees, the reward for which they, having followed the melodius noises
+      and rattling bronzes of the Curetes, fed the king of heaven under
+      a Dictaen cave.
 
 | *solae communis natos, consortia tecta*
 | *habent, magnisque agitant sub legibus aevum,*
 | *et patriam solae et certos novere penatis;* 155
-| *venturacque hiemis memores aestate laborem*
+| *venturaeque hiemis memores aestate laborem*
 | *experiuntur et in medium quaesita reponunt.*
+
+- Note *pentatis* poetic accusative plural ending.
+- *venturae* from *venio, venire, veni, ventus* is the future active participle,
+  meaning to come.
+- *experiuntur* from *experior, experiri, expertus sum* is 3rd plural present
+  indicative, meaning to experience.
+- *reponunt* from *repono, reponere, reposui, repositus* is 3rd plural present
+  active indicative, meeaning to store.
+- *medium* = the common stock a note in the vocabulary.
+
+      Only they have shared children, have a shared house, live their life under
+      great laws, knew a fatherland and settled homes; and in the summer they,
+      mindful of the winter going to come, experience labor and store things
+      having been obtained into the common stock.
+
+| *namque aliae victu invigilant et foedere pacto*
+| *exercentur agris; pars intra saepta domorum*
+| *narcissi lacrimam et lentum de cortice gluten* 160
+| *prima favis ponunt fundamina, deinde tenacis*
+| *suspendunt ceras; aliae spem gentis adultos*
+| *educunt fetus; aliae purissima mella*
+| *stipant et liquido distendunt nectare cellas.*
+
+- *invigilant* from *invigilo, invigilare* is 3rd plural present active
+  indicative, meaning to watch over.
+- *vuctu*. Palmer says the dative in *-u* was in origin a locative, Huxley.
+- *fodere* from *fodio, fodere, fodi, fossus* is the present active infinitive,
+  meaning to 
+- *ponunt* from *pono, ponere, posui, positus* is 3rd plural present active
+  indicative, meaning to put.
+- *suspendunt* from *suspendo, suspendere, suspendi, suspensus* is 3rd plural
+  present active indicative, meaning to suspend.
+- *educunt* from *educo, educere, eduxi, eductus* is 3rd plural present active
+  indicative, meaning to lead out.
+
+      For some watch over foraging, and are exercising in the fields by fixed
+      agreement; within the confines of their homes they put a tear of
+      a nacissus and the clinging glue of bark as the first foundation for the
+      honeycombs, then they hang up clinging wax; others lead out the grown up
+      offspring as the hope of the clan; others crowd the most pure honey and
+      stretch the cells with the clear nectar. 
+
+| *sunt quibus ad portas cecidit custodia sorti,* 165
+| *inque vicem speculantur aquas et nubila caeli,*
+| *aut onera accipiunt venientum, aut agmine facto*
+| *ignavum fucos pecus a praesepibus arcent.*
+
+To some it has fallen by lot to be sentries at the gates, and in turn they watch
+the rains and clouds of heaven, or take the load of incomers, or in martial
+array drive the drones, a lazy herd, from the folds.
+
+| *fervet opus, redolentque thymo fragrantia mella.*
+
+All aglow is the work, and the fragrant honey is sweet with thyme. 
+ But the young betake them home in weariness, late at night,
+their thighs freighted with thyme; far and wide they feed on arbutus, on
+pale-green willows, on cassia and ruddy crocus, on the rich linden, and the
+dusky hyacinth. All have on season to rest from labour, all one season to toil.
+
+
+| *ac veluti lentis Cyclopes fulmina massis* 170
+| *cum properant, alii taurinis follibus auras*
+| *accipiunt redduntque, alii stridentia tingunt*
+| *aera lacu; gemit impositis incudibus Aetna;*
+
+as, when the Cyclopes in haste forge bolts from tough ore, some with oxhide
+bellows make the blasts come and go, others dip the hissing brass in the lake,
+while Aetna groans under the anvils laid upon her;
+
+
+| *illi inter sese magna vi bracchia tollunt*
+| *in numerum, versantque tenaci forcipe ferrum:* 175
+| *non aliter, si parva licet componere magnis,*
+| *Cecropias innatus apes amor urget habendi*
+| *munere quamque suo.*
+
+they, with mighty force, now one, now another, raise their arms in measured
+cadence, and turn the iron with gripping tongs – even so, if we may compare
+small things with great, an inborn love of gain spurs on the Attic bees, each
+after its own office.
+
+|                     *grandaevis oppida curae*
+| *et munire favos et daedala fingere tecta.*
+
+The aged have charge o the towns, the building of the hives, the fashioning of
+the cunningly wrought houses.
+
+| *at fessae multa referunt se nocte minores,* 180
+| *crura thymo plenae; pascuntur et arbuta passim*
+| *et glaucas salices casiamque crocumque rubentem*
+| *et pinguem tiliam et ferrugineos hyacinthos.*
+| *omnibus una quies operum, labor omnibus unus:*
+| *mane ruunt portis; nusquam mora; rursus easdem* 185
+| *vesper ubi e pastu tandem decedere campis*
+| *admonuit, tum tecta petunt, tum corpora curant;*
+| *fit sonitus, mussantque oras et limina circum.*
+| *post, ubi iam thalamis se composuere, siletur*
+| *in noctem, fessosque sopor suus occupat artus.* 190
