@@ -713,8 +713,6 @@ relinquo memoranda aliis post me.*
 - *crepitantia* from *crepito, crepitare* is the present active participle,
   meaning to rattle.
 
-*Nunc age, expediam natural quas Iuppiter ipse addidit apibus,*
-
       Now come, let me make clear the qualities which Jupiter himself added to
       the bees, the reward for which they, having followed the melodius noises
       and rattling bronzes of the Curetes, fed the king of heaven under
@@ -753,42 +751,43 @@ relinquo memoranda aliis post me.*
 - *vuctu*. Palmer says the dative in *-u* was in origin a locative, Huxley.
 - *fodere* from *fodio, fodere, fodi, fossus* is the present active infinitive,
   meaning to 
+- *pars* is on a plural subject, but is singular in form, and thus represents
+  something plural despite its form.
 - *ponunt* from *pono, ponere, posui, positus* is 3rd plural present active
   indicative, meaning to put.
 - *suspendunt* from *suspendo, suspendere, suspendi, suspensus* is 3rd plural
   present active indicative, meaning to suspend.
 - *educunt* from *educo, educere, eduxi, eductus* is 3rd plural present active
   indicative, meaning to lead out.
+- The double accusatives in this sentence are predicate accusatives.
 
-      For some watch over foraging, and are exercising in the fields by fixed
-      agreement; within the confines of their homes they put a tear of
-      a nacissus and the clinging glue of bark as the first foundation for the
-      honeycombs, then they hang up clinging wax; others lead out the grown up
-      offspring as the hope of the clan; others crowd the most pure honey and
-      stretch the cells with the clear nectar. 
+      For some watch over foraging, and are exercising in the fields because of
+      a fixed agreement; within the confines of their homes part of them put
+      a tear of a nacissus and the clinging glue of bark, the first foundation
+      for the honeycombs, then they hang up clinging wax; others lead out the
+      grown up offspring, the hope of the clan; others crowd the most pure
+      honey and stretch the cells by means of clear nectar. 
 
 | *sunt quibus ad portas cecidit custodia sorti,* 165
 | *inque vicem speculantur aquas et nubila caeli,*
 | *aut onera accipiunt venientum, aut agmine facto*
 | *ignavum fucos pecus a praesepibus arcent.*
 
-To some it has fallen by lot to be sentries at the gates, and in turn they watch
-the rains and clouds of heaven, or take the load of incomers, or in martial
-array drive the drones, a lazy herd, from the folds.
+      There are some to whom the care for gates fell by lots, and in turn they
+      watch the waters and clounds of heaven, or accept the burdens of those
+      cominga, or they drive with a having been made troop the drones, a lazy
+      herd, from the stalls
 
 | *fervet opus, redolentque thymo fragrantia mella.*
 
-All aglow is the work, and the fragrant honey is sweet with thyme. 
- But the young betake them home in weariness, late at night,
-their thighs freighted with thyme; far and wide they feed on arbutus, on
-pale-green willows, on cassia and ruddy crocus, on the rich linden, and the
-dusky hyacinth. All have on season to rest from labour, all one season to toil.
-
+      The work burns, and the fragrant honey is odorous with thyme.
 
 | *ac veluti lentis Cyclopes fulmina massis* 170
 | *cum properant, alii taurinis follibus auras*
 | *accipiunt redduntque, alii stridentia tingunt*
 | *aera lacu; gemit impositis incudibus Aetna;*
+
+      But when the Cyclops hastly forge lightning from tough material, 
 
 as, when the Cyclopes in haste forge bolts from tough ore, some with oxhide
 bellows make the blasts come and go, others dip the hissing brass in the lake,
@@ -802,9 +801,10 @@ while Aetna groans under the anvils laid upon her;
 | *munere quamque suo.*
 
 they, with mighty force, now one, now another, raise their arms in measured
-cadence, and turn the iron with gripping tongs – even so, if we may compare
-small things with great, an inborn love of gain spurs on the Attic bees, each
-after its own office.
+cadence, and turn the iron with gripping tongs 
+
+- GOT UP TO 175
+
 
 |                     *grandaevis oppida curae*
 | *et munire favos et daedala fingere tecta.*
