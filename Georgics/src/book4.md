@@ -824,21 +824,22 @@ the cunningly wrought houses.
 | *post, ubi iam thalamis se composuere, siletur*
 | *in noctem, fessosque sopor suus occupat artus.* 190
 
-nec vero a stabulis pluvia impendente recedunt 
-longius, aut credunt caelo adventantibus Euris, 
-sed circum tutae sub moenibus urbis aquantur 
-excursusque brevis temptant, et saepe lapillos, 
-ut cumbae instabiles fluctu iactante saburram, 195
-tollunt, his sese per inania nubila librant.
-illum adeo placuisse apibus mirabere morem, 
-quod neque concubitu indulgent, nec corpora segnes 
-in Venerem solvunt aut fetus nixibus edunt; 
-verum ipsae e foliis natos, e suavibus herbis 200
-ore legunt, ipsae regem parvosque Quirites 
-sufficiunt, aulasque et cerea regna refigunt.
+- TODO
 
+| *nec vero a stabulis pluvia impendente recedunt*
+| *longius, aut credunt caelo adventantibus Euris,*
+| *sed circum tutae sub moenibus urbis aquantur*
+| *excursusque brevis temptant, et saepe lapillos,*
+| *ut cumbae instabiles fluctu iactante saburram,* 195
+| *tollunt, his sese per inania nubila librant.*
+| *illum adeo placuisse apibus mirabere morem,*
+| *quod neque concubitu indulgent, nec corpora segnes*
+| *in Venerem solvunt aut fetus nixibus edunt;*
+| *verum ipsae e foliis natos, e suavibus herbis* 200
+| *ore legunt, ipsae regem parvosque Quirites*
+| *sufficiunt, aulasque et cerea regna refigunt.*
 
-
+- TODO
 
 | *saepe etiam duris errando in cotibus alas*
 | *attrivere, ultroque animam sub fasce dedere:*
@@ -857,8 +858,8 @@ sufficiunt, aulasque et cerea regna refigunt.
 - *generandi* from *genero, generare* is the gerund(ive), meaning to beget.
 - Implies *est* coupling *tantus* and *amor*.
 
-      Furthermore they often wore down their wings with their wandering in the
-      hard rocks, and voluntarily give their lives under the burden: so great is
+      Furthermore they often wore down their wings by wandering in the hard
+      rocks, and voluntarily give their lives under the burden: so great is
       their love of flowers and glory of producing honey.
 
 | *ergo ipsas quamvis angusti terminus aevi*
@@ -873,8 +874,8 @@ sufficiunt, aulasque et cerea regna refigunt.
 - *immortale* is predicative, so I turned it into an accusative adjective.
 - Using the fourth declension *domus*.
 
-      Therefore, although the boundary of a narrow generation awaits them
-      themselves (for more than seven summers is not lead), but the race abides
+      Therefore, although the boundary of a narrow generation snatches them
+      themselves (for more than the seventh summer is not lead), but the race abides
       eternally, and through many years the fortune of the house stands, and the
       grandfather's grandfather are counted.
 
@@ -887,7 +888,7 @@ sufficiunt, aulasque et cerea regna refigunt.
   meaning to watch.
 
       In addition, neither Egypt and great Lydia nor the people of Parthian or
-      the Medus Hydaspes heed their king in such a way.
+      the Medes Hydaspes heed their king in such a way.
 
 |            *rege incolumi mens omnibus una est;*
 | *amisso rupere fidem, constructaque mella*
@@ -927,7 +928,7 @@ sufficiunt, aulasque et cerea regna refigunt.
       He is the guard of their works, to that king they admire and all stand
       around him with a dense roar and they frequently crowd him, and often they
       raise him with their shoulders and expose their bodies during war and
-      seek death through glorius wounds.
+      seek glorius death through wounds.
 
 | *His quidam signis atque haec exempla secuti*
 | *esse apibus partem divinae mentis et haustus* 220
@@ -947,8 +948,8 @@ sufficiunt, aulasque et cerea regna refigunt.
 - *tractus* as extents per Huxley.
 - One huge ass indirect speech, *arcessere* and *ire* also fall underneath it.
 
-      These examples with these signs is a certain thing, they have said that
-      for the bees their intellects followed from a part of divinity and
-      ethereal draughts; for God walks through all things, lands, extents of the
-      sea, and the profound heaven; From god sheeps, herds of cattle, men, each
-      kind of animals, each thing being born summons thin life.
+      With these signs certain people, having followed these signs, said that bees
+      have part of the heavenly mind and ethereal droughts; for they say that
+      it's divine to walk through all things, lands, extents of the sea, and the
+      profound heaven; From here sheeps, herds of cattle, men, each kind of
+      animals, each thing being born summons thin life for themselves.
