@@ -823,3 +823,132 @@ the cunningly wrought houses.
 | *fit sonitus, mussantque oras et limina circum.*
 | *post, ubi iam thalamis se composuere, siletur*
 | *in noctem, fessosque sopor suus occupat artus.* 190
+
+nec vero a stabulis pluvia impendente recedunt 
+longius, aut credunt caelo adventantibus Euris, 
+sed circum tutae sub moenibus urbis aquantur 
+excursusque brevis temptant, et saepe lapillos, 
+ut cumbae instabiles fluctu iactante saburram, 195
+tollunt, his sese per inania nubila librant.
+illum adeo placuisse apibus mirabere morem, 
+quod neque concubitu indulgent, nec corpora segnes 
+in Venerem solvunt aut fetus nixibus edunt; 
+verum ipsae e foliis natos, e suavibus herbis 200
+ore legunt, ipsae regem parvosque Quirites 
+sufficiunt, aulasque et cerea regna refigunt.
+
+
+
+
+| *saepe etiam duris errando in cotibus alas*
+| *attrivere, ultroque animam sub fasce dedere:*
+| *tantus amor florum et generandi gloria mellis.* 205
+
+- *errando* from *erro, errare, erravi, erratus* is the gernund, meaning to
+  wander. Per Huxley, 'rare use of instrumental ablative almost in the sense of
+  participle *errantes*'.
+- *attrivere* from *attero, atterere, attrivi, attritus* is 3rd plural perfect
+  active indicative, meaning to run/rub against. Note the alternate form.
+- *dedere* from *do, dare, dedi, datus* is 3rd plural perfect active indicative,
+  meaning to give.
+- Huxley calls *attrivere* and *dedere* gnomic. 'In English grammar, the gnomic
+  present is a verb in the present tense used to express a general truth without
+  reference to time.'
+- *generandi* from *genero, generare* is the gerund(ive), meaning to beget.
+- Implies *est* coupling *tantus* and *amor*.
+
+      Furthermore they often wore down their wings with their wandering in the
+      hard rocks, and voluntarily give their lives under the burden: so great is
+      their love of flowers and glory of producing honey.
+
+| *ergo ipsas quamvis angusti terminus aevi*
+| *excipiat (neque enim plus septima ducitur aestas),*
+| *at genus immortale manet, multosque per annos*
+| *stat fortuna domus, et avi numerantur avorum.*
+
+- *excipiat* from *excipio, excipere, excepi, exceptus* is 3rd singular present
+  active subjunctive, meaning to take out/remove. Per Huxley, translate as
+  awaits.
+- Implicit *quam* after *plus* per Huxley.
+- *immortale* is predicative, so I turned it into an accusative adjective.
+- Using the fourth declension *domus*.
+
+      Therefore, although the boundary of a narrow generation awaits them
+      themselves (for more than seven summers is not lead), but the race abides
+      eternally, and through many years the fortune of the house stands, and the
+      grandfather's grandfather are counted.
+
+| *praeterea regem non sic Aegyptus et ingens* 210
+| *Lydia nec populi Parthorum aut Medus Hydaspes*
+| *observant.*
+
+- Added a *neque* because it's lack of being there stifled me.
+- *observant* from *observo, observare* is 3rd plural present active indicative,
+  meaning to watch.
+
+      In addition, neither Egypt and great Lydia nor the people of Parthian or
+      the Medus Hydaspes heed their king in such a way.
+
+|            *rege incolumi mens omnibus una est;*
+| *amisso rupere fidem, constructaque mella*
+| *diripuere ipsae et cratis solvere favorum.*
+
+- *amisso* is ablative absolute, with an implicit *rege*.
+- *rupere* meaning to break, *diripuere* meaning to tear apart, and *solvere*
+  meaning to release are all instantaneous perfects via Huxley.
+- The back of the book has wicker-work for *cratis* but lewis and short has
+  lattice, and I think that's better.
+
+      They are of one mind with a safe king; with the king having been lost,
+      they break their loyalty, and they themselves tear asunder the having been
+      constructed honey and they unwind the lattices of the honeycombs.
+
+| *ille operum custos, illum admirantur et omnes* 215
+| *circumstant fremitu denso stipantque frequentes,*
+| *et saepe attollunt umeris et corpora bello*
+| *obiectant pulchramque petunt per vulnera mortem.*
+
+- implies *est* on *ille...custos*.
+- *admirantur* from *armiror, admirari, admiratus sum* is 3rd plural present
+  indicative, meaning to admire.
+- *circumstant* from *circumsto, circumstare* is 3rd plural present active
+  indicative, meaning to stand around.
+- *stipant* from *stipo, stipare* is 3rd plural present active indicative,
+  meaning to crowd.
+- *frequentes* modifying the bees.
+- *attollunt* from *attollo, attolllere* is 3rd plural present active
+  indicative, meaning to raise.
+- *obiectant* from *obiecto, obiectare* is 3rd plural present active indicative,
+  meaning to expose.
+- *petunt* from *peto, petere, petivi, petitus* is 3rd plural present active
+  indicative, meaning to seek.
+- *pulcher* as glorius.
+
+      He is the guard of their works, to that king they admire and all stand
+      around him with a dense roar and they frequently crowd him, and often they
+      raise him with their shoulders and expose their bodies during war and
+      seek death through glorius wounds.
+
+| *His quidam signis atque haec exempla secuti*
+| *esse apibus partem divinae mentis et haustus* 220
+| *aetherios dixere; deum namque ire per omnis*
+| *terrasque tractusque maris caelumque profundum;*
+| *hinc pecudes, armenta, viros, genus omne ferarum,*
+| *quemque sibi tenuis nascentem arcessere vitas:*
+
+- No idea what *quidam* is fitting on.
+- Stange mixing with ablative *his signis* and accusative *haec exempla*,
+  I ignore because confuse.
+- *secuti esse* from *sequor, seci, secutus sum* is the perfect infinitive,
+  meaning to follow.
+- *dixere* from *dico, dicere, dixi, dictus* is 3rd plural perfect active
+  indicative, meaning to say. This is a head verb opening up indirect speech
+  with *secuti esse*.
+- *tractus* as extents per Huxley.
+- One huge ass indirect speech, *arcessere* and *ire* also fall underneath it.
+
+      These examples with these signs is a certain thing, they have said that
+      for the bees their intellects followed from a part of divinity and
+      ethereal draughts; for God walks through all things, lands, extents of the
+      sea, and the profound heaven; From god sheeps, herds of cattle, men, each
+      kind of animals, each thing being born summons thin life.
