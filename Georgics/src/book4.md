@@ -950,8 +950,7 @@ the cunningly wrought houses.
       have part of the heavenly mind and ethereal droughts; for they say that
       it's divine to walk through all things, lands, extents of the sea, and the
       profound heaven; From here sheeps, herds of cattle, men, each kind of
-      animals, each thing being born summons thin life for themselves.
-
+      animals, each thing being born summons fragile life for themselves.
 
 | *scilicet huc reddi deinde ac resoluta referri* 225
 | *omnia, nec morti esse locum, sed viva volare*
@@ -966,9 +965,9 @@ the cunningly wrought houses.
   active infinitive, meaning to climb/advance.
 - Reduplicated *in* for the *alto caelo* not sure if it makes sense.
 
-      Of course all things then are returned and then, having been dispersed,
-      are brought back, nor is there a rank for death, but the fresh things fly
-      into the number of a star and climb in the high heaven.
+      Of course all things are returned and then, having been dispersed,
+      are brought back here, nor is there a place for death, but the living
+      things fly into the rank of a star and climb in the high heaven.
 
 | *Si quando sedem augustam servataque mella*
 | *thesauri relines, prius haustu sparsus aquarum*
@@ -981,7 +980,7 @@ the cunningly wrought houses.
   meaning to cherish (dictionary specifically points out this line).
 
       If you ever will unseal the sacred home and the protected honey of their
-      treasure, first, having been sprinkled with a draught of waters, cherish
+      treasure, before, having been sprinkled with a draught of waters, cherish
       your mouth, and stretch out pursuing smoke with your hand.
 
 | *bis gravidos cogunt fetus, duo tempora messis:*
@@ -1012,10 +1011,10 @@ the cunningly wrought houses.
 - *descendit* from *descendo, descendere, descendi, descensus* is 3rd singular
   present active indicative, meaning to descend.
 
-      The moment that Taygete the Pleiades showed her distinguished face to the
+      The moment that Taygete, the Pleiades, showed her distinguished face to the
       earth and with a foot repelled the having been scorned rivers of the ocean,
-      or likewise when the sadder thing, the flying constellation of the watery
-      fish, descends from the heaven into the wintry wave.
+      or when the same sadder woman, the flying constellation of the watery
+      fish, descends from heaven into the wintry wave.
 
 | *illis ira modum supra est, laesaeque venenum*
 | *morsibus inspirant, et spicula caeca relinquunt*
@@ -1037,36 +1036,47 @@ the cunningly wrought houses.
 | *sin duram metues hiemem parcesque futuro*
 | *contunsosque animos et res miserabere fractas,* 240
 | *at suffire thymo cerasque recidere inanis*
-| *quis dubitet? nam saepe favos ignotus adedit*
+| *quis dubitet?*
+
+But if you fear a harsh winter, and would be lenient with their future, and
+have pity for their utterly crushed spirits and broken fortunes – but who would
+hesitate to fumigate them with thyme, and cut away the empty waxen cells?
+
+|               *nam saepe favos ignotus adedit*
 | *stellio et lucifugis congesta cubilia blattis*
 | *immunisque sedens aliena ad pabula fucus;*
 | *aut asper crabro imparibus se immiscuit armis,* 245
 | *aut dirum tiniae genus, aut invisa Minervae*
 | *laxos in foribus suspendit aranea cassis.*
+
+For often the newt, unnoticed, has nibbled at the combs, the light-shunning
+beetles cram the chambers, and the unhelpful drone seats him at another’s board.
+Or the fierce hornet has mixed in their unequal armies, or the moths appear,
+a pestilent race, or the spider, hateful of Minerva, hangs in the doorway her
+loose-woven nets.
+
 | *quo magis exhaustae fuerint hoc acrius omnes*
 | *incumbent generis lapsi sarcire ruinas*
 | *complebuntque foros et floribus horrea texent.* 250
 
-But if you fear a rigorous winter, and would be lenient with their future, and
-have pity for their crushed spirits and broken fortunes – yet who would hesitate
-to fumigate them with thyme, and cut away the empty waxen cells? For often the
-newt, unnoticed, has nibbled at the combs, the light-shunning beetles cram the
-chambers, and the unhelpful drone seats him at another’s board. Or the fierce
-hornet has rushed upon their unequal forces, or the moths appear, a pestilent
-race, or the spider, hateful to Minerva, hangs in the doorway her loose-woven
-nets. The more their hoards are drained, the more eagerly will they press on to
-repair the ruin of their fallen race, filling up their cell galleries and
-weaving their granaries with flower gum.
+By how much more their hoardes are drained, by this more harshly they will press
+on to redeem the ruin of their perished kind, and they will fill their cells and
+they will weave their barns with flowers.
 
 | *Si vero, quoniam casus apibus quoque nostros*
 | *vita tulit, tristi languebunt corpora morbo -*
 | *quod iam non dubiis poteris cognoscere signis:*
+
+But, since life brought our calamities aslo to bees, if their bodies languish
+with sorrowful disease – which you will be able to recognize with not doubtful
+signs
+
 | *continuo est aegris alius color; horrida vultum*
 | *deformat macies; tum corpora luce carentum* 255
 | *exportant tectis et tristia funera ducunt -*
 
-But, since to bees as well has life brought the ills of man, if their bodies
-droop with grievous disease – and this you can at once discern by no uncertain
-signs: straightway, as they sicken, their colour changes, an unsightly leanness
-mars their looks; forth from their doors they bear the bodies of those bereft of
-life, and lead the mournful funeral train;
+Immediately sick bees have a different color, an horrible leanness deforms their
+faces; they carry out the bodies of those being without light and lead the sad
+funerals.
+
+or those having been connected together with their feet hang towards the door or
