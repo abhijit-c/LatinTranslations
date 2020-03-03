@@ -937,14 +937,12 @@ the cunningly wrought houses.
 | *hinc pecudes, armenta, viros, genus omne ferarum,*
 | *quemque sibi tenuis nascentem arcessere vitas:*
 
-- No idea what *quidam* is fitting on.
-- Stange mixing with ablative *his signis* and accusative *haec exempla*,
-  I ignore because confuse.
-- *secuti esse* from *sequor, seci, secutus sum* is the perfect infinitive,
+- Why does *quidam* fit on the subject of *dixere* if *dixere* is plural.
+- *secuti* from *sequor, seci, secutus sum* is the perfect passive participle,
   meaning to follow.
 - *dixere* from *dico, dicere, dixi, dictus* is 3rd plural perfect active
   indicative, meaning to say. This is a head verb opening up indirect speech
-  with *secuti esse*.
+  with *esse*.
 - *tractus* as extents per Huxley.
 - One huge ass indirect speech, *arcessere* and *ire* also fall underneath it.
 
@@ -953,3 +951,122 @@ the cunningly wrought houses.
       it's divine to walk through all things, lands, extents of the sea, and the
       profound heaven; From here sheeps, herds of cattle, men, each kind of
       animals, each thing being born summons thin life for themselves.
+
+
+| *scilicet huc reddi deinde ac resoluta referri* 225
+| *omnia, nec morti esse locum, sed viva volare*
+| *sideris in numerum atque alto succedere caelo.*
+
+- *reddi* from *reddo, reddere, reddidi, redditus* is the present passive
+  infinitive, meaning to return.
+- *referri* from *refero, referre, rettuli, relatus* is the present passive
+  infinitive, meaning to bring/carry back.
+- *volare* from *volo, volare* is the present active infinitive, meaning to fly.
+- *succedere* from *succedo, succedere, successi, successus* is the present
+  active infinitive, meaning to climb/advance.
+- Reduplicated *in* for the *alto caelo* not sure if it makes sense.
+
+      Of course all things then are returned and then, having been dispersed,
+      are brought back, nor is there a rank for death, but the fresh things fly
+      into the number of a star and climb in the high heaven.
+
+| *Si quando sedem augustam servataque mella*
+| *thesauri relines, prius haustu sparsus aquarum*
+| *ora fove, fumosque manu praetende sequacis.* 230
+
+- *Si quando* is a construction meaning 'if ever'.
+- *relines* from *relino, relinere, relinevi, relinitus* is 2nd singular future
+  active indicative, meaning to unseal.
+- *fove* from *foveo, fovere, fovi, fotus* is the present active imperative,
+  meaning to cherish (dictionary specifically points out this line).
+
+      If you ever will unseal the sacred home and the protected honey of their
+      treasure, first, having been sprinkled with a draught of waters, cherish
+      your mouth, and stretch out pursuing smoke with your hand.
+
+| *bis gravidos cogunt fetus, duo tempora messis:*
+
+- *bini, bis* is an adverb answering 'how often', and *duo duae* is a cardinal
+  answering 'how many'.
+- *cogunt* from *cogo, cogere, coegi, coactus* is 3rd plural present active
+  indicative, meaninig to gather.
+
+      twofold they gather the teeming offspring, there are two times of harvest:
+
+| *Taygete simul os terris ostendit honestum*
+| *Pleas et Oceani spretos pede reppulit amnis,*
+| *aut eadem sidus fugiens ubi Piscis aquosi*
+| *tristior hibernas caelo descendit in undas.* 235
+
+- *simul* as *simulatque*.
+- *ostendit* from *ostendo, ostdendere, ostendi, ostensus* is 3rd singular
+  perfect active indicative, meaning to show.
+- Not certain about *Pleas*. Seems to be fitting with *Taygete*, but the ending
+  is wrong.
+- *reppulit* from *repello, repellere, reppuli, repelsus* is 3rd singular
+  perfect active indicative, meaning to repel.
+- *eadem* adverb meaning at the same time. Coordinating nicely with *simul
+  = simulatque*.
+- *fugiens* from *fugio, fugere, fugi, fugitus* is the present active
+  participle, meaning to fly.
+- *descendit* from *descendo, descendere, descendi, descensus* is 3rd singular
+  present active indicative, meaning to descend.
+
+      The moment that Taygete the Pleiades showed her distinguished face to the
+      earth and with a foot repelled the having been scorned rivers of the ocean,
+      or likewise when the sadder thing, the flying constellation of the watery
+      fish, descends from the heaven into the wintry wave.
+
+| *illis ira modum supra est, laesaeque venenum*
+| *morsibus inspirant, et spicula caeca relinquunt*
+| *adfixae venis, animasque in vulnere ponunt.*
+
+- *illis* as dative of possesor.
+- *inspirant* from *inspiro, inspirare, inspiravi, inspiratus* is 3rd plural
+  present active indicative, meaning to breath into. Takes an ablative, this
+  case *morsibus*.
+- *relinquunt* from *relinquo, relinquere, relinqui, reictus* is 3rd plural
+  present active indicative, meaning to leave behind.
+- *advixae* from *adfigo, adfigere, adfixi, adfixus* is the perfect passive
+  participle, meaning to fasten. This takes a dative in the form of *venis*.
+
+      These bees have anger beyond the limit, and they, having been offended,
+      breath poison into their stings, and, having been fastened to veins, they
+      leave behind their unseen stings, and place their lives in the wound.
+
+| *sin duram metues hiemem parcesque futuro*
+| *contunsosque animos et res miserabere fractas,* 240
+| *at suffire thymo cerasque recidere inanis*
+| *quis dubitet? nam saepe favos ignotus adedit*
+| *stellio et lucifugis congesta cubilia blattis*
+| *immunisque sedens aliena ad pabula fucus;*
+| *aut asper crabro imparibus se immiscuit armis,* 245
+| *aut dirum tiniae genus, aut invisa Minervae*
+| *laxos in foribus suspendit aranea cassis.*
+| *quo magis exhaustae fuerint hoc acrius omnes*
+| *incumbent generis lapsi sarcire ruinas*
+| *complebuntque foros et floribus horrea texent.* 250
+
+But if you fear a rigorous winter, and would be lenient with their future, and
+have pity for their crushed spirits and broken fortunes – yet who would hesitate
+to fumigate them with thyme, and cut away the empty waxen cells? For often the
+newt, unnoticed, has nibbled at the combs, the light-shunning beetles cram the
+chambers, and the unhelpful drone seats him at another’s board. Or the fierce
+hornet has rushed upon their unequal forces, or the moths appear, a pestilent
+race, or the spider, hateful to Minerva, hangs in the doorway her loose-woven
+nets. The more their hoards are drained, the more eagerly will they press on to
+repair the ruin of their fallen race, filling up their cell galleries and
+weaving their granaries with flower gum.
+
+| *Si vero, quoniam casus apibus quoque nostros*
+| *vita tulit, tristi languebunt corpora morbo -*
+| *quod iam non dubiis poteris cognoscere signis:*
+| *continuo est aegris alius color; horrida vultum*
+| *deformat macies; tum corpora luce carentum* 255
+| *exportant tectis et tristia funera ducunt -*
+
+But, since to bees as well has life brought the ills of man, if their bodies
+droop with grievous disease – and this you can at once discern by no uncertain
+signs: straightway, as they sicken, their colour changes, an unsightly leanness
+mars their looks; forth from their doors they bear the bodies of those bereft of
+life, and lead the mournful funeral train;
