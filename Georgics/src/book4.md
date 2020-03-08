@@ -1080,3 +1080,70 @@ faces; they carry out the bodies of those being without light and lead the sad
 funerals.
 
 or those having been connected together with their feet hang towards the door or
+
+| *aut illae pedibus conexae ad limina pendent*
+| *aut intus clausis cunctantur in aedibus omnes*
+| *ignavaeque fame et contracto frigore pigrae.*
+| *tum sonus auditur gravior, tractimque susurrant,*
+| *frigidus ut quondam silvis immurmurat Auster,*
+| *ut mare sollicitum stridit refluentibus undis,*
+| *aestuat ut clausis rapidus fornacibus ignis.*
+| *hic iam galbaneos suadebo incendere odores*
+| *mellaque harundineis inferre canalibus, ultro*
+| *hortantem et fessas ad pabula nota vocantem.*
+| *proderit et tunsum gallae admiscere saporem*
+| *arentisque rosas, aut igni pinguia multo*
+| *defruta vel psithia passos de vite racemos,*
+| *Cecropiumque thymum et grave olentia centaurea.*
+| *est etiam flos in pratis cui nomen amello*
+| *fecere agricolae, facilis quaerentibus herba;*
+| *namque uno ingentem tollit de caespite silvam*
+| *aureus ipse, sed in foliis, quae plurima circum*
+| *funduntur, violae sublucet purpura nigrae;*
+| *saepe deum nexis ornatae torquibus arae;*
+| *asper in ore sapor; tonsis in vallibus illum*
+| *pastores et curva legunt prope flumina Mellae.*
+| *huius odorate radices incoque Baccho*
+| *pabulaque in foribus plenis appone canistris.*
+| *Sed si quem proles subito defecerit omnis,*
+| *nec genus unde novae stirpis revocetur habebit,*
+| *tempus et Arcadii memoranda inventa magistri*
+| *pandere, quoque modo caesis iam saepe iuvencis*
+| *insincerus apes tulerit cruor. altius omnem*
+| *expediam prima repetens ab origine famam.*
+| *nam qua Pellaci gens fortunata Canopi*
+| *accolit effuso stagnantem flumine Nilum*
+| *et circum pictis vehitur sua rura phaselis,*
+
+| *quaque pharetratae vicinia Persidis urget,*
+| *et viridem Aegyptum nigra fecundat harena,*
+| *et diversa ruens septem discurrit in ora*
+| *usque coloratis amnis devexus ab Indis,*
+| *omnis in hac certam regio iacit arte salutem.*
+| *exiguus primum atque ipsos contractus in usus*
+| *eligitur locus; hunc angustique imbrice tecti*
+| *parietibusque premunt artis, et quattuor addunt,*
+| *quattuor a ventis obliqua luce fenestras.*
+| *tum vitulus bima curvans iam cornua fronte*
+| *quaeritur; huic geminae nares et spiritus oris*
+| *multa reluctanti obstruitur, plagisque perempto*
+| *tunsa per integram solvuntur viscera pellem.*
+| *sic positum in clauso linquunt, et ramea costis*
+| *subiciunt fragmenta, thymum casiasque recentis.*
+| *hoc geritur Zephyris primum impellentibus undas,*
+| *ante novis rubeant quam prata coloribus, ante*
+| *garrula quam tignis nidum suspendat hirundo.*
+| *interea teneris tepefactus in ossibus umor*
+| *aestuat, et visenda modis animalia miris,*
+| *trunca pedum primo, mox et stridentia pennis,*
+| *miscentur, tenuemque magis magis aëra carpunt,*
+| *donec ut aestivis effusus nubibus imber*
+| *erupere, aut ut nervo pulsante sagittae*
+| *prima leves ineunt si quando proelia Parthi.*
+| *Quis deus hanc, Musae, quis nobis extudit artem?*
+| *unde nova ingressus hominum experientia cepit?*
+| *pastor Aristaeus fugiens Peneia Tempe,*
+| *amissis, ut fama, apibus morboque fameque,*
+| *tristis ad extremi sacrum caput astitit amnis*
+| *multa querens, atque hac adfatus voce parentem:*
+| *'mater, Cyrene mater, quae gurgitis huius*
