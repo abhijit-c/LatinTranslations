@@ -1227,9 +1227,9 @@ funerals.
 - *discurrit* from *discurro, discurrere, discurri, discursus* is 3rd singular
   present active indicative, meaning to run off/wander/roam.
 - My translation here is trahshshshsh.
+- The river is the subject of *fecundat* not the black sand. **FIX THIS.**
 
-
-      For where the lucky nation of Pella Canopus dwells at the stagnating Nile,
+      For where the lucky family of Pella Canopus dwells at the stagnating Nile,
       with the river having been poured out, and is carried in a painted
       kidney-bean about their own fields, and where the neighborhood of the
       quiver-wearing persians presses down, and black sand makes fertile Egypt
@@ -1249,9 +1249,9 @@ funerals.
 - *premunt* from *premo, premere, pressi, pressus* is 3rd plural present active
   indicative, meaning to press.
 
-      At first a small and narrow place is chosen for this very use; and they
-      will press this with the tile of a small roof and close walls, and adding
-      four things, four windows with slanting light from the winds.
+      At first a small and narrow place is chosen for this very use; 
+      and the roofs narrow with tiles and with close walls press this,
+      and they add four, four windows with light slanting from the four winds.
 
 | *tum vitulus bima curvans iam cornua fronte*
 | *quaeritur; huic geminae nares et spiritus oris* 300
@@ -1265,12 +1265,13 @@ funerals.
 - *multa relictanti* is a concessive participle (apparently a Greek thing).
 - *solvuntur* from *solvo, solvere* is 3rd plural present passive indicative,
   meaning to loosen/release.
-- There's datives and ablatives floating around in the last bit, I think I got
-  it right.
+- **Fix the last part.**
 
       Then a calf, now bending two-year old horns on his forehead, is sought;
-      both nostrils and the many breath of his mouth are blocked up for this
-      calf despite greatly resisting, and the entrails are opened from the
+      both nostrils and the many breaths of his mouth are blocked up for this
+      calf despite greatly resisting, 
+
+      and the entrails are opened from the
       having been killed calf with blows beaten through uninjured hide.
 
 | *sic positum in clauso linquunt, et ramea costis*
@@ -1322,9 +1323,9 @@ funerals.
   to enter.
 
       The moisture, having been warmed up in the tender bones, boils, and
-      visiting animals with wonderful manners, at first maimed of feet, soon
+      animals wondrously worth seeing, at first maimed of feet, soon
       also with buzzing wings, are mixed, and to a greater and greater extent
-      range the thin air, while, as pouring rain from summer clouds, they erupt,
+      range the thin air, until, as pouring rain from summer clouds, they erupt,
       or as arrows from a beating bowstring, whenever the nimble Parthians enter
       the first battles.
 
