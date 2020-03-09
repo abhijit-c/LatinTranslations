@@ -1214,35 +1214,130 @@ funerals.
 | *usque coloratis amnis devexus ab Indis,*
 | *omnis in hac certam regio iacit arte salutem.*
 
-| *exiguus primum atque ipsos contractus in usus*
+- *qua* as adverb not relative.
+- *accolit* from *accolo, accolere, accolui, accultus* is 3rd singular present
+  active indicative, meaning to dwell/live near.
+- *vehitur* from *veho, vehere, vexi, vectus* is 3rd singular present passive
+  indicative, meaning to bear/carry/convey.
+- *urget* from *urgeo, urgere, ursi* is 3rd singular present active indicative,
+  meaning to press.
+- *fedundat* from *fecundo, fecundare* is 3rd singular present active
+  indicative, meaning to make fertile.
+- There's a note to pair *diversa* with *ruens*, but I hate it.
+- *discurrit* from *discurro, discurrere, discurri, discursus* is 3rd singular
+  present active indicative, meaning to run off/wander/roam.
+- My translation here is trahshshshsh.
+
+
+      For where the lucky nation of Pella Canopus dwells at the stagnating Nile,
+      with the river having been poured out, and is carried in a painted
+      kidney-bean about their own fields, and where the neighborhood of the
+      quiver-wearing persians presses down, and black sand makes fertile Egypt
+      green, and the rushing river runs off in seven different directions,
+      sloping downwards all the way from the India of the darkening people, all
+      the region in this way throws it's certain health.
+
+| *exiguus primum atque ipsos contractus in usus* 295
 | *eligitur locus; hunc angustique imbrice tecti*
 | *parietibusque premunt artis, et quattuor addunt,*
 | *quattuor a ventis obliqua luce fenestras.*
 
+- Using adverbial *primum*.
+- *in* as 'for' here.
+- *eligitur* from *eligo, eligere, elegi, electus* is 3rd singular present
+  passive indicative, meaning to pick out/choose.
+- *premunt* from *premo, premere, pressi, pressus* is 3rd plural present active
+  indicative, meaning to press.
+
+      At first a small and narrow place is chosen for this very use; and they
+      will press this with the tile of a small roof and close walls, and adding
+      four things, four windows with slanting light from the winds.
+
 | *tum vitulus bima curvans iam cornua fronte*
-| *quaeritur; huic geminae nares et spiritus oris*
+| *quaeritur; huic geminae nares et spiritus oris* 300
 | *multa reluctanti obstruitur, plagisque perempto*
 | *tunsa per integram solvuntur viscera pellem.*
+
+- *quaeritur* from *quaero* is 3rd singular present pasive indicative, meaning
+  to seek.
+- *obstruitur* from *osbtruo, obstruere* is 3rd singular present passive
+  indicative, meaning to block up.
+- *multa relictanti* is a concessive participle (apparently a Greek thing).
+- *solvuntur* from *solvo, solvere* is 3rd plural present passive indicative,
+  meaning to loosen/release.
+- There's datives and ablatives floating around in the last bit, I think I got
+  it right.
+
+      Then a calf, now bending two-year old horns on his forehead, is sought;
+      both nostrils and the many breath of his mouth are blocked up for this
+      calf despite greatly resisting, and the entrails are opened from the
+      having been killed calf with blows beaten through uninjured hide.
 
 | *sic positum in clauso linquunt, et ramea costis*
 | *subiciunt fragmenta, thymum casiasque recentis.*
 
-| *hoc geritur Zephyris primum impellentibus undas,*
+- *linquunt* from *linquo, linquere, liqui, liqctus* is 3rd plural present
+  active indicative, meaning to leave/quit.
+- *subiciunt* is 3rd plural present active indicative, meaining to throw under.
+
+      Thus they leave him, having been placed in an enclosed space, and they
+      throw fragments of sticks, thyme, and fresh cinammon by his ribs.
+
+| *hoc geritur Zephyris primum impellentibus undas,* 305
 | *ante novis rubeant quam prata coloribus, ante*
 | *garrula quam tignis nidum suspendat hirundo.*
 
+- *geritur* from *gero, gerere, gessi, gestus* is 3rd singular present passive
+  indicative, meaning to bear/carry. Treating *hoc geritur* as *hoc gerendum
+  est*, per Huxley.
+- *impellentibus* is the present active participle, meaning to
+  drive/persuade/impel.
+- *zephyris impellentibus* is an ablative absolute. *impellentibus* is taking
+  *undas* as a direct object.
+- *ante* + *quam* is a construction meaning sooner than or before, and it takes
+  a subjunctive present sometimes. Usually *antequam*, but probably broken up
+  for meter.
+- *rubeant* from *rubeo, rubere* is 3rd plural present active subjunctive,
+  meaning to be red.
+
+      This ought to be managed first when the west winds are driving the waves,
+      before the meadows become red with new colors, before the talkative
+      swallow suspends it's nest from the beam.
+
 | *interea teneris tepefactus in ossibus umor*
 | *aestuat, et visenda modis animalia miris,*
-| *trunca pedum primo, mox et stridentia pennis,*
+| *trunca pedum primo, mox et stridentia pennis,* 310
 | *miscentur, tenuemque magis magis aëra carpunt,*
 | *donec ut aestivis effusus nubibus imber*
 | *erupere, aut ut nervo pulsante sagittae*
 | *prima leves ineunt si quando proelia Parthi.*
 
-| *Quis deus hanc, Musae, quis nobis extudit artem?*
+- *aestuat* from *aestuo, aetuare* is 3rd singular present active indicative,
+  meaning to boil/seeth.
+- *carpunt* from *capro, carpere* is 3rd plural present active indicative,
+  meaning to range.
+- *erupere* from *erumpo* is 3rd plural perfect active indicative, meaning to
+  burst.
+- *ineunt* from *ineo, inire* is 3rd plural present active indicative, meaning
+  to enter.
+
+      The moisture, having been warmed up in the tender bones, boils, and
+      visiting animals with wonderful manners, at first maimed of feet, soon
+      also with buzzing wings, are mixed, and to a greater and greater extent
+      range the thin air, while, as pouring rain from summer clouds, they erupt,
+      or as arrows from a beating bowstring, whenever the nimble Parthians enter
+      the first battles.
+
+| *Quis deus hanc, Musae, quis nobis extudit artem?* 315
 | *unde nova ingressus hominum experientia cepit?*
 | *pastor Aristaeus fugiens Peneia Tempe,*
 | *amissis, ut fama, apibus morboque fameque,*
 | *tristis ad extremi sacrum caput astitit amnis*
-| *multa querens, atque hac adfatus voce parentem:*
+| *multa querens, atque hac adfatus voce parentem:* 320
 | *'mater, Cyrene mater, quae gurgitis huius*
+
+What god, ye Muses, forged for us this device? Whence did man’s strange
+adventuring take its rise? Aristaeus the shepherd, quitting Tempe by the Peneus,
+when – so runs the tale – his bees were lost through sickness and hunger,
+sorrowfully stopped beside the sacred fount at the stream’s head, and with much
+complaint called on his mother thus:
