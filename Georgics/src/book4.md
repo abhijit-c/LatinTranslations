@@ -1079,60 +1079,158 @@ Immediately sick bees have a different color, an horrible leanness deforms their
 faces; they carry out the bodies of those being without light and lead the sad
 funerals.
 
-or those having been connected together with their feet hang towards the door or
+
 
 | *aut illae pedibus conexae ad limina pendent*
 | *aut intus clausis cunctantur in aedibus omnes*
 | *ignavaeque fame et contracto frigore pigrae.*
-| *tum sonus auditur gravior, tractimque susurrant,*
+
+- *conexae* from *cenecto, conectere, conexi, conexus* is the perfect passive
+  participle, meaning to join.
+- *pendent* from *pendeo, pendere, pependi* is 3rd plural present active
+  indicative, meaning to hang.
+- *cunctantur* from *cunctor, cunctari, conctatus sum* is 3rd plural present
+  indicative, meaning to delay.
+- Don't know where to place the *in*. What does it fit on?
+
+    or those having been joined together with their feet hang towards the
+    entrance or all bees in closed rooms delay within, and they are lazy with
+    hunger and slow with a contracted cold.
+
+| *tum sonus auditur gravior, tractimque susurrant,* 260
 | *frigidus ut quondam silvis immurmurat Auster,*
 | *ut mare sollicitum stridit refluentibus undis,*
 | *aestuat ut clausis rapidus fornacibus ignis.*
+
+- *auditur* from *audio, audire, audivi, auditus* is 3rd singular present
+  passive indicative, meaning to hear/listen.
+- *susurrant* from *susurro, susurrare* is 3rd plural present active indicative,
+  meaning to buzz.
+- *ut quondam* = as from time to time.
+- *immurmurat* from *immurmuro, immurmurare* is 3rd singular present acgive
+  indicative, meaning to murmur.
+- *stridit* from *stridoeo, stridere, stridi* is 3rd singular perfect active
+  indicative, meaning to shriek.
+- *aestuat* from *aestuo, aestuare* is 3rd singular present active indicative,
+  meaning to boil/seethe/ foam.
+- Beautiful sentence Vergil.
+
+      Then a heavy sound is heard, and a long-drawn-out buzz, as from time to
+      time a cold south wind murmurs in the woods, as the upset sea hisses with
+      a receeding wave, as a swift fire burns in a enclosed oven.
+
 | *hic iam galbaneos suadebo incendere odores*
-| *mellaque harundineis inferre canalibus, ultro*
+| *mellaque harundineis inferre canalibus, ultro* 265
 | *hortantem et fessas ad pabula nota vocantem.*
+
+- *suadebo* from *suadeo, suadere, suasi, suasus* is 1st singular future active
+  indicative, meaning to urge/recommend/persuade. 
+- *incedere* and *inferre* taken as complimentary infinitive to *suadebo*.
+- *hortantem* and *vocantem* are present active participles placed in apposition
+  with the previous line.
+
+      Now I will urge (you) to in this place burn fragrant galbanum and to
+      bring in honey by means of reed-pipes, voluntarily encouraging them and
+      calling the tired bees toward their known food.
+
 | *proderit et tunsum gallae admiscere saporem*
 | *arentisque rosas, aut igni pinguia multo*
 | *defruta vel psithia passos de vite racemos,*
-| *Cecropiumque thymum et grave olentia centaurea.*
+| *Cecropiumque thymum et grave olentia centaurea.* 270
+
+- *proderit* from *prosum, prodesse* is 3rd singular future active indicative,
+  meaning to be useful. Takes *admiscere* as a complimentary infinitive.
+- The textbook has *grave olentia*  fitting together, but it's impossible!
+  *grave* is singular and *olentia* is plural, they cannot describe the same
+  thing.
+
+      it will be useful also to mix the having been crushed flavor of
+      a gall-apple and dried roses, or the rich wine-syrup with intense fire or
+      the having been spread out bunches from a psythian vine, and the heavy
+      thyme of Mt. Hymettus and odorous centaury.
+
 | *est etiam flos in pratis cui nomen amello*
 | *fecere agricolae, facilis quaerentibus herba;*
+
+- *fecere* from *facio, facere, feci, factus* is 3rd plural perfect active
+  indicative, meaning to make/create.
+- *quarentibus herba* as easy to find per Huxley.
+
+      and also a flower is in the meadow for which farmers created the name
+      amellus, a herb easy to find;
+
 | *namque uno ingentem tollit de caespite silvam*
 | *aureus ipse, sed in foliis, quae plurima circum*
-| *funduntur, violae sublucet purpura nigrae;*
+| *funduntur, violae sublucet purpura nigrae;* 275
+
+- *tollit* from *tollo, tollere, sustutli, sublatus* is 3rd singular present
+  active indicative, meaning to lift.
+- I don't really understand what's happening between 273 and 274.
+- *funduntur* from *fundo, fundere, fudi, fusus* is 3rd plural present passive
+  indicative, meaning to pour.
+- *sublucet* from *subluceo, sublucere* is 3rd singular present active
+  indicative, meaning to shine faintly.
+
+      For from a single grassy ground it lifts a huge wood, it is a golden disk,
+      but in the leaves, which most things are poured around, a purple color
+      gleams in dark violet.
+
 | *saepe deum nexis ornatae torquibus arae;*
 | *asper in ore sapor; tonsis in vallibus illum*
 | *pastores et curva legunt prope flumina Mellae.*
+
+- implied *sunt* in 276 turning *ornatae* into present passive indicative. 
+- What the fuck is *tonsis ... pastores*.
+- *legunt* from *lego, legere, legi, lectus* is 3rd plural present active
+  indicative, meaning to read.
+
+      Often the altars were decorated with the tied wreaths of the gods; flavor
+      bitter in the mouth; shepherds collect that in the having been cut valley
+      and collect it near winding streams of Mella.
+
 | *huius odorate radices incoque Baccho*
-| *pabulaque in foribus plenis appone canistris.*
+| *pabulaque in foribus plenis appone canistris.* 280
+
+- Not sure about how *in foribus canistris plenis* all fit together.
+
+      Boil down the roots of this in fragrant wine and place food in full
+      baskets on their doors.
+
 | *Sed si quem proles subito defecerit omnis,*
 | *nec genus unde novae stirpis revocetur habebit,*
 | *tempus et Arcadii memoranda inventa magistri*
 | *pandere, quoque modo caesis iam saepe iuvencis*
-| *insincerus apes tulerit cruor. altius omnem*
+| *insincerus apes tulerit cruor.*
+
+|                                *altius omnem* 285
 | *expediam prima repetens ab origine famam.*
+
 | *nam qua Pellaci gens fortunata Canopi*
 | *accolit effuso stagnantem flumine Nilum*
 | *et circum pictis vehitur sua rura phaselis,*
-
-| *quaque pharetratae vicinia Persidis urget,*
+| *quaque pharetratae vicinia Persidis urget,* 290
 | *et viridem Aegyptum nigra fecundat harena,*
 | *et diversa ruens septem discurrit in ora*
 | *usque coloratis amnis devexus ab Indis,*
 | *omnis in hac certam regio iacit arte salutem.*
+
 | *exiguus primum atque ipsos contractus in usus*
 | *eligitur locus; hunc angustique imbrice tecti*
 | *parietibusque premunt artis, et quattuor addunt,*
 | *quattuor a ventis obliqua luce fenestras.*
+
 | *tum vitulus bima curvans iam cornua fronte*
 | *quaeritur; huic geminae nares et spiritus oris*
 | *multa reluctanti obstruitur, plagisque perempto*
 | *tunsa per integram solvuntur viscera pellem.*
+
 | *sic positum in clauso linquunt, et ramea costis*
 | *subiciunt fragmenta, thymum casiasque recentis.*
+
 | *hoc geritur Zephyris primum impellentibus undas,*
 | *ante novis rubeant quam prata coloribus, ante*
 | *garrula quam tignis nidum suspendat hirundo.*
+
 | *interea teneris tepefactus in ossibus umor*
 | *aestuat, et visenda modis animalia miris,*
 | *trunca pedum primo, mox et stridentia pennis,*
@@ -1140,6 +1238,7 @@ or those having been connected together with their feet hang towards the door or
 | *donec ut aestivis effusus nubibus imber*
 | *erupere, aut ut nervo pulsante sagittae*
 | *prima leves ineunt si quando proelia Parthi.*
+
 | *Quis deus hanc, Musae, quis nobis extudit artem?*
 | *unde nova ingressus hominum experientia cepit?*
 | *pastor Aristaeus fugiens Peneia Tempe,*
