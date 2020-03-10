@@ -1330,15 +1330,128 @@ funerals.
       the first battles.
 
 | *Quis deus hanc, Musae, quis nobis extudit artem?* 315
+
+- *quis* interrogative pronoun.
+- *musae* plural vocative.
+- *extudit* from *extundo, extundere* is 3rd singular perfect active indicative,
+  meaning to forge.
+
+      What god, O muses, what god forged craft this device for us?
+
 | *unde nova ingressus hominum experientia cepit?*
+
+- *exerpientia* as initiative per Huxley.
+
+      From where did the new initiative of men seize a beginning?
+
 | *pastor Aristaeus fugiens Peneia Tempe,*
 | *amissis, ut fama, apibus morboque fameque,*
 | *tristis ad extremi sacrum caput astitit amnis*
 | *multa querens, atque hac adfatus voce parentem:* 320
-| *'mater, Cyrene mater, quae gurgitis huius*
 
-What god, ye Muses, forged for us this device? Whence did man’s strange
-adventuring take its rise? Aristaeus the shepherd, quitting Tempe by the Peneus,
-when – so runs the tale – his bees were lost through sickness and hunger,
-sorrowfully stopped beside the sacred fount at the stream’s head, and with much
-complaint called on his mother thus:
+
+- *fugiens* from *fugio, fugere, fugi, fugitus* is the present active
+  participle, meaning to flee.
+- Why are both *morbo* and *fame* attached with *que*? Only one needs to be?
+
+      Shepherd Aristaeus, fleeing from Tempe by the Peneus, with his bees lost
+      with sickness and hunger, as is the rumor, complaining much sadly stood at
+      the holy source of the river's limit, and adressed his mother with this
+      tone:
+
+| *'mater, Cyrene mater, quae gurgitis huius*
+| *ima tenes, quid me praeclara stirpe deorum*
+| *(si modo, quem perhibes, pater est Thymbraeus Apollo)*
+| *invisum fatis genuisti?* 
+
+      O mother, O Cyrenae mother, who do you hold in the innermost of this
+      whirlpool, why from the bright lineage of the gods (if only, which you
+      say, Thymbrean Apollo is my father) did you give birth to me to envy the
+      fates?
+
+O mother, mother Cyrene, who dwell in this flood’s depths, why, from the gods’
+glorious line – if indeed, as you say, Thymbraean Apollo is my father – did you
+give me birth, to be hated by the fates?
+
+|                         *aut quo tibi nostri*
+| *pulsus amor?*
+
+- Weird???
+
+      or whether your love of me is banished?
+
+|              *quid me caelum sperare iubebas?* 325
+
+      Why were you ordering me to hope for heaven?
+
+| *en etiam hunc ipsum vitae mortalis honorem,*
+| *quem mihi vix frugum et pecorum custodia sollers*
+| *omnia temptanti extuderat, te matre relinquo.*
+
+      Behold even this very honor of my mortal life, which the clever protection
+      of the crops and cattle had barely hammered out all things for me,
+      although you are my mother, I leave you behind.
+
+| *quin age et ipsa manu felicis erue silvas,*
+| *fer stabulis inimicum ignem atque interfice messis,* 330
+| *ure sata et validam in vitis molire bipennem,*
+| *tanta meae si te ceperunt taedia laudis.'*
+
+Come, and with your own hand tear up my fruitful woods; put hostile flame to my
+stalls, destroy my crops, burn my seedlings, and swing the stout axe against my
+vines, if such loathing for my honour has seized you.”
+
+| *At mater sonitum thalamo sub fluminis alti*
+| *sensit.*
+
+But his mother heard the cry from her bower beneath the river’s depths. 
+
+|         *eam circum Milesia vellera Nymphae*
+| *carpebant hyali saturo fucata colore,* 335
+| *Drymoque Xanthoque Ligeaque Phyllodoceque,*
+| *caesariem effusae nitidam per candida colla,*
+| *[Nesaee Spioque Thaliaque Cymodoceque,]*
+| *Cydippeque et flava Lycorias, altera virgo,*
+| *altera tum primos Lucinae experta labores,* 340
+| *Clioque et Beroe soror, Oceanitides ambae,*
+| *ambae auro, pictis incinctae pellibus ambae,*
+| *atque Ephyre atque Opis et Asia Deiopea*
+| *et tandem positis velox Arethusa sagittis.*
+
+About her the Nymphs were spinning fleeces of Miletus, dyed with rich glassy hue
+– Drymo and Xantho, Ligea and Phyllodoce, their shining tresses floating over
+snowy necks; Nesaea and Spio, Thalia and Cymodoce [four Nereids]; Cydippe and
+golden-haired Lycorias – a maiden one, the other having but felt the first
+birth-throes; Clio and Beroe, her sister, daughters of Ocean both, both arrayed
+in gold, and both in dappled hides [as huntresses]; Ephyre and Opis, and Asian
+Deiopea, and fleet Arethusa, her arrows laid aside at last.
+
+| *inter quas curam Clymene narrabat inanem* 345
+| *Volcani, Martisque dolos et dulcia furta,*
+| *aque Chao densos divum numerabat amores.*
+
+Among these Clymene was telling of Vulcan’s baffled care, of the wiles and
+stolen joys of Mars, and from Chaos on was rehearsing the countless loves of the
+gods.
+
+| *carmine quo captae dum fusis mollia pensa*
+| *devolvunt, iterum maternas impulit auris*
+| *luctus Aristaei, vitreisque sedilibus omnes* 350
+| *obstipuere; sed ante alias Arethusa sorores*
+| *prospiciens summa flavum caput extulit unda,*
+| *et procul:*
+
+And while, charmed by the strain, they unrolled the soft coils from their
+spindles, again the wail of Aristaeus smote upon his mother’s ear, and all upon
+their crystal thrones were startled. Yet, first of all the sisters, Arethusa,
+looking forth, raised her golden head above the water’s brim, and cried from
+afar:
+
+|            *'o gemitu non frustra exterrita tanto,*
+| *Cyrene soror, ipse tibi, tua maxima cura,*
+| *tristis Aristaeus Penei genitoris ad undam* 355
+| *stat lacrimans, et te crudelem nomine dicit.'*
+
+“O sister Cyrene, not vain was your alarm at this loud lament. ‘Tis even he,
+your own beloved, your Aristaeus, standing sadly and in tears by the waters of
+our father, and crying out on you by name for cruelty.”
