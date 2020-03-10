@@ -1342,7 +1342,9 @@ funerals.
 
 - *exerpientia* as initiative per Huxley.
 
-      From where did the new initiative of men seize a beginning?
+      From where did the new initiative of men seize its beginnings?
+
+      Coming from where does he seize the new experiences of men?
 
 | *pastor Aristaeus fugiens Peneia Tempe,*
 | *amissis, ut fama, apibus morboque fameque,*
@@ -1352,7 +1354,6 @@ funerals.
 
 - *fugiens* from *fugio, fugere, fugi, fugitus* is the present active
   participle, meaning to flee.
-- Why are both *morbo* and *fame* attached with *que*? Only one needs to be?
 
       Shepherd Aristaeus, fleeing from Tempe by the Peneus, with his bees lost
       with sickness and hunger, as is the rumor, complaining much sadly stood at
@@ -1364,9 +1365,9 @@ funerals.
 | *(si modo, quem perhibes, pater est Thymbraeus Apollo)*
 | *invisum fatis genuisti?* 
 
-      O mother, O Cyrenae mother, who do you hold in the innermost of this
-      whirlpool, why from the bright lineage of the gods (if only, which you
-      say, Thymbrean Apollo is my father) did you give birth to me to envy the
+      O mother, O Cyrenae mother, you who hold the innermost of this whirlpool,
+      why from the bright lineage of the gods (if only, whom you put forth,
+      Thymbrean Apollo, is my father) did you give birth to me to envy the
       fates?
 
 O mother, mother Cyrene, who dwell in this flood’s depths, why, from the gods’
@@ -1376,9 +1377,10 @@ give me birth, to be hated by the fates?
 |                         *aut quo tibi nostri*
 | *pulsus amor?*
 
-- Weird???
+- *tibi* is a dative of possesor, Huxley is agent.
+- *nostri* is an objective genitive.
 
-      or whether your love of me is banished?
+      or where has your love for me has been banished?
 
 |              *quid me caelum sperare iubebas?* 325
 
@@ -1388,8 +1390,8 @@ give me birth, to be hated by the fates?
 | *quem mihi vix frugum et pecorum custodia sollers*
 | *omnia temptanti extuderat, te matre relinquo.*
 
-      Behold even this very honor of my mortal life, which the clever protection
-      of the crops and cattle had barely hammered out all things for me,
+      Behold even this very honor of my mortal life, which the clever care of
+      the crops and cattle had barely hammered out for me trying all things,
       although you are my mother, I leave you behind.
 
 | *quin age et ipsa manu felicis erue silvas,*
