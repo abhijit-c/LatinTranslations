@@ -1432,6 +1432,10 @@ Deiopea, and fleet Arethusa, her arrows laid aside at last.
 | *Volcani, Martisque dolos et dulcia furta,*
 | *aque Chao densos divum numerabat amores.*
 
+- Dense loves of mars from Chaos, kinda meaning from the beginning.
+
+      Among them Clymene was telling (...), 
+
 Among these Clymene was telling of Vulcan’s baffled care, of the wiles and
 stolen joys of Mars, and from Chaos on was rehearsing the countless loves of the
 gods.
@@ -1443,17 +1447,100 @@ gods.
 | *prospiciens summa flavum caput extulit unda,*
 | *et procul:*
 
+      Having been captured by which song tjey unrolled down the soft wools from
+      their spindles, (...)
+
 And while, charmed by the strain, they unrolled the soft coils from their
 spindles, again the wail of Aristaeus smote upon his mother’s ear, and all upon
-their crystal thrones were startled. Yet, first of all the sisters, Arethusa,
-looking forth, raised her golden head above the water’s brim, and cried from
-afar:
+their crystal thrones were startled. 
+
+Yet, before the other sisters, Arethusa, looking, raised her golden head
+from the top of the water, and at distance:
 
 |            *'o gemitu non frustra exterrita tanto,*
 | *Cyrene soror, ipse tibi, tua maxima cura,*
 | *tristis Aristaeus Penei genitoris ad undam* 355
 | *stat lacrimans, et te crudelem nomine dicit.'*
 
+O not having been terrified by such a groun in vain, sister Cyrene. He cries to
+you
+
 “O sister Cyrene, not vain was your alarm at this loud lament. ‘Tis even he,
 your own beloved, your Aristaeus, standing sadly and in tears by the waters of
 our father, and crying out on you by name for cruelty.”
+
+| *huic percussa nova mentem formidine mater*
+| *'duc, age, duc ad nos; fas illi limina divum*
+| *tangere' ait. simul alta iubet discedere late*
+| *flumina, qua iuvenis gressus inferret.*
+
+- *discedere* as to part asunder per Huxley's vocab.
+- *inferret* is imperfect subjunctive, but Huxley wants us to translate *qua
+  = ut via facta* a final clause.
+
+      To this, the mother having been struck with respect to her mind by a new
+      fear, says 'Lead him, come, lead him to us; It is divine will for him to
+      touch the divine threshhold' At the same time she orders the deep rivers
+      to part asunder, so that the way having been made brings his youthful
+      steps in.
+
+|                                        *at illum* 360
+| *curvata in montis faciem circumstetit unda*
+| *accepitque sinu vasto misitque sub amnem.*
+
+      But the wave, having been bent into the shape of a mountain, surrounded
+      him and accepted him in it's huge curve and sent him under the river.
+
+| *iamque domum mirans genctricis et umida regna*
+| *speluncisque lacus clausos lucosque sonantis*
+| *ibat, et ingenti motu stupefactus aquarum* 365
+| *omnia sub magna labentia flumina terra*
+| *spectabat diversa locis, Phasimque Lycumque,*
+| *et caput unde altus primum se erumpit Enipeus,*
+| *unde pater Tiberinus et unde Anicna fluenta*
+| *saxosusque sonans Hypanis Mysusque Caicus* 370
+| *et gemina auratus taurino cornua vultu*
+| *Eridanus, quo non alius per pinguia culta*
+| *in mare purpureum violentior eflluit amnis.*
+
+And now, marveling at his mother’s home, a realm of waters, at the lakes locked
+in caverns, and the echoing groves, he went on his way, and, dazed by the mighty
+rush of waters, he gazed on all the rivers, as, each in its own place, they
+waters gliding under the great earth – Phasis and Lycus, the fount whence deep Enipeus
+first breaks forth, whence Father Tiber, whence the streams of Anio and rocky,
+roaring Hypanis, and Mysian Caïcus, and Eridanus, on whose bull’s brow are two
+gilded horns: no other stream of mightier force flows through the fertile fields
+to join the violet sea.
+
+| *postquam est in thalami pendentia pumice tecta*
+| *perventum et nati fletus cognovit inanis* 375
+| *Cyrene, manibus liquidos dant ordine fontis*
+| *germanae, tonsisque ferunt mantelia villis;*
+| *pars epulis onerant mensas et plena reponunt*
+| *pocula, Panchaeis adolescunt ignibus arae,*
+| *et mater 'cape Maconii carchesia Bacchi:* 380
+| *Oceano libemus' ait.*
+
+Soon as he reached the bower with its hanging roof of stone, and Cyrene heard
+the tale of her son’s idle tears, the sisters, in due order, pour on his hands
+clear spring-waters, and bring smooth-shorn napkins. Some load the board with
+the feast, and in turn set on the brimming cups; the altars blaze up with
+Panchaean fires. Then cried his mother: “Take the goblets of Maeonian wine’;
+pour we a libation to Ocean!”
+
+|                      *simul ipsa precatur*
+| *Oceanumque patrem rerum Nymphasque sorores,*
+| *centum quae silvas, centum quae flumina servant.*
+
+And she prayed to Ocean, universal father, and the sister Nymphs, who guard the
+hundred forests and a hundred streams.
+
+| *ter liquido ardentem perfundit nectare Vestam,*
+| *ter flamma ad summum tecti subiecta reluxit.* 385
+
+Thrice with clear nectar she sprinkles the glowing hearth; thrice the flame,
+shooting up to the rooftop, gleamed afresh.
+
+| *omine quo firmans animum sic incipit ipsa:*
+
+With this omen to cheer his heart, she thus her self began:
