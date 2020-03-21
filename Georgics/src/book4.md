@@ -1544,3 +1544,253 @@ shooting up to the rooftop, gleamed afresh.
 | *omine quo firmans animum sic incipit ipsa:*
 
 With this omen to cheer his heart, she thus her self began:
+
+# Page 57
+
+| *'Est in Carpantio Neptuni gurgite vates*
+| *caeruleus Proteus, magnum qui piscibus aequor*
+| *et iuncto bipedum curru metitur equorum.*
+
+| *hic nunc Emathiae portus patriamque revisit* 390
+| *Pallenen; hunc et Nymphae veneramur et ipse*
+| *grandaevus Nereus: novit namque omnia vates,*
+| *quae sint, quae fuerint, quae mox ventura trahantur;*
+| *quippe ita Neptuno visum est, immania cuius*
+| *armenta et turpis pascit sub gurgite phocas.* 395
+
+| *hic tibi, nate, prius vinclis capiendus, ut omnem*
+| *expediat morbi causam eventusque secundet.*
+
+| *nam sine vi non ulla dabit praecepta, neque illum*
+| *orando flectes; vim duram et vincula capto*
+| *tende; doli circum haec demum frangentur inanes.* 400
+
+| *ipsa ego te, medios cum sol accenderit aestus,*
+| *cum sitiunt herbae et pecori iam gratior umbra est,*
+| *in secreta senis ducam, quo fessus ab undis*
+| *se recipit, facile ut somno adgrediare iacentem.*
+
+| *verum ubi correptum manibus vinclisque tenebis,* 405
+| *tum variae eludent species atque ora ferarum.*
+
+| *fiet enim subito sus horridus atraque tigris*
+| *squamosusque draco et fulva cervice leaena,*
+| *aut acrem flammae sonitum dabit atque ita vinclis*
+| *excidet, aut in aquas tenuis dilapsus abibit.* 410
+
+| *sed quanto ille magis formas se vertet in omnis*
+| *tam tu, nate, magis contende tenacia vincla,*
+| *donec talis erit mutato corpore qualem*
+| *videris incepto tegeret cum lumina somno.'*
+
+| *Haec ait et liquidum ambrosiae diffundit odorem,* 415
+| *quo totum nati corpus perduxit; at illi*
+| *dulcis compositis spiravit crinibus aura*
+| *atque habilis membris venit vigor.*
+
+|                                    *est specus ingens*
+| *exesi latere in montis, quo plurima vento*
+| *cogitur inque sinus scindit sese unda reductos,* 420
+
+# Page 58
+
+| *deprensis olim statio tutissima nautis;*
+| *intus se vasti Proteus tegit obice saxi.*
+
+| *hic iuvenem in latebris aversum a lumine Nympha*
+| *conlocat, ipsa procul nebulis obscura resistit.*
+
+| *iam rapidus torrens sitientis Sirius Indos* 425
+| *ardebat caelo, et medium sol igneus orbem*
+| *hauserat; arebant herbae, et cava flumina siccis*
+| *faucibus ad limum radii tepefacta coquebant:*
+| *cum Proteus consueta petens e fluctibus antra*
+| *ibat; eum vasti circum gens umida ponti* 430
+| *exsultans rorem late dispergit amarum.*
+
+| *sternunt se somno diversae in litore phocae;*
+| *ipse, velut stabuli custos in montibus olim,*
+| *vesper ubi e pastu vitulos ad tecta reducit*
+| *auditisque lupos acuunt balatibus agni,* 435
+| *consedit scopulo medius, numerumque recenset.*
+
+| *cuius Aristaeo quoniam est oblata facultas,*
+| *vix defessa senem passus componere membra*
+| *cum clamore ruit magno, manicisque iacentem*
+| *occupat.*                                    440
+
+|          *ille suae contra non immemor artis* 440
+| *omnia transformat sese in miracula rerum,*
+| *ignemque horribilemque feram fluviumque liquentem.*
+
+| *verum ubi nulla fugam reperit fallacia, victus*
+| *in sese redit atque hominis tandem ore locutus*
+| *'nam quis te, iuvenum confidentissime, nostras* 445
+| *iussit adire domos? quidve hinc petis?' inquit. at ille:*
+| *'scis, Proteu, scis ipse; neque est te fallere quicquam:*
+| *sed tu desine velle.*
+
+|                      *deum praecepta secuti*
+| *venimus hinc lassis quaesitum oracula rebus.'*
+
+| *tantum effatus, ad haec vates vi denique multa* 450
+| *ardentis oculos intorsit lumine glauco,*
+| *et graviter frendens sic fatis ora resolvit.*
+
+| *'Non te nullius exercent numinis irae;*
+
+# Page 59
+
+| *magna luis commissa: tibi has miserabilis Orpheus*
+| *haudquaquam ob meritum pocnas, ni fata resistant,* 455
+| *suscitat, et rapta graviter pro coniuge saevit.*
+
+| *illa quidem, dum te fugeret per flumina praeceps,*
+| *immanem ante pedes hydrum moritura puella*
+| *servantem ripas alta non vidit in herba.*
+
+| *at chorus aequalis Dryadum clamore supremos* 460
+| *implerunt montis; flerunt Rhodopciae arces*
+| *altaque Pangaea et Rhesi Mavortia tellus*
+| *atque Getae atque Hebrus et Actias Orithyia.*
+
+| *ipse cava solans aegrum testudine amorem*
+| *te, dulcis co nx, te solo in litore secum,* 465
+| *te veniente die, te decedente canebat.*
+
+| *Taenarias etiam fauces, alta ostia Ditis,*
+| *et caligantem nigra formidine lucum*
+| *ingressus, manisque adiit regemque tremendum*
+| *nesciaque humanis precibus mansuescere corda.* 470
+
+| *at cantu commotae Erebi de sedibus imis*
+| *umbrae ibant tenues simulacraque luce carentum,*
+| *quam multa in foliis avium se milia condunt,*
+| *vesper ubi aut hibernus agit de montibus imber,*
+| *matres atque viri defunctaque corpora vita* 475
+| *magnanimum heroum, pueri innuptaeque puellae,*
+| *impositique rogis iuvenes ante ora parentum,*
+| *quos circum limus niger et deformis harundo*
+| *Cocyti tardaque palus inamabilis unda*
+| *alligat et novies Styx interfusa coercet.* 480
+
+| *quin ipsae stupuere domus atque intima Leti*
+| *Tartara caerulcosque implexae crinibus anguis*
+| *Eumenides, tenuitque inhians tria Cerberus ora,*
+| *atque Ixionii vento rota constitit orbis.*
+
+| *lamque pedem referens casus evaserat omnis,* 485
+
+# Page 60
+
+| *redditaque Eurydice superas veniebat ad auras*
+| *pone sequens (namque hanc dederat Proserpina legem),*
+| *cum subita incautum dementia cepit amantem,*
+| *ignoscenda quidem, scirent si ignoscere manes:*
+| *restitit, Eurydicenque suam iam luce sub ipsa* 490
+| *immemor heu! victusque animi respexit.*
+|                                        *ibi omnis*
+| *effusus labor atque immitis rupta tyranni*
+| *foedera, terque fragor stagnis auditus Averni.*
+
+| *illa quis et me' inquit 'miseram et te perdidit, Orpheu,*
+| *quis tantus furor? en iterum crudelia retro* 495
+| *fata vocant, conditque natantia lumina somnus.*
+
+| *iamque vale: feror ingenti circumdata nocte*
+| *invalidasque tibi tendens, heu non tua, palmas.'*
+
+| *dixit et ex oculis subito, ceu fumus in auras*
+| *commixtus tenuis, fugit diversa, neque illum* 500
+| *prensantem nequiquam umbras et multa volentem*
+| *dicere praeterea vidit; nec portitor Orci*
+| *amplius obiectam passus transire paludem.*
+
+| *quid faceret? quo se rapta bis coniuge ferret?*
+| *quo fletu manis, quae numina voce moveret?* 505
+| *illa quidem Stygia nabat iam frigida cumba.*
+
+| *septem illum totos perhibent ex ordine mensis*
+| *rupe sub aëria deserti ad Strymonis undam*
+| *flevisse et gelidis haec evolvisse sub antris*
+| *mulcentem tigris et agentem carmine quercus;* 510
+| *qualis populea maerens philomela sub umbra*
+| *amissos queritur fetus, quos durus arator*
+| *observans nido implumis detraxit; at illa*
+| *flet noctem, ramoque sedens miserabile carmen*
+| *integrat, et maestis late loca questibus implet.* 515
+
+| *nulla Venus, non ulli animum flexere hymenaei:*
+
+# Page 61
+
+| *solus Hyperboreas glacies Tanaimque nivalem*
+| *arvaque Riphaeis numquam viduata pruinis*
+| *lustrabat, raptam Eurydicen atque inrita Ditis*
+| *dona querens.*                                   520
+
+|               *spretae Ciconum quo munere matres* 520
+| *inter sacra deum nocturnique orgia Bacchi*
+| *discerptum latos iuvenem sparsere per agros.*
+
+| *tum quoque marmorea caput a cervice*
+| *revulsum gurgite cum medio portans Oeagrius Hebrus*
+| *volveret, Eurydicen vox ipsa et frigida lingua* 525
+| *a miseram Eurydicen! anima fugiente vocabat:*
+| *Eurydicen toto referebant flumine ripae.'*
+
+| *Haec Proteus, et se iactu dedit aequor in altum,*
+| *quaque dedit, spumantem undam sub vertice torsit.*
+
+| *At non Cyrene; namque ultro adfata timentem:* 530
+| *'nate, licet tristis animo deponere curas.*
+
+| *haec omnis morbi causa, hinc miserabile Nymphae,*
+| *cum quibus illa choros lucis agitabat in altis,*
+| *exitium misere apibus.*
+
+|                        *tu munera supplex*
+| *tende petens pacem, et facilis venerare Napaeas;* 535
+| *namque dabunt veniam votis, irasque remittent.*
+
+| *sed modus orandi qui sit prius ordine dicam.*
+
+| *quattuor eximios praestanti corpore tauros,*
+| *qui tibi nunc viridis depascunt summa Lycaei,*
+| *delige, et intacta totidem cervice iuvencas.* 540
+
+| *quattuor his aras alta ad delubra dearum*
+| *constitue, et sacrum iugulis demitte cruorem,*
+| *corporaque ipsa boum frondoso desere luco.*
+
+| *post, ubi nona suos Aurora ostenderit ortus,*
+| *inferias Orphei Lethaea papavera mittes* 545
+| *et nigram mactabis ovem, lucumque revises:*
+| *placatam Eurydicen vitula venerabere caesa.*
+
+| *Haud mora: continuo matris praecepta facessit;*
+| *ad delubra venit, monstratas excitat aras,*
+
+# Page 62
+
+| *quattuor eximios praestanti corpore tauros* 550
+| *ducit et intacta totidem cervice iuvencas.*
+
+| *post, ubi nona suos Aurora induxerat ortus,*
+| *inferias Orphei mittit, lucumque revisit.*
+
+| *hic vero subitum ac dictu mirabile monstrum*
+| *aspiciunt, liquefacta boum per viscera toto* 555
+| *stridere apes utero et ruptis effervere costis,*
+| *immensas que trahi nubes, iamque arbore summa*
+| *confluere et lentis uvam demittere ramis.*
+
+| *Haec super arvorum cultu pecorumque canebam*
+| *et super arboribus, Caesar dum magnus ad altum* 560
+| *fulminat Euphraten bello victorque volentis*
+| *per populos dat iura viamque adfectat Olympo.*
+
+| *illo Vergilium me tempore dulcis alebat*
+| *Parthenope studiis florentem ignobilis oti,*
+| *carmina qui lusi pastorum audaxque iuventa,* 565
+| *Tityre, te patulae cecini sub tegmine fagi.*
