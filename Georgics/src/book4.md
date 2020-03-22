@@ -1551,12 +1551,49 @@ With this omen to cheer his heart, she thus her self began:
 | *caeruleus Proteus, magnum qui piscibus aequor*
 | *et iuncto bipedum curru metitur equorum.*
 
+- *vates* predicate nominative singular, not accusative plural.
+- *magnum* not matching with *proteus* because *proteus* is masculine
+  nominative, but *magnum* can only form neuter nominative.
+- *metitur* from *metior, metiri, mensus sum* is 3rd singular present
+  indicative, meaning to measure.
+- Don't really like the way I translated the genititives *bipedum equorum*.
+
+      There is a seer in the Carpanthian sea of Neptune, sea-green Proteus who
+      measures the great sea with fishes and a chariot having been joined of
+      two-footed horses.
+
 | *hic nunc Emathiae portus patriamque revisit* 390
 | *Pallenen; hunc et Nymphae veneramur et ipse*
 | *grandaevus Nereus: novit namque omnia vates,*
 | *quae sint, quae fuerint, quae mox ventura trahantur;*
 | *quippe ita Neptuno visum est, immania cuius*
 | *armenta et turpis pascit sub gurgite phocas.* 395
+
+- *Emathi-a,-ae* is a district of Macedonia.
+- *revisit* from *reviso, revisere* is 3rd singular present active indicative,
+  meaning to revisit.
+- *Pallenen* is fem. singular accusative, some strange conjugation. Implies
+  *patriam* the adjective. This is a Macedoniam Peninsula.
+- *veneramur* from *veneror, venerari, veneratus sum* is 1st plural present
+  passive indicative, meaning to venerate. 
+- Why is *ipse grandaevus Nereus* nominative? This is a sentence with 1st person
+  plural subject, but we have a singular nominative?
+- *novit* from *nosco, noscrere, novi, notus* is 3rd singular perfect active
+  indicative, meaning to know.
+- *ventura* from *venio, venire, veni, ventus* is the future active participle,
+  meaning to come.
+- Per Huxley *sint, fuerint, trahantur* are all subjunctive as they are indirect
+  question.
+- *visum est* from *video, videre, vidi, visus* is 3rd singular perfect passive
+  indcative, meaning to see.
+- *pascit* from *pasco, pascere, pavi, patus* is 3rd singular present active
+  indicative, meaning to feed.
+      
+      Now this man revisits the ports of Emithia and ancestral Pallene; We of
+      the Nymphs venerate this man and aged Nereus himself: for the seer knew
+      all things, what is, what has been, what soon going to come is drawn out;
+      For surely it seemed thus to Neptune, he feeds the huge herds and ugly
+      seals of whom under the sea.
 
 | *hic tibi, nate, prius vinclis capiendus, ut omnem*
 | *expediat morbi causam eventusque secundet.*
