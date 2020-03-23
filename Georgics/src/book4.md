@@ -1642,15 +1642,16 @@ With this omen to cheer his heart, she thus her self began:
 - *pecori* is dative of possesor.
 - *ducam* from *duco, ducere* is 1st singular future active indicative, meaning
   to lead. Not subjunctive because I believe in compassion.
+- *recipit* from *recipio, recipere, recepi, receptus* is 3rd singular present
+  active indicative. Per Huxley's vocabulary, *se recipit* means retires in this
+  line.
+- *adgrediare* from *adgredior, adredi, adgressus sum* is 2nd singular present
+  subjunctive, meaning 
 
       I myself, when the sun will have kindled the middle heat, when the herbs
       thirst and the cattle now have a pleasing shade, will guide you into the
-      secret place of the old man, 
-
-I myself, when the sun has kindled his noonday heat, when the grass is athirst,
-and the shade is now welcome to the flock, will guide you to the aged one’s
-retreat, whither when weary he retires, so that you may assail him with ease as
-he lies asleep.
+      old man's secret place, in which the tired man retires from the waves, so
+      that you may easily approach that man lying down in sleep.
 
 | *verum ubi correptum manibus vinclisque tenebis,* 405
 | *tum variae eludent species atque ora ferarum.*
