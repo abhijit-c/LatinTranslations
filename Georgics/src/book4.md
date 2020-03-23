@@ -1523,10 +1523,10 @@ to join the violet sea.
 
 Soon as he reached the bower with its hanging roof of stone, and Cyrene heard
 the tale of her son’s idle tears, the sisters, in due order, pour on his hands
-clear spring-waters, and bring smooth-shorn napkins. Some load the board with
-the feast, and in turn set on the brimming cups; the altars blaze up with
+clear spring-waters, and bring napkins with tufts of hair. Some load the board
+with the feast, and in turn set on the brimming cups; the altars blaze up with
 Panchaean fires. Then cried his mother: “Take the goblets of Maeonian wine’;
-pour we a libation to Ocean!”
+let us drink to the Ocean!"
 
 |                      *simul ipsa precatur*
 | *Oceanumque patrem rerum Nymphasque sorores,*
@@ -1543,7 +1543,7 @@ shooting up to the rooftop, gleamed afresh.
 
 | *omine quo firmans animum sic incipit ipsa:*
 
-With this omen to cheer his heart, she thus her self began:
+By which omen she herself, firming her soul, thus begins:
 
 # Page 57
 
@@ -1556,7 +1556,7 @@ With this omen to cheer his heart, she thus her self began:
   nominative, but *magnum* can only form neuter nominative.
 - *metitur* from *metior, metiri, mensus sum* is 3rd singular present
   indicative, meaning to measure.
-- Don't really like the way I translated the genititives *bipedum equorum*.
+- *bipedum equorum* is a descriptive genitive.
 
       There is a seer in the Carpanthian sea of Neptune, sea-green Proteus who
       measures the great sea with fishes and a chariot having been joined of
@@ -1576,8 +1576,6 @@ With this omen to cheer his heart, she thus her self began:
   *patriam* the adjective. This is a Macedoniam Peninsula.
 - *veneramur* from *veneror, venerari, veneratus sum* is 1st plural present
   passive indicative, meaning to venerate. 
-- Why is *ipse grandaevus Nereus* nominative? This is a sentence with 1st person
-  plural subject, but we have a singular nominative?
 - *novit* from *nosco, noscrere, novi, notus* is 3rd singular perfect active
   indicative, meaning to know.
 - *ventura* from *venio, venire, veni, ventus* is the future active participle,
@@ -1589,11 +1587,11 @@ With this omen to cheer his heart, she thus her self began:
 - *pascit* from *pasco, pascere, pavi, patus* is 3rd singular present active
   indicative, meaning to feed.
       
-      Now this man revisits the ports of Emithia and ancestral Pallene; We of
-      the Nymphs venerate this man and aged Nereus himself: for the seer knew
-      all things, what is, what has been, what soon going to come is drawn out;
-      For surely it seemed thus to Neptune, he feeds the huge herds and ugly
-      seals of whom under the sea.
+      Now this man revisits the entrances of Emithia and ancestral Pallene; We
+      Nymphs venerate this man and aged Nereus himself: for the seer knew all
+      things, what is, what has been, what soon going to come is drawn out; For
+      surely it seemed thus to Neptune, whose feeds the huge herds and ugly seals
+      of whom under the sea.
 
 | *hic tibi, nate, prius vinclis capiendus, ut omnem*
 | *expediat morbi causam eventusque secundet.*
@@ -1656,32 +1654,56 @@ With this omen to cheer his heart, she thus her self began:
 | *verum ubi correptum manibus vinclisque tenebis,* 405
 | *tum variae eludent species atque ora ferarum.*
 
+But when you will hold the man having been seized by means of your hands and
+chains, then various species will mock you and the mouth of the beast.
+
 | *fiet enim subito sus horridus atraque tigris*
 | *squamosusque draco et fulva cervice leaena,*
 | *aut acrem flammae sonitum dabit atque ita vinclis*
 | *excidet, aut in aquas tenuis dilapsus abibit.* 410
+
+For of a sudden he will become a bristly boar, a deadly tiger, a scaly serpent,
+or a lioness with tawny neck; or he will give forth the fierce roar of flame,
+and thus slip from his fetters, or he will melt into fleeting water and be gone.
 
 | *sed quanto ille magis formas se vertet in omnis*
 | *tam tu, nate, magis contende tenacia vincla,*
 | *donec talis erit mutato corpore qualem*
 | *videris incepto tegeret cum lumina somno.'*
 
+But the more he turn himself into all shapes, the more, my son, should you
+tighten his fetters, until after his last changes of body he become such as you
+saw when he closed his eyes at the beginning of slumber.”
+
 | *Haec ait et liquidum ambrosiae diffundit odorem,* 415
 | *quo totum nati corpus perduxit; at illi*
 | *dulcis compositis spiravit crinibus aura*
 | *atque habilis membris venit vigor.*
 
+She spoke, and shed abroad ambrosia’s fragrant stream, wherewith she steeped her
+son’s whole frame: and lo, a sweet effluence breathed from his smoothened locks,
+and vigour and suppleness passed into his limbs.
+
 |                                    *est specus ingens*
 | *exesi latere in montis, quo plurima vento*
 | *cogitur inque sinus scindit sese unda reductos,* 420
+
+There is a vast cavern, hollowed in a mountain’s side, whither many a wave is
+driven by the wind, then separates into receding inlets – at times a haven most
+sure for storm-caught mariners.
 
 # Page 58
 
 | *deprensis olim statio tutissima nautis;*
 | *intus se vasti Proteus tegit obice saxi.*
 
+Within, Proteus shelters himself with the barrier of a huge rock.
+
 | *hic iuvenem in latebris aversum a lumine Nympha*
 | *conlocat, ipsa procul nebulis obscura resistit.*
+
+Here the Nymph stations the youth in ambush, away from the light; she herself,
+veiled in mist, stands aloof.
 
 | *iam rapidus torrens sitientis Sirius Indos* 425
 | *ardebat caelo, et medium sol igneus orbem*
@@ -1691,20 +1713,39 @@ With this omen to cheer his heart, she thus her self began:
 | *ibat; eum vasti circum gens umida ponti* 430
 | *exsultans rorem late dispergit amarum.*
 
+And now the Dog Star, fiercely parching the thirsty Indians, was ablaze in
+heaven, and the fiery Sun had consumed half his course; the grass was withering
+and the hollow streams, in their parched throats, were scorched and baked by the
+rays down to the slime, when Proteus came from the waves, in quest of his wonted
+cave. About him the watery race of the vast deep gamboled, scattering afar the
+briny spray. 
+
 | *sternunt se somno diversae in litore phocae;*
 | *ipse, velut stabuli custos in montibus olim,*
 | *vesper ubi e pastu vitulos ad tecta reducit*
 | *auditisque lupos acuunt balatibus agni,* 435
 | *consedit scopulo medius, numerumque recenset.*
 
+The seals lay them down to sleep, here and there along the shore; he himself
+– even as at times the warder of a sheepfold on the hills, when Vesper brings
+the steers home from pasture, and the cry of bleating lambs whets the wolf’s
+hunger – sits down on a rock in the midst and counts their number. 
+
 | *cuius Aristaeo quoniam est oblata facultas,*
 | *vix defessa senem passus componere membra*
 | *cum clamore ruit magno, manicisque iacentem*
 | *occupat.*                                    440
 
+Soon as the chance came to Aristaeus, he scarce suffered the aged one to settle
+his weary limbs, before he burst upon him with a loud cry and surprised him in
+fetters as he lies.
+
 |          *ille suae contra non immemor artis* 440
 | *omnia transformat sese in miracula rerum,*
 | *ignemque horribilemque feram fluviumque liquentem.*
+
+On his part, the seer forgets not his craft, but changes himself into all
+wondrous shapes – into flame and hideous beast and flowing river.
 
 | *verum ubi nulla fugam reperit fallacia, victus*
 | *in sese redit atque hominis tandem ore locutus*
@@ -1713,38 +1754,69 @@ With this omen to cheer his heart, she thus her self began:
 | *'scis, Proteu, scis ipse; neque est te fallere quicquam:*
 | *sed tu desine velle.*
 
+But when no stratagem wins escape, vanquished he returns to himself, and at last
+speaks with human voice: “Why, who,” he cried, “most presumptuous of youths,
+bade you invade our home? Or what seek you hence?” But he: “You know, Proteus;
+you know of yourself, nor may one deceive you in aught, but give up your wish to
+deceive.
+
 |                      *deum praecepta secuti*
 | *venimus hinc lassis quaesitum oracula rebus.'*
+
+Following the counsel of Heaven, we are come to seek hence an oracle for our
+weary fortunes.”
 
 | *tantum effatus, ad haec vates vi denique multa* 450
 | *ardentis oculos intorsit lumine glauco,*
 | *et graviter frendens sic fatis ora resolvit.*
 
+So much he spoke. On this the seer, yielding at last to mighty force, rolled on
+him eyes ablaze with grey-green light, and grimly gnashing his teeth, thus
+opened his lips to tell of fate’s decrees:
+
 | *'Non te nullius exercent numinis irae;*
-
-# Page 59
-
 | *magna luis commissa: tibi has miserabilis Orpheus*
 | *haudquaquam ob meritum pocnas, ni fata resistant,* 455
 | *suscitat, et rapta graviter pro coniuge saevit.*
 
+“It is a god, no other, whose anger pursues you: Great is the crime you are
+paying for; this punishment, far less than you deserve, unhappy Orpheus arouses
+against you – did not Fate interpose – and rages implacably for the loss of his
+bride.
+
 | *illa quidem, dum te fugeret per flumina praeceps,*
 | *immanem ante pedes hydrum moritura puella*
 | *servantem ripas alta non vidit in herba.*
+
+She, in headlong flight along the river, if only she might escape you, saw not,
+doomed maiden, amid the deep grass the monstrous serpent at her feet that
+guarded the banks.
 
 | *at chorus aequalis Dryadum clamore supremos* 460
 | *implerunt montis; flerunt Rhodopciae arces*
 | *altaque Pangaea et Rhesi Mavortia tellus*
 | *atque Getae atque Hebrus et Actias Orithyia.*
 
+But her sister band of Dryads filled the mountaintops with their cries; the
+towers of Rhodope wept, and the Pangaean heights, and the martial land [Thrace]
+or Rhesus, the Getae and Hebrus and Orithyia, Acte’s child.
+
 | *ipse cava solans aegrum testudine amorem*
 | *te, dulcis co nx, te solo in litore secum,* 465
 | *te veniente die, te decedente canebat.*
+
+But he, solacing an arching heart with music from his hollow shell, sang of you,
+dear wife, sang of you to himself on the lonely shore, of you as day drew nigh,
+of you as day departed.
 
 | *Taenarias etiam fauces, alta ostia Ditis,*
 | *et caligantem nigra formidine lucum*
 | *ingressus, manisque adiit regemque tremendum*
 | *nesciaque humanis precibus mansuescere corda.* 470
+
+He even passed through the jaws of Taenarum, the lofty portals of Dis, the grove
+that is murky with black terror, and made his way to the land of the dead with
+its fearful king and hearts no human prayers can soften.
 
 | *at cantu commotae Erebi de sedibus imis*
 | *umbrae ibant tenues simulacraque luce carentum,*
@@ -1757,10 +1829,24 @@ With this omen to cheer his heart, she thus her self began:
 | *Cocyti tardaque palus inamabilis unda*
 | *alligat et novies Styx interfusa coercet.* 480
 
+Stirred by his song, up from the lowest realms of Erebeus came the unsubstantial
+shades, the phantoms of those who lie in darkness, as many as the myriads of
+birds that shelter among the leaves when evening or a wintry shower drives them
+from the hills – women and men, and figures of great-souled heroes, their life
+now done, boys and girls unwed, and sons placed on the pyre before their
+fathers’ eyes. But round them are the black ooze and unsightly reeds of Cocytus,
+the unlovely mere enchaining them with its sluggish water, and Styx holding them
+fast within this ninefold circles.
+
 | *quin ipsae stupuere domus atque intima Leti*
 | *Tartara caerulcosque implexae crinibus anguis*
 | *Eumenides, tenuitque inhians tria Cerberus ora,*
 | *atque Ixionii vento rota constitit orbis.*
+
+Still more: the very house of Death and deepest abysses of Hell were spellbound,
+and the Furies with livid snakes entwined in their hair; Cerberus stood agape
+and his triple jaws forgot to bark; the wind subsided, and Ixion’s wheel came to
+a stop.
 
 | *lamque pedem referens casus evaserat omnis,* 485
 
