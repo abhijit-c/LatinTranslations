@@ -1598,14 +1598,35 @@ With this omen to cheer his heart, she thus her self began:
 | *hic tibi, nate, prius vinclis capiendus, ut omnem*
 | *expediat morbi causam eventusque secundet.*
 
+- *capiendus* is supplied with *est* to be the passive periphrastic.
+- *tibi* dative of agent.
+- *expediat* from *expedio, expedire* is 3rd singular present active
+  subjunctive, meaning to make clear.
+- *secundet* from *secundo, secundare* is 3rd singular present active
+  subjunctive, meaning to make favorable.
 
-
-Him, my son, you must first take in fetters, that he may unfold to you all the
-cause of the sickness, and bless the issue.
+      This, son, first ought to be taken in chains by you, so that he may make
+      clear the cause of sickness and make favorable the results.
 
 | *nam sine vi non ulla dabit praecepta, neque illum*
 | *orando flectes; vim duram et vincula capto*
 | *tende; doli circum haec demum frangentur inanes.* 400
+
+- *dabit* from *do, dare* is 3rd singular future active indicative, meaning to
+  give.
+- *flectes* from *flecto, flectere* is 2nd singular future active indicative,
+  meaning to bend.
+- *orando* gerundive of *oro, orare, oravi, oratus*.
+- As per the notes, modify 399 into *[...] ; utere vi dura et vincula capto*.
+  The original line is a Zeugma, but I got confused so I just use the
+  modification.
+- *frangentur* from *frango, frangere* is 3rd plural future passive indicative,
+  meaning to break/shatter.
+
+      For without strength he will not give any rules, nor will you bend that
+      man with praying; with him having been seized, use stern force and pull
+      tight his chains; At last around these inane things his tricks will be
+      shattered.
 
 | *ipsa ego te, medios cum sol accenderit aestus,*
 | *cum sitiunt herbae et pecori iam gratior umbra est,*
