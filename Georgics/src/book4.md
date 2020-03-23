@@ -1598,6 +1598,11 @@ With this omen to cheer his heart, she thus her self began:
 | *hic tibi, nate, prius vinclis capiendus, ut omnem*
 | *expediat morbi causam eventusque secundet.*
 
+
+
+Him, my son, you must first take in fetters, that he may unfold to you all the
+cause of the sickness, and bless the issue.
+
 | *nam sine vi non ulla dabit praecepta, neque illum*
 | *orando flectes; vim duram et vincula capto*
 | *tende; doli circum haec demum frangentur inanes.* 400
