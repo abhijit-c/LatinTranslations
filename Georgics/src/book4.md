@@ -1687,23 +1687,38 @@ and vigour and suppleness passed into his limbs.
 |                                    *est specus ingens*
 | *exesi latere in montis, quo plurima vento*
 | *cogitur inque sinus scindit sese unda reductos,* 420
-
-There is a vast cavern, hollowed in a mountain’s side, whither many a wave is
-driven by the wind, then separates into receding inlets – at times a haven most
-sure for storm-caught mariners.
-
-# Page 58
-
 | *deprensis olim statio tutissima nautis;*
 | *intus se vasti Proteus tegit obice saxi.*
 
-Within, Proteus shelters himself with the barrier of a huge rock.
+- *exesi* fitting onto *montis* which is genitive as it's 3rd declension.
+- Even Huxley admits that this is a difficult verse starting from *quo*...
+- *cogitur* from *cogo, cogere, coegi, coactus* is 3rd singular present passive
+  indicative, meaning to compel.
+- *plurima* modifying *unda* as the subject of *cogitur*, *plurima* meaning "at
+  it's greatest extent".
+- *scindit* from *sciondo, scindere, scidi, scissus* is 3rd singular present
+  active indicative, meaning to split.
+- *sinus* is 4th declension, I think it's accusative plural fitting with
+  *reductos* inside the *in*.
+- *tegit* from *tego, tegere, texi, tectus* is 3rd singular present active
+  indicative, meaning to cover/protect.
+
+      There is a vast cavern in the side of a having been hollowed mountain,
+      where many a wave is compelled by the wind and splits itself into restored
+      creeks, formerly a safe outpost for having been caught sailors; within
+      Proteus protects himself with a barrier of huge rock.
 
 | *hic iuvenem in latebris aversum a lumine Nympha*
 | *conlocat, ipsa procul nebulis obscura resistit.*
 
-Here the Nymph stations the youth in ambush, away from the light; she herself,
-veiled in mist, stands aloof.
+- *conlocat* from *conloco, conlocare* is 3rd singular present active
+  indicative, meaning to post.
+- *obscura* in apposition with *ipsa*.
+- *resistit* from *resisto, resistere, restiti* is 3rd singular present active
+  indicative, meaning to resist.
+
+      Here the Nymph posts the youth having been diverted from the light in the
+      hiding place, she herself, obscured by clouds, stands some way off.
 
 | *iam rapidus torrens sitientis Sirius Indos* 425
 | *ardebat caelo, et medium sol igneus orbem*
@@ -1713,12 +1728,29 @@ veiled in mist, stands aloof.
 | *ibat; eum vasti circum gens umida ponti* 430
 | *exsultans rorem late dispergit amarum.*
 
-And now the Dog Star, fiercely parching the thirsty Indians, was ablaze in
-heaven, and the fiery Sun had consumed half his course; the grass was withering
-and the hollow streams, in their parched throats, were scorched and baked by the
-rays down to the slime, when Proteus came from the waves, in quest of his wonted
-cave. About him the watery race of the vast deep gamboled, scattering afar the
-briny spray. 
+- *ardebat* from *ardeo, ardere, arsi, arsus* is 3rd singular imperfect active
+  indicative, meaning to burn.
+- *sitientis Indos* the direct object of *torrens* because it's transitive, but
+  *ardebat* is not.
+- *hauserat* from *haurio, haurire, hausi, haustus* is 3rd singular pluperfect
+  active indicative, meaning t do draw up/out.
+- *arebant* from *areo, arere, arui* is 3rd plural imperfect active indicative,
+  meaning to be dry/parched. To translate this as 'was being parched' feels
+  shitty but...
+- *coquebant* from *qoquo, coquere, coxi, coctus* is 3rd plural imperfect active
+  indicative, meaning to cook.
+- *ibat* from *eo, ire* is 3rd singular imperfect active indicative, meaning to
+  go/walk.
+- *consueta antra* the direct object of *petens*.
+- *dispergit* from *dispergo, dispergere, dispersi, dispersus* is 3rd singular
+  present active indicative, meaning to scatter/disperse.
+
+      Now Sirius, swiftly scorching the thirst Indians, was burning in heaven,
+      and the fiery sun had drawn out his middle world (half his course); the
+      grass was being parched, and the rays, having been made warm, were cooking
+      the hollow rivers with dry necks to mud: when Proteus was walking out
+      of the waves, seeking his accustomed caves; around him the damp exulting
+      tribe of the vast sea scatter bitter dew far and wide.
 
 | *sternunt se somno diversae in litore phocae;*
 | *ipse, velut stabuli custos in montibus olim,*
@@ -1726,10 +1758,24 @@ briny spray.
 | *auditisque lupos acuunt balatibus agni,* 435
 | *consedit scopulo medius, numerumque recenset.*
 
-The seals lay them down to sleep, here and there along the shore; he himself
-– even as at times the warder of a sheepfold on the hills, when Vesper brings
-the steers home from pasture, and the cry of bleating lambs whets the wolf’s
-hunger – sits down on a rock in the midst and counts their number. 
+- *sternunt* from *sterno, sternere* is 3rd plural present active indicative,
+  meaning to scatter.
+- *somno* is dative of purpose.
+- *reducit* from *reduco, reducere, reduxi, reductus* is 3rd singular present
+  active indicative, meaning to bring back.
+- *acuunt* from *acuo, acuere, acui, acutus* is 3rd plural present active
+  indicative, meaning to whet/sharpen.
+- *consedit* from *consido, considere, consedit, consessus* is 3rd singular
+  perfect active indicative, meaning to sit down.
+- How to deal with *medius*?
+- *recenset* from *recenso, recensere, recensui, recensus* is 3rd singular
+  present active indicative, meaning to review.
+
+      The seals, having been seperated, scatter themselves on the shore for the
+      purpose of sleep; he himself, as if often the guard of the stable in the
+      mountains, when evening brings back the the calves out of the pasture to
+      the houses and the lambs with having been heard bleatings provoke the
+      wolves, sat down on a rock, reviews their number.
 
 | *cuius Aristaeo quoniam est oblata facultas,*
 | *vix defessa senem passus componere membra*
@@ -1763,26 +1809,30 @@ deceive.
 |                      *deum praecepta secuti*
 | *venimus hinc lassis quaesitum oracula rebus.'*
 
-Following the counsel of Heaven, we are come to seek hence an oracle for our
-weary fortunes.”
+- *quaesitum* accusative supine of purpose.
+
+      Having followed the lessons of the gods, we came to seek an oracle for our
+      tired things.
 
 | *tantum effatus, ad haec vates vi denique multa* 450
 | *ardentis oculos intorsit lumine glauco,*
 | *et graviter frendens sic fatis ora resolvit.*
 
-So much he spoke. On this the seer, yielding at last to mighty force, rolled on
-him eyes ablaze with grey-green light, and grimly gnashing his teeth, thus
-opened his lips to tell of fate’s decrees:
+      So much he said, to this the prophet, in the end to great force, twisted
+      his eyes burning with bluish gray light, and violently gnashing teeth,
+      thus loosened his mouth for prophecy.
 
 | *'Non te nullius exercent numinis irae;*
 | *magna luis commissa: tibi has miserabilis Orpheus*
-| *haudquaquam ob meritum pocnas, ni fata resistant,* 455
+| *haudquaquam ob meritum poenas, ni fata resistant,* 455
 | *suscitat, et rapta graviter pro coniuge saevit.*
 
 “It is a god, no other, whose anger pursues you: Great is the crime you are
 paying for; this punishment, far less than you deserve, unhappy Orpheus arouses
 against you – did not Fate interpose – and rages implacably for the loss of his
 bride.
+
+- Ended here 3/24
 
 | *illa quidem, dum te fugeret per flumina praeceps,*
 | *immanem ante pedes hydrum moritura puella*
