@@ -1900,6 +1900,8 @@ a stop.
 
 | *lamque pedem referens casus evaserat omnis,* 485
 
+- Start here 3/25
+
 # Page 60
 
 | *redditaque Eurydice superas veniebat ad auras*
