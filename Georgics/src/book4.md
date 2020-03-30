@@ -1899,17 +1899,38 @@ and his triple jaws forgot to bark; the wind subsided, and Ixion’s wheel came 
 a stop.
 
 | *lamque pedem referens casus evaserat omnis,* 485
-
-- Start here 3/25
-
-# Page 60
-
 | *redditaque Eurydice superas veniebat ad auras*
 | *pone sequens (namque hanc dederat Proserpina legem),*
 | *cum subita incautum dementia cepit amantem,*
 | *ignoscenda quidem, scirent si ignoscere manes:*
 | *restitit, Eurydicenque suam iam luce sub ipsa* 490
 | *immemor heu! victusque animi respexit.*
+
+- *evaserat* from *evado, evadere, evasi, evasus* is 3rd singular pluperfect
+  active indicative, meaning to evade.
+- *pedem referre* is an idiom meaning to retreat, so I tried to work that in.
+- *veniebat* from *venio, venire, veni, ventus* is 3rd singular imperfect active
+  indicative, meaning to come.
+- *pone* as adverb behind as indicated by Huxley's vocabulary.
+- *dederat* from *do, dare* is 3rd singular pluperfect active indicative,
+  meaning to give.
+- *cepit* from *capio, capere, cepi, captus* is 3rd singular perfect active
+  indicative, meaning to take hold. This is inside of a *cum* clause, since it's
+  indicative it's temporal.
+- *scirent* from *scio, scire, scivi, scitus* is 3rd plural imperfect active
+  subjunctive, meaning to know.
+- *manes* either as the gods or as the souls of the underworld per Huxley vocab.
+- *restitit* from *resisto, resistere, restiti* is 3rd singular perfect active
+  indicative, meaning to pause.
+- *respexit* from *respicio, respicere, respexi, respectus* 
+
+      and now he, bringing back his steps, had evaded all calamities, and
+      restored Eurydice was coming to the above air, following behind (for
+      Proserpine had given this condition), when a sudden madness seized his
+      incautious lover, indeed pardoning him, if the gods of the underworld know
+      to pardon: he stopped, and now with light under himself, his own Eurydice
+      alas! His mind having been conquered, he looked back.
+
 |                                        *ibi omnis*
 | *effusus labor atque immitis rupta tyranni*
 | *foedera, terque fragor stagnis auditus Averni.*
