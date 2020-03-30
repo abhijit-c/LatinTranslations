@@ -1927,20 +1927,38 @@ a stop.
       and now he, bringing back his steps, had evaded all calamities, and
       restored Eurydice was coming to the above air, following behind (for
       Proserpine had given this condition), when a sudden madness seized his
-      incautious lover, indeed pardoning him, if the gods of the underworld know
-      to pardon: he stopped, and now with light under himself, his own Eurydice
-      alas! His mind having been conquered, he looked back.
+      incautious lover, a madness which indeed must be forgiven, if the gods of
+      the underworld know to pardon: he stopped, and now with light under
+      himself, his own Eurydice alas! His mind having been conquered, he looked
+      back.
 
 |                                        *ibi omnis*
 | *effusus labor atque immitis rupta tyranni*
 | *foedera, terque fragor stagnis auditus Averni.*
 
+- All p.p.p's as perfect passive indicatives.
+
+      In that place all his labor was poured away and the contract of the cruel
+      tyrant was broken, and a noise was heard three time by the pools of
+      Avernus.
+
 | *illa quis et me' inquit 'miseram et te perdidit, Orpheu,*
-| *quis tantus furor? en iterum crudelia retro* 495
+| *quis tantus furor?*
+
+      She said 'What has ruined both you and me, Orpheus, what so great
+      madness?'
+
+|                    *en iterum crudelia retro* 495
 | *fata vocant, conditque natantia lumina somnus.*
+
+      'Behold again the cruel fates call me back, and sleep closes my swimming
+      eyes.'
 
 | *iamque vale: feror ingenti circumdata nocte*
 | *invalidasque tibi tendens, heu non tua, palmas.'*
+
+      And now farewell: I am brought back, having been surrounded by vast night
+      and streching my infirm hands to you, Alas I am not yours.
 
 | *dixit et ex oculis subito, ceu fumus in auras*
 | *commixtus tenuis, fugit diversa, neque illum* 500
@@ -1951,6 +1969,11 @@ a stop.
 | *quid faceret? quo se rapta bis coniuge ferret?*
 | *quo fletu manis, quae numina voce moveret?* 505
 | *illa quidem Stygia nabat iam frigida cumba.*
+
+      What might he do? Whither he, twice having been snatched from his wife,
+      might bring? With what crying might move the underworld, he could move
+      what gods with his voice? That women indeed, now cold, was floating in the
+      Stygian boat.
 
 | *septem illum totos perhibent ex ordine mensis*
 | *rupe sub aëria deserti ad Strymonis undam*
@@ -1964,7 +1987,7 @@ a stop.
 
 | *nulla Venus, non ulli animum flexere hymenaei:*
 
-# Page 61
+
 
 | *solus Hyperboreas glacies Tanaimque nivalem*
 | *arvaque Riphaeis numquam viduata pruinis*
