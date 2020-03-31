@@ -1975,6 +1975,7 @@ a stop.
       what gods with his voice? That women indeed, now cold, was floating in the
       Stygian boat.
 
+
 | *septem illum totos perhibent ex ordine mensis*
 | *rupe sub aëria deserti ad Strymonis undam*
 | *flevisse et gelidis haec evolvisse sub antris*
@@ -1986,45 +1987,90 @@ a stop.
   therefore *flevisse*, meaning to cry, sets off indirect speech. Same with
   *evolvisse*, meaning to unfold.
 - *septem* is accusative of time.
-- What the hell does *agentem quercus* mean?
 
-      They regard that that man cried for seven whole months in succession under
+      They state that that man cried for seven whole months in succession under
       the desert's lofty cliff near Strymon's wave and under a icy cave he
-      unfolded these things, stroking tigers and driving oaks for music.
+      unfolded these things, stroking tigers and driving together oaks for
+      music.
 
 | *qualis populea maerens philomela sub umbra*
 | *amissos queritur fetus, quos durus arator*
 | *observans nido implumis detraxit;*
 
-even as a nightingale, mourning beneath a poplar’s shade, bewails her
-young ones’ loss, when a heartless ploughman, watching their resting place, has
-plucked them unfledged from the nest:
+- *queritur* from *queror, queri, questus sum* is 3rd singular present
+  indicative, meaning to complain.
+- *maerens* from *maereo, maerere* is the present active participle, meaning to
+  grieve.
+- Note that *poplar* is not genitive in case (it's ablative), but it's
+  'genitive' in meaning.
+- *amissos* from *amitto, amittere, amisi, amissus* is the perfect passive
+  participle, meaning to lose.
+- *detraxit* from *detraho, detrahere, detraxi, detractus* is 3rd singular
+  perfect active indicative, meaning to drag/pull.
+
+      Such as a nightingale, grieving under the shade of a poplar, laments the
+      lost children, which a cruel watching farmer has dragged those without
+      feathers from the nest;
 
 |                                    *at illa*
 | *flet noctem, ramoque sedens miserabile carmen*
 | *integrat, et maestis late loca questibus implet.* 515
 
-the mother weeps all night long, as, perched on a branch, she repeats her
-piteous song and fills all around with plaintive lamentation.
+- *flet* from *fleo, flere, flevi, fletus* is 3rd singular present active
+  indicative, meaning to cry.
+- *integrat* from *integro, integrare, integravi, integratus* is 3rd singular
+  present active indicative, meaning to renew.
+- *miserabile* can fit with either *ramo* or *carmen*, but clearly since
+  miserable branch makes no god damned sense, we go with *carmen*.
+- *implet* from *impleo, implere, implevi, impletus* is 3rd singular present
+  active indicative, meaning to fill up/staisfy.
+
+      but that woman cries all night, and, sitting on a branch, she renews her
+      miserable song, and she satisfies places far and wide with her sad
+      complaint.
 
 | *nulla Venus, non ulli animum flexere hymenaei:*
 
-No thought of love or wedding song could bend his soul.
+- *non ulli* = none of any?
+- *flexere* from *flecto, flectere, flelxi, flexus* is 3rd plural perfect active
+  indicative, meaning to bend.
+
+      No love, none of any wedding song bent his soul.
 
 | *solus Hyperboreas glacies Tanaimque nivalem*
 | *arvaque Riphaeis numquam viduata pruinis*
 | *lustrabat, raptam Eurydicen atque inrita Ditis*
 | *dona querens.*                                   520
 
+- *lustrabat* from *lustro, lustrare* is 3rd singular imperfect active
+  indicative, meaning to roam over.
+- Not sure how to do the ablative of seperation for *viduata pruinis*.
+
+      Alone he was roaming over the Hyperboarean glaciers and the snowy Tanais
+      and the arable Riphaes with frost never having been deprived, lamenting
+      his having been seized Eurydice and his vain gift of Dis.
+
 |               *spretae Ciconum quo munere matres* 520
 | *inter sacra deum nocturnique orgia Bacchi*
 | *discerptum latos iuvenem sparsere per agros.*
 
-| *tum quoque marmorea caput a cervice*
-| *revulsum gurgite cum medio portans Oeagrius Hebrus*
+- *sparsere* from *spargo, spargere, sparsi, sparsus* is 3rd plural perfect
+  active indicative, meaning to scatter.
+
+      Because of which service the resenting women of Cicones, during the
+      religious rites of their god and the orgies of noctural Bacchus, scattered
+      the having been mutilated youth through the wide fields.
+
+| *tum quoque marmorea caput a cervice revulsum*
+| *gurgite cum medio portans Oeagrius Hebrus*
 | *volveret, Eurydicen vox ipsa et frigida lingua* 525
 | *a miseram Eurydicen! anima fugiente vocabat:*
 | *Eurydicen toto referebant flumine ripae.'*
+
+      In the middle of the bubbling whirlpool, carying his head severed from his
+      marble neck, rolls it onward, the voice itself and the frigit tongue
+      called out, with fleeing life Eurydice, poor Eurydice! Eurydice the banks
+      echo on the whole river.
 
 | *Haec Proteus, et se iactu dedit aequor in altum,*
 | *quaque dedit, spumantem undam sub vertice torsit.*
@@ -2036,32 +2082,55 @@ No thought of love or wedding song could bend his soul.
 | *cum quibus illa choros lucis agitabat in altis,*
 | *exitium misere apibus.*
 
+      This is each cause of the sickness, from here the Nymphs, with whom that
+      woman was stirring the chorus in the deep goves, sent the miserable
+      destruction to your bees.
+
+
 |                        *tu munera supplex*
 | *tende petens pacem, et facilis venerare Napaeas;* 535
 | *namque dabunt veniam votis, irasque remittent.*
 
+      You give suppliant, insist seeking peace, and adore the easy Napeas; for
+      they will give kindness for vows, and remit their wrath.
+
 | *sed modus orandi qui sit prius ordine dicam.*
+
+But first I will tell you in order the manner of your supplication.
 
 | *quattuor eximios praestanti corpore tauros,*
 | *qui tibi nunc viridis depascunt summa Lycaei,*
 | *delige, et intacta totidem cervice iuvencas.* 540
 
+      Choose four select bulls with outstanding form, who for you now graze on
+      the tops of green Lycaum, and as many young cows with intact necks.
+
 | *quattuor his aras alta ad delubra dearum*
 | *constitue, et sacrum iugulis demitte cruorem,*
 | *corporaque ipsa boum frondoso desere luco.*
+
+      Set up four alters by the high temples of the goddesses and let fall the
+      sacred blood from their throats, and leave the bodies of the cattle just
+      as they are within the leafy grove.
 
 | *post, ubi nona suos Aurora ostenderit ortus,*
 | *inferias Orphei Lethaea papavera mittes* 545
 | *et nigram mactabis ovem, lucumque revises:*
 | *placatam Eurydicen vitula venerabere caesa.*
 
+      Eurydice placated, you will venerate her with a having been slaughtered
+      calf.
+
 | *Haud mora: continuo matris praecepta facessit;*
 | *ad delubra venit, monstratas excitat aras,*
-
-# Page 62
-
 | *quattuor eximios praestanti corpore tauros* 550
 | *ducit et intacta totidem cervice iuvencas.*
+
+Tarrying not, he straightway does his mother’s bidding.
+He comes to the shrine, raises the altars appointed, and leads there four choice
+bulls, of surpassing form, and as many heifers of unyoked neck.
+
+
 
 | *post, ubi nona suos Aurora induxerat ortus,*
 | *inferias Orphei mittit, lucumque revisit.*
