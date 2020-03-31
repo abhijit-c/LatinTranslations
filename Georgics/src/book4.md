@@ -1979,15 +1979,37 @@ a stop.
 | *rupe sub aëria deserti ad Strymonis undam*
 | *flevisse et gelidis haec evolvisse sub antris*
 | *mulcentem tigris et agentem carmine quercus;* 510
+
+- *perhibent illum flevisse septem totos mensis...*
+- *perhibent* from *perhibeo, perhibere, perhibui, perbititus* is 3rd plural
+  present active indicative, meaning to present. This is a head verb, and
+  therefore *flevisse*, meaning to cry, sets off indirect speech. Same with
+  *evolvisse*, meaning to unfold.
+- *septem* is accusative of time.
+- What the hell does *agentem quercus* mean?
+
+      They regard that that man cried for seven whole months in succession under
+      the desert's lofty cliff near Strymon's wave and under a icy cave he
+      unfolded these things, stroking tigers and driving oaks for music.
+
 | *qualis populea maerens philomela sub umbra*
 | *amissos queritur fetus, quos durus arator*
-| *observans nido implumis detraxit; at illa*
+| *observans nido implumis detraxit;*
+
+even as a nightingale, mourning beneath a poplar’s shade, bewails her
+young ones’ loss, when a heartless ploughman, watching their resting place, has
+plucked them unfledged from the nest:
+
+|                                    *at illa*
 | *flet noctem, ramoque sedens miserabile carmen*
 | *integrat, et maestis late loca questibus implet.* 515
 
+the mother weeps all night long, as, perched on a branch, she repeats her
+piteous song and fills all around with plaintive lamentation.
+
 | *nulla Venus, non ulli animum flexere hymenaei:*
 
-
+No thought of love or wedding song could bend his soul.
 
 | *solus Hyperboreas glacies Tanaimque nivalem*
 | *arvaque Riphaeis numquam viduata pruinis*
