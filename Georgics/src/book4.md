@@ -2067,40 +2067,75 @@ a stop.
 | *a miseram Eurydicen! anima fugiente vocabat:*
 | *Eurydicen toto referebant flumine ripae.'*
 
-      In the middle of the bubbling whirlpool, carying his head severed from his
-      marble neck, rolls it onward, the voice itself and the frigit tongue
-      called out, with fleeing life Eurydice, poor Eurydice! Eurydice the banks
-      echo on the whole river.
+- *volveret* from *volvo, volvere, volvi, volutus* is 3rd singular imperfect
+  active subjunctive, meaning to roll.
+
+      Then also when Oeagarian Hebrus, carrying his head having been severed
+      from his marble neck, was rolling in the middle of the whirlpool, it's
+      very voice and the frigid tongue called out, with fleeing life 'Eurydice,
+      poor Eurydice!' The banks echo Eurydice on the river.
 
 | *Haec Proteus, et se iactu dedit aequor in altum,*
 | *quaque dedit, spumantem undam sub vertice torsit.*
 
+- Make sure the word order I did here is right, honest just read it out.
+- *dedit* from *do, dare* is 3rd singular perfect active indicative, meaning to
+  give, in this case give up.
+- *torsit* from *torqueo, torquere, torsi, tortus* is 3rd singular perfect
+  active indicative, meaning to twist.
+
+      This Proteus, and having been thrown gave himself up into the deep sea,
+      wheresoever he gave himself up, twisted the wave into foam beneath the
+      eddy.
+
 | *At non Cyrene; namque ultro adfata timentem:* 530
 | *'nate, licet tristis animo deponere curas.*
+
+- *adfata* from *adfor, adfari, adfatus sum* is the perfect participle, but
+  I add an implies *est* to turn it into a verb. Means to speak.
+- *licet* from *licet, licere, licuit, licitus est* is 3rd singular present
+  active indicative, meaning it is permitted. This is taking *deponere* as
+  a complimentary infinitive.
+
+      But not Cyrene; for she voluntarily spoke to the fearing person: 'O son,
+      it is permitted to put aside the sad concerns from your mind.
 
 | *haec omnis morbi causa, hinc miserabile Nymphae,*
 | *cum quibus illa choros lucis agitabat in altis,*
 | *exitium misere apibus.*
 
-      This is each cause of the sickness, from here the Nymphs, with whom that
-      woman was stirring the chorus in the deep goves, sent the miserable
-      destruction to your bees.
+- Implies *est* in *haec...causa*.
+- *agitabant* from *agito, agitare* is 3rd plural imperfect active indicative,
+  meaning to stir.
+- *misere* from *mitto, mittere, misi, missus* is 3rd plural perfect active
+  indicative, meaning to send.
 
+      This is each cause of the sickness, from here the Nymphs, with whom that
+      woman was stirring the chorus in the deep goves, sent miserable
+      destruction to your bees.
 
 |                        *tu munera supplex*
 | *tende petens pacem, et facilis venerare Napaeas;* 535
 | *namque dabunt veniam votis, irasque remittent.*
+
+- Lots of imperatives, it's fine.
 
       You give suppliant, insist seeking peace, and adore the easy Napeas; for
       they will give kindness for vows, and remit their wrath.
 
 | *sed modus orandi qui sit prius ordine dicam.*
 
-But first I will tell you in order the manner of your supplication.
+- *dicam* from *dico, dicere, dixi, dictus* is , meaning to say.
+- What?
+
+      But first let me tell you in order in what way the manner of your
+      worshiping is.
 
 | *quattuor eximios praestanti corpore tauros,*
 | *qui tibi nunc viridis depascunt summa Lycaei,*
 | *delige, et intacta totidem cervice iuvencas.* 540
+
+- This is fine, needs to be commentated.
 
       Choose four select bulls with outstanding form, who for you now graze on
       the tops of green Lycaum, and as many young cows with intact necks.
@@ -2108,6 +2143,8 @@ But first I will tell you in order the manner of your supplication.
 | *quattuor his aras alta ad delubra dearum*
 | *constitue, et sacrum iugulis demitte cruorem,*
 | *corporaque ipsa boum frondoso desere luco.*
+
+- This is fine, needs to be commentated.
 
       Set up four alters by the high temples of the goddesses and let fall the
       sacred blood from their throats, and leave the bodies of the cattle just
