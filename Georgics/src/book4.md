@@ -1165,6 +1165,7 @@ funerals.
 
 - *tollit* from *tollo, tollere, sustutli, sublatus* is 3rd singular present
   active indicative, meaning to lift.
+
 - I don't really understand what's happening between 273 and 274.
 - *funduntur* from *fundo, fundere, fudi, fusus* is 3rd plural present passive
   indicative, meaning to pour.
@@ -2126,7 +2127,8 @@ a stop.
 | *sed modus orandi qui sit prius ordine dicam.*
 
 - *dicam* from *dico, dicere, dixi, dictus* is , meaning to say.
-- What?
+- *qui* is actually *quis/quem* and this becomes either indirect question or
+  relative clause of characteristic.
 
       But first let me tell you in order in what way the manner of your
       worshiping is.
@@ -2200,11 +2202,11 @@ form, and as many heifers of unyoked neck.
   active indicative, meaning to look/gaze on/at.
 - *stridere* and *effervere* I think are historical infinitives.
 
-      But here they see monster, sudden and wonerful to say, through the whole
-      womb, the having been melted entrails of cows, bees were buzzing and
-      swarming forth from their broken sides, and were drawing immense clouds,
-      and then were coming together on the highest tree and were sending away
-      a grape from the pliant branches.
+      But at this point they see that sudden marvel, wonerful to say, the bees
+      buzz through the having been melted entrails of cows in the whole womb and
+      swarm forth from their broken sides, and were drawing immense clouds, and
+      then come together on the highest tree and hang down as a cluster from the
+      pliant branches.
 
 | *Haec super arvorum cultu pecorumque canebam*
 | *et super arboribus, Caesar dum magnus ad altum* 560
