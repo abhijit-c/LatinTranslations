@@ -2163,27 +2163,64 @@ a stop.
 | *quattuor eximios praestanti corpore tauros* 550
 | *ducit et intacta totidem cervice iuvencas.*
 
-Tarrying not, he straightway does his mother’s bidding.
-He comes to the shrine, raises the altars appointed, and leads there four choice
-bulls, of surpassing form, and as many heifers of unyoked neck.
+- *facessit* from *facesso, facessere, facessi, facessitus* is 3rd singular
+  present active indicative, meaning to do.
+- *venit* from *venio, venire, veni, ventus* is 3rd singular present active
+  indicative, meaning to come.
+- *excitat* from *excito, excitare* is 3rd singular present active indicative,
+  meaning to erect.
 
+      Delay is not happening: immediately he does his mother's bidding; he comes
+      to the shrine, erects the having been shown altars, ...
 
+Tarrying not, he straightway does his mother’s bidding.  He comes to the shrine,
+raises the altars appointed, and leads there four choice bulls, of surpassing
+form, and as many heifers of unyoked neck.
 
 | *post, ubi nona suos Aurora induxerat ortus,*
 | *inferias Orphei mittit, lucumque revisit.*
 
+- *induxerat* from *induco, inducere, induxi, inductus* is 3rd singular
+  pluperfect active indicative, meaning to lead in/bring in.
+- *mittit* from *mitto, mittere, misi, missus* is 3rd singular present active
+  indicative, meaning to send/throw.
+- *revisit* from *reviso, revisere* is 3rd singular present active indicative,
+  meaning to revisit.
+
+      Afterward, when the ninth aurora had induced his own rising, he sends the
+      offerings to Orpheus, and revisits the grove.
+
 | *hic vero subitum ac dictu mirabile monstrum*
 | *aspiciunt, liquefacta boum per viscera toto* 555
 | *stridere apes utero et ruptis effervere costis,*
-| *immensas que trahi nubes, iamque arbore summa*
+| *immensasque trahi nubes, iamque arbore summa*
 | *confluere et lentis uvam demittere ramis.*
+
+- *aspiciunt* from *aspicio, aspicere, aspexi, aspectus* is 3rd plural present
+  active indicative, meaning to look/gaze on/at.
+- *stridere* and *effervere* I think are historical infinitives.
+
+      But here they see monster, sudden and wonerful to say, through the whole
+      womb, the having been melted entrails of cows, bees were buzzing and
+      swarming forth from their broken sides, and were drawing immense clouds,
+      and then were coming together on the highest tree and were sending away
+      a grape from the pliant branches.
 
 | *Haec super arvorum cultu pecorumque canebam*
 | *et super arboribus, Caesar dum magnus ad altum* 560
 | *fulminat Euphraten bello victorque volentis*
 | *per populos dat iura viamque adfectat Olympo.*
 
+So much I say in addition to the care of fields, of cattle, and of trees, while
+great Caesar thundered in war by deep Euphrates and bestowed a victor’s laws on
+willing nations, and essayed the path to Heaven.
+
 | *illo Vergilium me tempore dulcis alebat*
 | *Parthenope studiis florentem ignobilis oti,*
 | *carmina qui lusi pastorum audaxque iuventa,* 565
 | *Tityre, te patulae cecini sub tegmine fagi.*
+
+In those days I, Virgil, was nursed by sweet Parthenope [the Siren of Naples],
+and rejoiced in the arts of inglorious ease – I who toyed with shepherds’ songs,
+and, in youth’s boldness, sang of you, Tityrus, under the canopy of spreading
+beech.
