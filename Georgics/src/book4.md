@@ -816,15 +816,34 @@ the cunningly wrought houses.
 | *crura thymo plenae; pascuntur et arbuta passim*
 | *et glaucas salices casiamque crocumque rubentem*
 | *et pinguem tiliam et ferrugineos hyacinthos.*
+
+
 | *omnibus una quies operum, labor omnibus unus:*
 | *mane ruunt portis; nusquam mora; rursus easdem* 185
 | *vesper ubi e pastu tandem decedere campis*
 | *admonuit, tum tecta petunt, tum corpora curant;*
 | *fit sonitus, mussantque oras et limina circum.*
+
+- Either dative of possesor or something else, not sure. depends on whether
+  *una* fits with *quies*.
+- *ruunt* from *ruo, ruere, rui, rutus* is 3rd plural present active indicative,
+  meaning to rush.
+- See the notes on this part. *ubi* as when, *easdem* as likewise, *admonuit* as
+  frequentative.
+
+      All of them have one rest of labors, all of them have one labor: In the
+      morning they rush from the city gates; nowhere with delay; likewise when
+      the evening star again admonishes them to finally withdraw from the
+      pasture to the plains, then they will seek their homes, then they will
+      take care of their bodies; a sound is made, and they buzz around the
+      shores and thresholds.
+
 | *post, ubi iam thalamis se composuere, siletur*
 | *in noctem, fessosque sopor suus occupat artus.* 190
 
-- TODO
+      afterwards, when they already placed themselves in their bedrooms, it is
+      silent up to and including the night, and their own sleep seizes seizes
+      their tired joints.
 
 | *nec vero a stabulis pluvia impendente recedunt*
 | *longius, aut credunt caelo adventantibus Euris,*
@@ -832,12 +851,27 @@ the cunningly wrought houses.
 | *excursusque brevis temptant, et saepe lapillos,*
 | *ut cumbae instabiles fluctu iactante saburram,* 195
 | *tollunt, his sese per inania nubila librant.*
+
+      Nor however do they recede far from their stalls because of impending
+      rain, or do they trust in the sky with the East winds approaching, but,
+      under the safe walls of their city, they fetch water near water and they
+      test brief excursions, and often they, as unstable skiffs carrying sand in
+      a hurling sea, raise tiny stones, with these they balance themselves
+      through the empty clouds.
+
 | *illum adeo placuisse apibus mirabere morem,*
 | *quod neque concubitu indulgent, nec corpora segnes*
 | *in Venerem solvunt aut fetus nixibus edunt;*
 | *verum ipsae e foliis natos, e suavibus herbis* 200
 | *ore legunt, ipsae regem parvosque Quirites*
 | *sufficiunt, aulasque et cerea regna refigunt.*
+
+      You will marvel that that custom has especially pleased the bees, because
+      they neither indulge in wedlock , nor do they loosen their slow bodies in
+      love or do they bring forth their offspring with birth-pains; however they
+      themselves gather their children in their mouth out of agreeable herbs and
+      leaves, they themselves supply a king and little citizens, and they mould
+      their halls and waxen kingdoms.
 
 - TODO
 
@@ -1655,26 +1689,37 @@ By which omen she herself, firming her soul, thus begins:
 | *verum ubi correptum manibus vinclisque tenebis,* 405
 | *tum variae eludent species atque ora ferarum.*
 
-But when you will hold the man having been seized by means of your hands and
-chains, then various species will mock you and the mouth of the beast.
+- *tenebit* from *teneo, tenere, tenui, tentus* is 2nd singular future active
+  indicative, meaning to hold.
+- *eludent* from *eludo, eludere, elusi, elusus* is 3rd plural future active
+  indicative, meaning to mock.
+
+      However when you will hold the having been seized man with your hands and
+      chains, then the various appearances and faces of wild beasts will mock
+      you.
 
 | *fiet enim subito sus horridus atraque tigris*
 | *squamosusque draco et fulva cervice leaena,*
 | *aut acrem flammae sonitum dabit atque ita vinclis*
 | *excidet, aut in aquas tenuis dilapsus abibit.* 410
 
-For of a sudden he will become a bristly boar, a deadly tiger, a scaly serpent,
-or a lioness with tawny neck; or he will give forth the fierce roar of flame,
-and thus slip from his fetters, or he will melt into fleeting water and be gone.
+- *fiet* from *fio, feri, factus sum* is 3rd singular future active indicative,
+  meaning to become.
+
+      For suddenly he will become a wild pig and a black tiger and a scaly
+      dragon and a lioness with a tawny neck, or he will give a sharp sound of
+      flame and will thus escape from his chains, or he, having melted away into
+      thin water, will go away.
 
 | *sed quanto ille magis formas se vertet in omnis*
 | *tam tu, nate, magis contende tenacia vincla,*
 | *donec talis erit mutato corpore qualem*
 | *videris incepto tegeret cum lumina somno.'*
 
-But the more he turn himself into all shapes, the more, my son, should you
-tighten his fetters, until after his last changes of body he become such as you
-saw when he closed his eyes at the beginning of slumber.”
+      but the more that man will turn himself into all shapes then the more you,
+      son, draw tight the clinging chains, until, with his body changed,
+      he will be such as you saw as when he was covering his eyes in having been
+      begun sleep.
 
 | *Haec ait et liquidum ambrosiae diffundit odorem,* 415
 | *quo totum nati corpus perduxit; at illi*
