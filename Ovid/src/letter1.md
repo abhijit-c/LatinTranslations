@@ -206,42 +206,96 @@ en ego pro sistro Phrygiique foramine buxi
 vaticinor moneoque: 'locum date sacra ferenti;
   non mihi, sed magno poscitur ille deo.'
 ```
+
+- Not sure how to resolve *sacra ferenti*.
+- I prophesize and remind you: give the place to the one bearing sacred objects;
+  not for me, but that is demanded for the great god.'
+
 ```
 nec, quia vel merui vel sensi principis iram,
-  a nobis ipsum nolle putate coli.
+  a nobis ipsum nolle putate coli. 50
 ```
+
+- I think that *coli* is from *colo, colere, colui, cultus*, meaning to
+  cultivate/care for.
+- Nor think that, because I either earned or percieved the wrath of the
+  princeps, he himself is unwilling to be cared for by us.
+
 ```
 vidi ego linigerae numen violasse fatentem
   Isidis Isiacos ante sedere focos.
 ```
+
+- I saw a person confessing to have offended the divine will of Isis wearing
+  linen, sitting before the hearth of Isis.
+
 ```
 alter ob huic similem privatus lumine culpam
   clamabat media se meruisse via.
 ```
+
+- *privatus* takes ablative *lumine*.
+- One, having been deprived of a eye on account of a blame similar to this, was
+  proclaiming in the middle of the road that he earned it.
+
 ```
-talia caelestes fieri praeconia gaudent,
+talia caelestes fieri praeconia gaudent, 55
   ut sua, quid valeant numina, teste probent.
 ```
+
+- Gaertner tells me to translate *probent* as prove.
+- Ehhhh, I hate my translation. Plus I put *sua* into the *quid* clause, which
+  seems like I'm stretching it.
+- The divinities are glad that such proclamations happen, so that they may
+  prove with a witness how their own divine wills are strong.
+
 ```
 saepe levant poenas ereptaque lumina reddunt,
   cum bene peccati paenituisse vident.
 ```
+
+- *cum* clause!
+- *paenituisse* apparently takes the genitive.
+- often they will lift the penalty and return the having been snatched away
+  eye, when they see that he repented well of the offense.
+
 ```
 paenitet, o—si quid miserorum creditur ulli—
-  paenitet, et facto torqueor ipse meo.
+  paenitet, et facto torqueor ipse meo. 60
 ```
+
+- I regret, O if anything of wretched people is trusted by anyone. I regret,
+  and I myself am twisted by my deed.
+
 ```
 cumque sit exilium, magis est mihi culpa dolori,
   estque pati poenam quam meruisse minus.
 ```
+
+- Ended here April 13th.
+
+While exile is a source of my distress, a still greater source is my guilt, and
+the fact that I suffer punishment grieves me less than the fact that I deserved
+it.
+
 ```
 ut mihi di faveant, quibus est manifestior ipse,
   poena potest demi, culpa perennis erit.
 ```
+
+Even supposing that the gods, whom he himself surpasses in manifest presence,
+should be favourable towards me, the punishment can be removed, but the guilt
+will be everlasting.
+
 ```
 [mors faciet certe, ne sim, cum venerit, exul;
   ut non peccarim, mors quoque non faciet.
 ```
+
+[Death will certainly bring it about that, when it will have come, I shall not
+be an exile any more; but even death will not bring about that I have not
+sinned.
+
 ```
 non igitur mirum, si mens mea tabida facta
   de nive manantis more liquescit aquae.]
