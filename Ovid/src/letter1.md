@@ -272,34 +272,36 @@ cumque sit exilium, magis est mihi culpa dolori,
   estque pati poenam quam meruisse minus.
 ```
 
-- Ended here April 13th.
-
-While exile is a source of my distress, a still greater source is my guilt, and
-the fact that I suffer punishment grieves me less than the fact that I deserved
-it.
+- and although for me exile is pain, to a greater extent the blame is pain for
+  me, and to suffer a penalty is less than to deserve it.
 
 ```
 ut mihi di faveant, quibus est manifestior ipse,
   poena potest demi, culpa perennis erit.
 ```
 
-Even supposing that the gods, whom he himself surpasses in manifest presence,
-should be favourable towards me, the punishment can be removed, but the guilt
-will be everlasting.
+- although the gods, with respect to whom he himself is more guilty, favors me,
+  the penalty is able to be removed, the blame will be perennial.
 
 ```
-[mors faciet certe, ne sim, cum venerit, exul;
+[mors faciet certe, ne sim, cum venerit, exul; 65
   ut non peccarim, mors quoque non faciet.
 ```
 
-[Death will certainly bring it about that, when it will have come, I shall not
-be an exile any more; but even death will not bring about that I have not
-sinned.
+- *quoque* as even.
+- Result subjunctives here? Something with *ne* makes that hinky.
+- Death will certainly make it so that, when it will have come, I am not
+  a exile; so that I did not sin, even death will not do it.
 
 ```
 non igitur mirum, si mens mea tabida facta
   de nive manantis more liquescit aquae.]
 ```
+
+- More wtf.
+- therefore, it is not strange if my mind, having become rotten, melts like the
+  custom of water flowing from snow.
+
 ```
 estur ut occulta vitiata teredine navis,
   aequorei scopulos ut cavat unda salis,
@@ -308,13 +310,31 @@ roditur ut scabra positum rubigine ferrum,
 sic mea perpetuos curarum pectora morsus,
   fine quibus nullo conficiantur, habent.
 ```
+
+Just as a decaying ship is eaten up by a hidden worm, just as the wave of the
+salty sea hollows rocks, just as a sword that has been laid aside is gnawed by
+scaly rust, just as a stored book is nibbled by the mouth of the bookworm, my
+heart suffers from the permanent bites of my sorrows by which it is worn out
+with no end.
+
 ```
 nec prius hi mentem stimuli, quam vita relinquet,
   quique dolet, citius quam dolor ipse cadet.
 ```
+
+- nor 
+
+And these stings will not leave my mind before life leaves it, and the one who
+suffers will die sooner than the pain itself.
+
 ```
 hoc mihi si superi, quorum sumus omnia, credent,
   forsitan exigua dignus habebor ope,
 inque locum Scythico vacuum mutabor ab arcu.
   plus isto, duri, si precer, oris ero.
 ```
+
+If the gods above, on whom we depend entirely, will believe me in this, maybe
+I shall be considered worthy of some minimal assistance, and I shall be sent to
+a place which is free from the Scythian bow.
+Should I ask for more than this, I shall be shameless.
