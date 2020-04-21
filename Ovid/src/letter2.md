@@ -217,6 +217,7 @@ sic mea perpetuis liquefiunt pectora curis, 55
   ignibus admotis ut nova cera solet.
 ```
 
+- Start here April 22.
 - Have to reverse the word order for 56 in order for it to make English sense.
 - Whether, therefore, the sunlight discerns this miserable head, or the frosty
   horses of night are driven, thus my heart is melted by continuous concern, as
@@ -238,3 +239,68 @@ cum subit, Augusti quae sit clementia, credo
 - RELATIVE CLAUSE OF CHARACTERISTIC.
 - when it approaches to me, what the clemency of Augustus is, I trust that my
   shipwreck is able to be given to the soft shores.
+
+```
+cum video, quam sint mea fata tenacia, frangor,
+  spesque levis magno victa timore cadit,
+nec tamen ulterius quicquam sperove precorve,
+  quam male munito posse carere loco.
+```
+```
+aut hoc aut nihil est, pro me temptare modeste 65
+  gratia quod salvo vestra pudore queat.
+```
+```
+suscipe, Romanae facundia, Maxime, linguae,
+  difficilis causae mite patrocinium.
+```
+```
+est mala, confiteor, sed te bona fiet agente:
+  lenia pro misera fac modo verba fuga. 70
+```
+```
+nescit enim Caesar, quamvis deus omnia norit,
+  ultimus hic qua sit condicione locus.
+```
+```
+magna tenent illud numen molimina rerum:
+  haec est caelesti pectore cura minor.
+```
+```
+nec vacat, in qua sint positi regione Tomitae, 75
+  quaerere (finitimo vix loca nota Getae),
+aut quid Sauromatae faciant, quid Iazyges acres
+  cultaque Oresteae Taurica terra deae,
+quaeque aliae gentes, ubi frigore constitit Hister,
+  dura meant celeri terga per amnis equo. 80
+```
+```
+maxima pars horum nec te, pulcherrima, curat,
+  Roma, nec Ausonii militis arma timet.
+```
+```
+dant illis animos arcus plenaeque pharetrae
+  quamque libet longis cursibus aptus equus,
+quodque sitim didicere diu tolerare famemque, 85
+  quodque sequens nullas hostis habebit aquas.
+```
+```
+ira viri mitis non me misisset in istam,
+  si satis haec illi nota fuisset humus.
+```
+```
+nec me nec quemquam Romanum gaudet ab hoste
+  (meque minus, vitam cui dedit ipse) capi. 90
+```
+```
+noluit, ut poterat, minimo me perdere nutu:
+  nil opus est ullis in mea fata Getis.
+```
+```
+sed neque, cur morerer, quicquam mihi comperit actum,
+  et minus infestus, quam fuit, esse potest.
+```
+```
+tunc quoque nil fecit, nisi quod facere ipse coegi; 95
+  paene etiam merito parcior ira meo est.
+```
