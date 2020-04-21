@@ -154,34 +154,37 @@ vivimus, ut numquam sensu careamus amaro,
   et gravior longa fit mea poena mora.
 ```
 
-- We live, in order to never be without bitter feeling, and more grave my
-  penalty is made in its long delay.
+- *fio* takes predicate nominative because it's copulative.
+- We live, in order to never be without bitter feeling, and my penalty is made
+  more grave in its long delay.
 
 ```
 sic inconsumptum Tityi semperque renascens
 non perit, ut possit saepe perire, iecur. 40
 ```
 
-
-In the same manner the unconsumed and ever-regrowing liver of Tityus does not
-perish in order that it can perish repeatedly.
+- Thus the unconsumed and always being born again liver of Tityus does not die,
+  so that it is able to die often.
 
 ```
 at, puto, cum requies medicinaque publica curae
   Somnus adest, solitis Nox venit orba malis.
 ```
 
-'But', one might say, 'when Sleep, the rest and medicine
-of sorrow which is available to everyone, is there, Night comes free from the
-usual hardships.'
+- Tissol *publica* as 'avaliable to all'. I think this is a problem of English.
+- The pentameter is DDDD. Scansion reveals *orba* to be accusative plural.
+- but, I think, when common sleep, the rest and medicine of concern, is near,
+  night comes bereft from the usual misfortunes.
 
 ```
 somnia me terrent veros imitantia casus,
   et vigilant sensus in mea damna mei.
 ```
 
-Dreams which imitate reality terrify me, and my senses remain
-awake to my own harm.
+- It must be the accusative *in*, which I translate as *to* going by Tissol's
+  suggestion and what fits in english.
+- Dreams imitating true calamities terrify me, and the senses of mine are
+  vigilant to my own harm.
 
 ```
 aut ego Sarmaticas videor vitare sagittas, 45
@@ -189,21 +192,23 @@ aut ego Sarmaticas videor vitare sagittas, 45
 aut, ubi decipior melioris imagine somni,
   aspicio patriae tecta relicta meae
 et modo vobiscum, quos sum veneratus, amici,
-et modo cum cara coniuge multa loquor. 50
+  et modo cum cara coniuge multa loquor. 50
 ```
 
-Either I seem to dodge Sarmatian arrows or to submit
-captive hands to cruel chains, or when I am deceived by the image of a more
-kindly dream, I visit the houses of my home country, which I left behind, and
-I talk a lot, now with you my friends whom I revere, now with my dear wife.
+- *loquor* the verb for line 49.
+- Either I seem to avoid the Sarmatian arrows, or to give hands captive to wild
+  chains, or, when I am deceived by the image of a good sleep, I gaze at the
+  having been left behind houses of my homeland and lately I speak with you all
+  of my friends, whom I venerate, and lately I speak many things with my dear
+  wife.
 
 ```
 sic ubi percepta est brevis et non vera voluptas,
   peior ab admonitu fit status ipse boni.
 ```
 
-Once I have enjoyed brief but false pleasure in this manner, my situation
-becomes even worse through the remembrance of something good.
+- Thus when I have percieved brief and not true pleasure, my very status 
+  becomes more bad by the reminder of a good thing.
 
 ```
 sive dies igitur caput hoc miserabile cernit,
@@ -212,23 +217,24 @@ sic mea perpetuis liquefiunt pectora curis, 55
   ignibus admotis ut nova cera solet.
 ```
 
-Thus, be it that
-daylight looks down on this miserable head, be it that Night drives her frosty
-horses, my heart melts from permanent sorrows just as new wax tends to melt,
-when fire is moved near it.
+- Have to reverse the word order for 56 in order for it to make English sense.
+- Whether, therefore, the sunlight discerns this miserable head, or the frosty
+  horses of night are driven, thus my heart is melted by continuous concern, as
+  new wax is accustomed to with fire having been brought near.
 
 ```
 saepe precor mortem, mortem quoque deprecor idem,
   ne mea Sarmaticum contegat ossa solum.
 ```
 
-Often I wish for death, but death I also wish away
-in order that the Sarmatian soil may not cover my bones.
+- Often I pray for death, likewise I avert by prayer the same death, lest the
+  Sarmatian ground conceals my bones.
 
 ```
 cum subit, Augusti quae sit clementia, credo
   mollia naufragiis litora posse dari. 60
 ````
 
-When it comes to my mind what Augustus' clemency is like, I believe that my
-wrecked ship can land on a soft shore.
+- RELATIVE CLAUSE OF CHARACTERISTIC.
+- when it approaches to me, what the clemency of Augustus is, I trust that my
+  shipwreck is able to be given to the soft shores.
