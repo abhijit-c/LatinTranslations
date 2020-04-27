@@ -274,33 +274,167 @@ aut quid Sauromatae faciant, quid Iazyges acres
 quaeque aliae gentes, ubi frigore constitit Hister,
   dura meant celeri terga per amnis equo. 80
 ```
+
+- *in...Tomitae* indirect question.
+- *Getae* has to be nominative, but *loca* doesn't match case, and therefore it
+  accusative. Implicit *sunt* fitting with *nota*.
+- Weird translation of *nota* as 'become acquainted with'.
+- *culta* in apposition to *Taurica terra*, *oresteae deae* dative of agent b/c
+  of *culta* p.p.p. Also reduplicate *faciant*.
+- Why is it *quaeque* not *quidque*? Theory: *quid* is implied by wanting
+  a tricolon structure, *quae* instead is relative leading into the *ubi* clause
+  and *dura...equo* explaination.
+- The Hister is the latin name for the (lower) Danube, huge European river.
+- Nor is he idle to ask in which region the people of Tomis were placed (the
+  Getae hardly were acquainted with the places), or what the Sauromatae are 
+  doing, what the bitter Iazyges and the Taurician land, having been cultivated
+  by the Orestean gods are doing, and what the other tribes who, when the Hister
+  halted because of the frost, travel with a swift horse through the hard back
+  of the river.
+
 ```
 maxima pars horum nec te, pulcherrima, curat,
   Roma, nec Ausonii militis arma timet.
 ```
+
+- Shouldn't *plcherrima Roma* be accusative, to be in apposition with *te*?
+- A very large part of these people neither care about you, the most beautiful
+  Rome, nor fear the arms of the Ausonian soldier.
+
 ```
 dant illis animos arcus plenaeque pharetrae
   quamque libet longis cursibus aptus equus,
 quodque sitim didicere diu tolerare famemque, 85
   quodque sequens nullas hostis habebit aquas.
 ```
+
+- *quamque libet* as *que + quamlibet* (Timesis).
+- Bows and full quivers give spirit to those people and a horse suitable for
+  a running however long, and because they learned to tolerate hunger and thirst
+  and because an enemy following will have no water.
+
 ```
 ira viri mitis non me misisset in istam,
   si satis haec illi nota fuisset humus.
 ```
+
+- Notice *istam*, negative emphasis.
+- Conditional with pluperfect subjunctive, means past contrary-to-fact.
+- The anger of the mild man would not have sent me into that, if this land had
+  been sufficiently known to that man.
+
 ```
 nec me nec quemquam Romanum gaudet ab hoste
   (meque minus, vitam cui dedit ipse) capi. 90
 ```
+
+- Ehhh these *nec*'s are weird.
+- Neither is he glad that I nor any Roman is being seized by the enemy (and me
+  less, to whom he himself gave life).
+
 ```
 noluit, ut poterat, minimo me perdere nutu:
   nil opus est ullis in mea fata Getis.
 ```
+
+- He did not wish to, as he was able to, 
+
+When he could have done so, he did not want to destroy me by the slightest nod
+of his head: there is no need of any Geta for the purpose of my death.
+
 ```
 sed neque, cur morerer, quicquam mihi comperit actum,
   et minus infestus, quam fuit, esse potest.
 ```
+
+But also he does not know of any act of mine that would
+justify my death, and it is possible that he is less furious against me than he
+has been in the past.
+
 ```
 tunc quoque nil fecit, nisi quod facere ipse coegi; 95
   paene etiam merito parcior ira meo est.
+```
+
+```
+di faciant igitur, quorum iustissimus ipse est,
+  alma nihil maius Caesare terra ferat,
+utque diu sub eo, sic sit sub Caesare semper,
+  perque manus huius tradita gentis eat.
+```
+```
+at tu tam placido, quam nos quoque sensimus illum,
+  iudice pro lacrimis ora resolve meis.
+```
+```
+non petito bene sit, sed uti male tutius, utque
+  exilium saevo distet ab hoste meum,
+quamque dedere mihi praesentia numina vitam,
+  non adimat stricto squalidus ense Getes,
+denique, si moriar, subeam pacatius arvum,
+  ossa nec a Scythica nostra premantur humo,
+nec male compositos, ut scilicet exule dignum,
+  Bistonii cineres ungula pulset equi,
+et ne, si superest aliquis post funera sensus,
+  terreat et Manes Sarmatis umbra meos.
+```
+```
+Caesaris haec animum poterant audita movere,
+  Maxime, movissent si tamen ante tuum.
+```
+```
+vox, precor, Augustas pro me tua molliat aures,
+  auxilio trepidis quae solet esse reis,
+adsuetaque tibi doctae dulcedine linguae
+  aequandi superis pectora flecte viri.
+```
+```
+non tibi Theromedon crudusque rogabitur Atreus,
+  quique suis homines pabula fecit equis,
+sed piger ad poenas princeps, ad praemia velox,
+  quique dolet, quotiens cogitur esse ferox,
+qui vicit semper, victis ut parcere posset,
+  clausit et aeterna civica bella sera,
+multa metu poenae, poena qui pauca coercet,
+  et iacit invita fulmina rara manu.
+```
+```
+ergo tam placidas orator missus ad aures,
+  ut propior patriae sit fuga nostra, roga.
+```
+```
+ille ego sum, qui te colui, quem festa solebat
+  inter convivas mensa videre tuos,
+ille ego, qui duxi vestros Hymenaeon ad ignes
+  et cecini fausto carmina digna toro,
+cuius te solitum memini laudare libellos
+  exceptis domino qui nocuere suo,
+cui tua nonnumquam miranti scripta legebas,
+  ille ego, de vestra cui data nupta domo est.
+```
+```
+hanc probat et primo dilectam semper ab aevo
+  est inter comites Marcia censa suas,
+inque suis habuit matertera Caesaris ante.
+```
+```
+  quarum iudicio si qua probata, proba est:
+```
+```
+ipsa sua melior fama laudantibus istis
+  Claudia divina non eguisset ope.
+```
+```
+nos quoque praeteritos sine labe peregimus annos;
+  proxima pars vitae transilienda meae.
+```
+```
+sed, de me ut sileam, coniunx mea sarcina vestra est:
+  non potes hanc salva dissimulare fide.
+```
+```
+confugit haec ad vos, vestras amplectitur aras
+  (iure venit cultos ad sibi quisque deos),
+flensque rogat, precibus lenito Caesare vestris
+  busta sui fiant ut propiora viri.
 ```
