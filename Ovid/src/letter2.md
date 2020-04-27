@@ -337,24 +337,27 @@ noluit, ut poterat, minimo me perdere nutu:
   nil opus est ullis in mea fata Getis.
 ```
 
-- He did not wish to, as he was able to, 
-
-When he could have done so, he did not want to destroy me by the slightest nod
-of his head: there is no need of any Geta for the purpose of my death.
+- *opus est* a construction meaning 'it is beneficial'.
+- He did not wish to ruin me with the smallest nod, although he was able to:
+  It is not beneficial for any Geta in my fate.
 
 ```
 sed neque, cur morerer, quicquam mihi comperit actum,
   et minus infestus, quam fuit, esse potest.
 ```
 
-But also he does not know of any act of mine that would
-justify my death, and it is possible that he is less furious against me than he
-has been in the past.
+- EHHHHHHHHHHHH.
+- But nor did he learn of any act from me on account of which I should die, and
+  he can be less hostile than he had been.
 
 ```
 tunc quoque nil fecit, nisi quod facere ipse coegi; 95
   paene etiam merito parcior ira meo est.
 ```
+
+- More EHHHHH.
+- Even then he did not do it, except what I myself compelled him to do; and also
+  his anger is nearly more restrained than having been earned by me.
 
 ```
 di faciant igitur, quorum iustissimus ipse est,
