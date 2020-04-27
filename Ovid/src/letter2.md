@@ -266,6 +266,12 @@ nescit enim Caesar, quamvis deus omnia norit,
 magna tenent illud numen molimina rerum:
   haec est caelesti pectore cura minor.
 ```
+
+- TODO
+
+Great undertakings occupy his divine mind: this concern is too small to be of
+interest to his heavenly soul.
+
 ```
 nec vacat, in qua sint positi regione Tomitae, 75
   quaerere (finitimo vix loca nota Getae),
@@ -277,19 +283,19 @@ quaeque aliae gentes, ubi frigore constitit Hister,
 
 - *in...Tomitae* indirect question.
 - *Getae* has to be nominative, but *loca* doesn't match case, and therefore it
-  accusative. Implicit *sunt* fitting with *nota*.
+  accusative. Implicit *sunt* fitting with *nota*. NO! *Geta, Getae*. TOFIX.
 - Weird translation of *nota* as 'become acquainted with'.
 - *culta* in apposition to *Taurica terra*, *oresteae deae* dative of agent b/c
   of *culta* p.p.p. Also reduplicate *faciant*.
 - Why is it *quaeque* not *quidque*? Theory: *quid* is implied by wanting
   a tricolon structure, *quae* instead is relative leading into the *ubi* clause
-  and *dura...equo* explaination.
+  and *dura...equo* explaination. Confirmed.
 - The Hister is the latin name for the (lower) Danube, huge European river.
-- Nor is he idle to ask in which region the people of Tomis were placed (the
+- Nor is he idle to ask in which region the peoples of Tomis were placed (the
   Getae hardly were acquainted with the places), or what the Sauromatae are 
   doing, what the bitter Iazyges and the Taurician land, having been cultivated
-  by the Orestean gods are doing, and what the other tribes who, when the Hister
-  halted because of the frost, travel with a swift horse through the hard back
+  by the Orestean gods, are doing, and what the other tribes who, when the Hister
+  halted because of the frost, travel with a swift horse through the hard backs
   of the river.
 
 ```
@@ -318,6 +324,7 @@ ira viri mitis non me misisset in istam,
   si satis haec illi nota fuisset humus.
 ```
 
+- Start here April 28.
 - Notice *istam*, negative emphasis.
 - Conditional with pluperfect subjunctive, means past contrary-to-fact.
 - The anger of the mild man would not have sent me into that, if this land had
