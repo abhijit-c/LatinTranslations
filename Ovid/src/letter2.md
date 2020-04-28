@@ -338,6 +338,8 @@ nec me nec quemquam Romanum gaudet ab hoste
 - Ehhh these *nec*'s are weird.
 - Neither is he glad that I nor any Roman is being seized by the enemy (and me
   less, to whom he himself gave life).
+- he is glad that neither I nor any Roman is being seized by the enemy (and me
+  less, to whom he himself gave life).
 
 ```
 noluit, ut poterat, minimo me perdere nutu:
@@ -370,37 +372,75 @@ tunc quoque nil fecit, nisi quod facere ipse coegi; 95
 di faciant igitur, quorum iustissimus ipse est,
   alma nihil maius Caesare terra ferat,
 utque diu sub eo, sic sit sub Caesare semper,
-  perque manus huius tradita gentis eat.
+  perque manus huius tradita gentis eat. 100
 ```
+
+- WEIRD
+- *facio* can take subjunctive.
+- therefore let the gods, of whom he himself is most just, make it that the
+  nourishing ground does not bring a thing greater than Caesar, and that as it
+  is under him for a long time, thus it may be under Caesar always, and that
+  it walks through the hands of this clan, having been handed over.
+
+
 ```
 at tu tam placido, quam nos quoque sensimus illum,
   iudice pro lacrimis ora resolve meis.
 ```
+
+- TODO
+
+But you, given that he is such a mild judge as I, too, have experienced, open
+your mouth on behalf of your weeping friend.
+
 ```
 non petito bene sit, sed uti male tutius, utque
   exilium saevo distet ab hoste meum,
-quamque dedere mihi praesentia numina vitam,
+quamque dedere mihi praesentia numina vitam, 105
   non adimat stricto squalidus ense Getes,
 denique, si moriar, subeam pacatius arvum,
   ossa nec a Scythica nostra premantur humo,
 nec male compositos, ut scilicet exule dignum,
-  Bistonii cineres ungula pulset equi,
+  Bistonii cineres ungula pulset equi, 110
 et ne, si superest aliquis post funera sensus,
   terreat et Manes Sarmatis umbra meos.
 ```
+
+- TODO: Start here April 29
+
+- don't seek that it is well, but that I am not well safely, and that my exile
+  is distant from a savage enemy, and no squalid Geta
+
+Do not ask that I may be happy, but that I may feel distressed in greater
+safety, and that my place of exile may be distant from the savage enemy, and
+that no squalid Geta may take away by his drawn sword the life which the
+manifest deities have granted me, and finally ask that, if I die, I may be
+buried in a more peaceful soil, and that my bones may not be pressed down by the
+Scythian ground, and that the hoof of the Bistonian horse may not trample upon
+my ashes, ill-buried (as is, of course, worthy of an exile), and that—if there
+remains any bit of consciousness after death—a Sarmatian shadow may not terrify
+my ghost.
+
 ```
 Caesaris haec animum poterant audita movere,
   Maxime, movissent si tamen ante tuum.
 ```
+
+- these things having been heard were able to move the mind of Caesar,
+  yet if they had previously moved your (mind), Maxmimus,
+
+Once heard, these things would have the power to move the mind of Caesar if
+only, Maximus, they had moved your mind before.
+
 ```
-vox, precor, Augustas pro me tua molliat aures,
+vox, precor, Augustas pro me tua molliat aures, 115
   auxilio trepidis quae solet esse reis,
 adsuetaque tibi doctae dulcedine linguae
   aequandi superis pectora flecte viri.
 ```
 ```
 non tibi Theromedon crudusque rogabitur Atreus,
-  quique suis homines pabula fecit equis,
+  quique suis homines pabula fecit equis, 120
 sed piger ad poenas princeps, ad praemia velox,
   quique dolet, quotiens cogitur esse ferox,
 qui vicit semper, victis ut parcere posset,
