@@ -336,8 +336,6 @@ nec me nec quemquam Romanum gaudet ab hoste
 ```
 
 - Ehhh these *nec*'s are weird.
-- Neither is he glad that I nor any Roman is being seized by the enemy (and me
-  less, to whom he himself gave life).
 - he is glad that neither I nor any Roman is being seized by the enemy (and me
   less, to whom he himself gave life).
 
@@ -408,18 +406,21 @@ et ne, si superest aliquis post funera sensus,
 
 - TODO: Start here April 29
 
+- *subeo* is intransitive, but why does *pacatius arvum* totally smack of direct
+  object?
+- *dignum* takes ablative in the form of *exule*.
+- Interesting point of deviation, Tissol has *aliquid* and *Gaertner* as
+  aliquis.
+- Why is *funera* plural?
+- Note sure about *et* in last line.
 - don't seek that it is well, but that I am not well safely, and that my exile
-  is distant from a savage enemy, and no squalid Geta
-
-Do not ask that I may be happy, but that I may feel distressed in greater
-safety, and that my place of exile may be distant from the savage enemy, and
-that no squalid Geta may take away by his drawn sword the life which the
-manifest deities have granted me, and finally ask that, if I die, I may be
-buried in a more peaceful soil, and that my bones may not be pressed down by the
-Scythian ground, and that the hoof of the Bistonian horse may not trample upon
-my ashes, ill-buried (as is, of course, worthy of an exile), and that—if there
-remains any bit of consciousness after death—a Sarmatian shadow may not terrify
-my ghost.
+  is distant from a savage enemy, and the life which the present divinities gave
+  to me, no squalid Geta may take away with it's drawn sword, finally, if I die,
+  I may sink into the more peaceful soil, and that our bones may not be pressed
+  in the Scythian ground, and that having been badly buried, as certainly
+  worthy of an exile, the hoof of a Bithinian horse do not strike my ashes, and
+  that, if any feeling survives after my funerals, A Samartian shade and ghosts
+  may not terrify me.
 
 ```
 Caesaris haec animum poterant audita movere,
@@ -438,6 +439,12 @@ vox, precor, Augustas pro me tua molliat aures, 115
 adsuetaque tibi doctae dulcedine linguae
   aequandi superis pectora flecte viri.
 ```
+
+- *aequandi* gerundive, *flecte* present imperative.
+- I beg, let your voice soften Augustas' ears for me, which is accustomed to be
+  help for nervous plaintiffs, and bend with the accustomed sweetness of your
+  learned speech the breast of the man comparing to those above.
+
 ```
 non tibi Theromedon crudusque rogabitur Atreus,
   quique suis homines pabula fecit equis, 120
@@ -445,9 +452,20 @@ sed piger ad poenas princeps, ad praemia velox,
   quique dolet, quotiens cogitur esse ferox,
 qui vicit semper, victis ut parcere posset,
   clausit et aeterna civica bella sera,
-multa metu poenae, poena qui pauca coercet,
+multa metu poenae, poena qui pauca coercet, 125
   et iacit invita fulmina rara manu.
 ```
+
+- *parcere* takes a dative.
+- Scansion confirms 126, DSDD.
+- You will not be asked for Theromedon and cruel Atreus,
+- Theromedon and cruel Atreus will not be asked for you, and the men who made
+  fodder for his own horses, but the princeps slow to penalty, swift to reward,
+  and who hurts, as often as he is compelled to be cruel, who always conquered,
+  in order to be able to spare those conquered, and closed civil wars with an
+  eternal bar, he coerces many things with the fear of penalty, few things with
+  penalty, and throws few thunderbolts with a reluctant hand.
+
 ```
 ergo tam placidas orator missus ad aures,
   ut propior patriae sit fuga nostra, roga.
