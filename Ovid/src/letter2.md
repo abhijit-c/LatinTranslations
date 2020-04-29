@@ -420,7 +420,9 @@ et ne, si superest aliquis post funera sensus,
   in the Scythian ground, and that having been badly buried, as certainly
   worthy of an exile, the hoof of a Bithinian horse do not strike my ashes, and
   that, if any feeling survives after my funerals, A Samartian shade and ghosts
-  may not terrify me.
+  may not terrify my family.
+
+  may not the shadow of Sarmatia also terrify my spirit
 
 ```
 Caesaris haec animum poterant audita movere,
@@ -429,9 +431,6 @@ Caesaris haec animum poterant audita movere,
 
 - these things having been heard were able to move the mind of Caesar,
   yet if they had previously moved your (mind), Maxmimus,
-
-Once heard, these things would have the power to move the mind of Caesar if
-only, Maximus, they had moved your mind before.
 
 ```
 vox, precor, Augustas pro me tua molliat aures, 115
@@ -443,7 +442,7 @@ adsuetaque tibi doctae dulcedine linguae
 - *aequandi* gerundive, *flecte* present imperative.
 - I beg, let your voice soften Augustas' ears for me, which is accustomed to be
   help for nervous plaintiffs, and bend with the accustomed sweetness of your
-  learned speech the breast of the man comparing to those above.
+  learned speech the breasts of the man comparing with those above.
 
 ```
 non tibi Theromedon crudusque rogabitur Atreus,
@@ -458,9 +457,8 @@ multa metu poenae, poena qui pauca coercet, 125
 
 - *parcere* takes a dative.
 - Scansion confirms 126, DSDD.
-- You will not be asked for Theromedon and cruel Atreus,
-- Theromedon and cruel Atreus will not be asked for you, and the men who made
-  fodder for his own horses, but the princeps slow to penalty, swift to reward,
+- Theromedon and cruel Atreus will not be asked for you, and he who made
+  men fodder for his own horses, but the princeps slow to penalty, swift to reward,
   and who hurts, as often as he is compelled to be cruel, who always conquered,
   in order to be able to spare those conquered, and closed civil wars with an
   eternal bar, he coerces many things with the fear of penalty, few things with
