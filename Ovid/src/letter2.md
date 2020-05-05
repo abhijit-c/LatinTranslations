@@ -492,7 +492,7 @@ cui tua nonnumquam miranti scripta legebas, 135
   see among your guests, I am that person, who lead Hymenaeos to your fire and
   sang songs worthy of your favorable union, the books of whose I remember that
   you were accustomed to praise with the exception of those which harmed his own
-  master, for which **marveling person** you sometimes read your writings, I am
+  master, to whom sometimes marveling the writings you read, I am
   that person, to whom a bride from your house was given.
 
 ```
