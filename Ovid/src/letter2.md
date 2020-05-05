@@ -468,39 +468,86 @@ multa metu poenae, poena qui pauca coercet, 125
 ergo tam placidas orator missus ad aures,
   ut propior patriae sit fuga nostra, roga.
 ```
+
+- *fuga* as 'place of exile'.
+- *ut* introducing an indirect command.
+- Therefore, as an envoy having been sent to so gentle ears, ask that our place
+  of exile is nearer to the homeland.
+
 ```
 ille ego sum, qui te colui, quem festa solebat
-  inter convivas mensa videre tuos,
+  inter convivas mensa videre tuos, 130
 ille ego, qui duxi vestros Hymenaeon ad ignes
   et cecini fausto carmina digna toro,
 cuius te solitum memini laudare libellos
   exceptis domino qui nocuere suo,
-cui tua nonnumquam miranti scripta legebas,
+cui tua nonnumquam miranti scripta legebas, 135
   ille ego, de vestra cui data nupta domo est.
 ```
+
+- Tissol translates *toro* as 'union'.
+- *nocuere* takes dative, here *suo domino*.
+- How to do *miranti*.
+- I am that person, who worshipped you, whom the festive table was accustomed to
+  see among your guests, I am that person, who lead Hymenaeos to your fire and
+  sang songs worthy of your favorable union, the books of whose I remember that
+  you were accustomed to praise with the exception of those which harmed his own
+  master, for which **marveling person** you sometimes read your writings, I am
+  that person, to whom a bride from your house was given.
+
 ```
 hanc probat et primo dilectam semper ab aevo
   est inter comites Marcia censa suas,
 inque suis habuit matertera Caesaris ante.
 ```
+
+- Marcia aproves of this woman and from the first time counts her, always having
+  been loved, among her own friends, and the maternal aunt of Caesar previously
+  held her in their own (friends).
+
 ```
-  quarum iudicio si qua probata, proba est:
+  quarum iudicio si qua probata, proba est: 140
 ```
+
+- by the judgement of whose if any woman is approved, she is good.
+
 ```
 ipsa sua melior fama laudantibus istis
   Claudia divina non eguisset ope.
 ```
+
+- Independent usage, potential subjunctive due to the *non*.
+- Claudia herself, better than her own fame, whadn'tould not have needed divine power
+  with those women reccomending.
+
 ```
 nos quoque praeteritos sine labe peregimus annos;
   proxima pars vitae transilienda meae.
 ```
+
+- *trasilienda* turned into passive periphrastic. Gaertner explains that this
+  ought to mean 'to pass over (in argument, discususion) without attention'.
+- I likewise finished my passed by years without a stain; the nearest part of my
+  life ought to be passed over.
+
 ```
-sed, de me ut sileam, coniunx mea sarcina vestra est:
+sed, de me ut sileam, coniunx mea sarcina vestra est: 145
   non potes hanc salva dissimulare fide.
 ```
+
+- Tissol: *sarcina* as 'burden'.
+- But, to be silent concerning myself, My wife is your all burden: you are not
+  able to conceal this with unharmed faith.
+
 ```
 confugit haec ad vos, vestras amplectitur aras
   (iure venit cultos ad sibi quisque deos),
 flensque rogat, precibus lenito Caesare vestris
-  busta sui fiant ut propiora viri.
+  busta sui fiant ut propiora viri. 150
 ```
+
+- Tissol calls *sibi* dative of agent, which is trange.
+- This woman flees to you all, surrounds your altars (justly each person comes
+  to the gods having been worshipped by themselves), and, crying, she asks,
+  that, with Caesar having been alleviated by your prayers, the tombs of her own
+  husband is made nearer.
