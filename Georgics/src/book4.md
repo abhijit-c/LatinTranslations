@@ -1985,7 +1985,7 @@ a stop.
 - All p.p.p's as perfect passive indicatives.
 
       In that place all his labor was poured away and the contract of the cruel
-      tyrant was broken, and a noise was heard three time by the pools of
+      tyrant was broken, and a noise was heard three times by the pools of
       Avernus.
 
 | *illa quis et me' inquit 'miseram et te perdidit, Orpheu,*
@@ -2004,7 +2004,7 @@ a stop.
 | *invalidasque tibi tendens, heu non tua, palmas.'*
 
       And now farewell: I am brought back, having been surrounded by vast night
-      and streching my infirm hands to you, Alas I am not yours.
+      and streching my infirm hands to you, Alas I am not yours.'
 
 | *dixit et ex oculis subito, ceu fumus in auras*
 | *commixtus tenuis, fugit diversa, neque illum* 500
@@ -2012,14 +2012,30 @@ a stop.
 | *dicere praeterea vidit; nec portitor Orci*
 | *amplius obiectam passus transire paludem.*
 
+- *dixit* from *dico, dicere, dixi, dictus* is 3rd singular perfect active
+  indicative, meaning to say.
+
+      She said and suddenly she, as smoke having been mingled into thin
+      breezes, fled away from his eyes, neither did that man, in vain clutching
+      the shadows and wishing to say many things, thereafter see her; nor did
+      the ferry man of Orcus allow him to go over the swamp, having been put as
+      protection, any more.
+
+She spoke, and straightway from his sight, like smoke mingling with thin air,
+vanished afar and saw him not again, as he vainly clutched at the shadows with
+so much left unsaid; nor did the ferryman of Orcus suffer him again to pass the
+barrier of the marsh.
+
 | *quid faceret? quo se rapta bis coniuge ferret?*
 | *quo fletu manis, quae numina voce moveret?* 505
-| *illa quidem Stygia nabat iam frigida cumba.*
 
       What might he do? Whither he, twice having been snatched from his wife,
       might bring? With what crying might move the underworld, he could move
-      what gods with his voice? That women indeed, now cold, was floating in the
-      Stygian boat.
+      what gods with his voice? 
+
+| *illa quidem Stygia nabat iam frigida cumba.*
+
+      That women indeed, now cold, was floating in the Stygian boat.
 
 
 | *septem illum totos perhibent ex ordine mensis*

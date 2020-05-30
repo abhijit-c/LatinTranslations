@@ -55,8 +55,6 @@ prepositions : ad: to THE DOOR; post: behind THE TREE.
 
 # Ablative
 
-prepositions : ab, de, cum, ex, in.
-
 separation : that man is WITHOUT THE SENSE of a wart hog.
 
 attendant circumstances : WITH ENOUGH MONEY, I fear nothing.

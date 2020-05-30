@@ -517,8 +517,8 @@ ipsa sua melior fama laudantibus istis
 ```
 
 - Independent usage, potential subjunctive due to the *non*.
-- Claudia herself, better than her own fame, whadn'tould not have needed divine power
-  with those women reccomending.
+- Claudia herself, better than her own fame, wouldn't have had needed divine
+  power with those women reccomending.
 
 ```
 nos quoque praeteritos sine labe peregimus annos;
